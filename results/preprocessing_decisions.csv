@@ -1,0 +1,6 @@
+Phát hiện,Rủi ro,Quyết định,Kiểm chứng
+Nhãn thô không đồng nhất,Tách sai lớp,"Chuẩn hóa snake_case, sửa Cerscospora",raw_manifest.csv
+Ít lá Healthy gốc trong JMuBEN,Khó tạo đủ nhóm lá cho cả ba tập,"Thay bằng RoCoLe coffee___healthy (gộp mã lá C<x>P<y>), ghi rõ domain shift",data_audit.json
+"Ảnh gần trùng do dịch chuyển, thu phóng hoặc làm mờ",pHash có thể bỏ sót ảnh gần trùng,Gộp 2 tầng: pHash + frozen CNN cosine >= 0.85,group_audit.csv
+Ít nhóm cercospora,Kết quả từ một lần chia dễ dao động,5-Fold StratifiedGroupKFold CV (mean ± std + OOF toàn bộ nhóm),cv_fold_results.csv
+Số nhóm lá dùng để học còn hạn chế,Mô hình dễ quá khớp,CosineAnnealingLR + label_smoothing=0.05 + weight_decay=1e-3 + RandomErasing,learning_curves.png

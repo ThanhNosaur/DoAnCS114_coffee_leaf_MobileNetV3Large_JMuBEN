@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env*
+kaggle.json
+*.pt
+*.pth
+results/deploy/*.ts
+*.zip

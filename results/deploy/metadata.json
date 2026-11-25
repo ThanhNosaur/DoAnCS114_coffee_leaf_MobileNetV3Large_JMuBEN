@@ -1,0 +1,26 @@
+{
+  "architecture": "mobilenet_v3_large",
+  "classes": [
+    "cercospora",
+    "healthy",
+    "leaf_rust",
+    "miner",
+    "phoma"
+  ],
+  "resize": 232,
+  "crop": 224,
+  "mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "std": [
+    0.229,
+    0.224,
+    0.225
+  ],
+  "weights": "best.pt (fold 0)",
+  "input": "RGB with EXIF orientation corrected",
+  "interpolation": "bilinear",
+  "antialias": true
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ngtunthanh/mobilenetv3large-jmuben",
+  "title": "MobileNetV3Large JMuBEN",
+  "code_file": "mobilenetv3large_jmuben.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "false",
+  "dataset_sources": [
+    "noamaanabdulazeem/jmuben-coffee-dataset",
+    "nirmalsankalana/rocole-a-robusta-coffee-leaf-images-dataset",
+    "ngtunthanh/mobilenetv3-large-imagenet-weights"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

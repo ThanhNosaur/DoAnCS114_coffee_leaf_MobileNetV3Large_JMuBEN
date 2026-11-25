@@ -1,0 +1,6 @@
+,train_count,loss_weight
+cercospora,67,3.444776
+healthy,467,0.4942184
+leaf_rust,225,1.0257778
+miner,263,0.8775665
+phoma,132,1.7484848
