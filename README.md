@@ -1,4 +1,4 @@
-﻿# Chẩn đoán 4 bệnh lá cà phê Arabica — MobileNetV3Large trên JMuBEN (v6: Thuần JMuBEN, 5-Fold CV + 8-View TTA)
+# Chẩn đoán 4 bệnh lá cà phê Arabica — MobileNetV3Large trên JMuBEN (v6: Thuần JMuBEN, 5-Fold CV + 8-View TTA)
 
 Huấn luyện trên Kaggle (Tesla T4) bằng [kaggle/mobilenetv3large_jmuben.ipynb](kaggle/mobilenetv3large_jmuben.ipynb), fine-tune MobileNetV3Large (ImageNet1K V2), 5-Fold StratifiedGroupKFold Cross-Validation + 8-View Dihedral TTA, seed 42, ảnh 224x224.
 
