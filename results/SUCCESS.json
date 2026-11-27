@@ -1,6 +1,6 @@
 {
   "status": "complete",
-  "pipeline": "pure-jmuben-4cls-5fold-tta-v6",
+  "pipeline": "pure-jmuben-4cls-5fold-tta",
   "metrics": {
     "n_splits": 5,
     "classes": [

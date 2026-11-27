@@ -1,4 +1,4 @@
-# Kết quả MobileNetV3Large trên JMuBEN (4 lớp bệnh thuần, 0% Domain Shift, 5-Fold CV + 8-View TTA — v6)
+# Kết quả MobileNetV3Large trên JMuBEN (4 lớp bệnh thuần, 0% Domain Shift, 5-Fold CV + 8-View TTA)
 
 - Dữ liệu JMuBEN thô: 58,549 ảnh (loại 18,983 ảnh Healthy vì chỉ có 2 lá gốc) → 1,347 sau pHash → **212 nhóm lá bệnh độc lập** (0 nhóm xung đột nhãn).
 - **5-Fold CV (Single-View, mean ± std):** Accuracy `0.9392 ± 0.0358` | Macro-F1 `0.9262 ± 0.0478`.

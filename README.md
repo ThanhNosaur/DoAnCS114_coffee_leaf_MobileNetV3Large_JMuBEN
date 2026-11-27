@@ -1,8 +1,8 @@
-# Chẩn đoán 4 bệnh lá cà phê Arabica — MobileNetV3Large trên JMuBEN (v6: Thuần JMuBEN, 5-Fold CV + 8-View TTA)
+# Chẩn đoán 4 bệnh lá cà phê Arabica — MobileNetV3Large trên JMuBEN (5-Fold CV + 8-View TTA)
 
 Huấn luyện trên Kaggle (Tesla T4) bằng [kaggle/mobilenetv3large_jmuben.ipynb](kaggle/mobilenetv3large_jmuben.ipynb), fine-tune MobileNetV3Large (ImageNet1K V2), 5-Fold StratifiedGroupKFold Cross-Validation + 8-View Dihedral TTA, seed 42, ảnh 224x224.
 
-## 1. Quy trình khoa học & kỹ thuật (v6)
+## 1. Quy trình khoa học & kỹ thuật
 1. **Thuần 1 nguồn dữ liệu JMuBEN (0% Domain Shift):**
    - Kiểm toán toàn bộ 58,549 ảnh thô phát hiện **18,983 ảnh `JMuBEN/Healthy`** sau lọc pHash chỉ còn 15 ảnh và thực chất sinh ra từ **đúng 2 lá gốc duy nhất** (xem bằng chứng trực quan [results/healthy_2leaf_evidence.png](results/healthy_2leaf_evidence.png)).
    - Loại `Healthy` khỏi benchmark (không trộn nguồn ảnh thực địa bên ngoài như RoCoLe để tránh shortcut learning / 100% ảo do khác nền ảnh), tập trung đánh giá trung thực bài toán **phân loại 4 bệnh lá cà phê**: `cercospora`, `leaf_rust`, `miner`, `phoma`.
@@ -43,6 +43,6 @@ Huấn luyện trên Kaggle (Tesla T4) bằng [kaggle/mobilenetv3large_jmuben.ip
 - Chưa đo latency trên thiết bị di động.
 
 ## 4. Nội dung repo
-- `kaggle/`: notebook v6 ([mobilenetv3large_jmuben.ipynb](kaggle/mobilenetv3large_jmuben.ipynb)) và `kernel-metadata.json`.
+- `kaggle/`: notebook ([mobilenetv3large_jmuben.ipynb](kaggle/mobilenetv3large_jmuben.ipynb)) và `kernel-metadata.json`.
 - `results/`: [RESULTS.md](results/RESULTS.md), `cv_fold_results.csv`, `metrics.json`, `data_audit.json`, `classification_report.csv`, `healthy_2leaf_evidence.png`, `cross_split_nearest_pairs.png`, `confusion_matrix.png`, `learning_curves.png`, `gradcam.png`, `misclassified.png`, `kaggle_run.log`.
-- Checkpoint `best.pt`, TorchScript `.ts` và `report_assets.zip` không đưa lên repo (file lớn); lấy từ output của Kaggle kernel `ngtunthanh/mobilenetv3large-jmuben` (version 7).
+- Checkpoint `best.pt`, TorchScript `.ts` và `report_assets.zip` không đưa lên repo (file lớn); lấy từ output của Kaggle kernel `ngtunthanh/mobilenetv3large-jmuben`.
