@@ -75,20 +75,6 @@ Mô hình nhầm nhiều nhất từ `miner` sang `phoma` với 7/50 nhóm Miner
 
 Biểu đồ huấn luyện hiển thị từng fold và đường trung bình tại các epoch mà cả năm fold đã hoàn tất. Grad-CAM minh họa vùng ảnh ảnh hưởng đến điểm của lớp được dự đoán trên một số ảnh test ở fold 0. [Đường học](results/learning_curves.png) · [Grad-CAM](results/gradcam.png)
 
-## 5. Chạy lại trên Kaggle
-
-1. Mở [notebook](kaggle/mobilenetv3large_jmuben.ipynb) trong Kaggle, chọn GPU T4 và tắt Internet.
-2. Gắn ba nguồn dữ liệu trong [kernel-metadata.json](kaggle/kernel-metadata.json) gồm JMuBEN, RoCoLe và bộ trọng số MobileNetV3Large ImageNet. Notebook kiểm tra checksum của trọng số trước khi dùng.
-3. Chọn **Run All** hoặc **Save Version → Save & Run All**. Kết quả ghi vào `/kaggle/working/results/`. File `SUCCESS.json` được ghi sau khi pipeline kết thúc.
-
-Nếu tài khoản có quyền cập nhật notebook được cấu hình trong metadata, có thể chạy bằng Kaggle CLI từ thư mục gốc của repo.
-
-```powershell
-python -m kaggle kernels push -p kaggle --accelerator NvidiaTeslaT4 -t 14400
-```
-
-Trong [output Kaggle](https://www.kaggle.com/code/ngtunthanh/mobilenetv3large-jmuben/output) có `results/best.pt` và `results/deploy/mobilenetv3large.ts` của fold 0. TorchScript nhận tensor RGB đã tiền xử lý có kích thước `N × 3 × 224 × 224` và trả về logits cho năm lớp. Checkpoint PyTorch và TorchScript cho đầu ra khớp trong phép thử CPU trên một ảnh test của fold 0. [Thứ tự lớp và chuẩn hóa](results/deploy/metadata.json) · [Kết quả kiểm tra suy luận](results/deploy/inference_check.json)
-
 ## 6. Giới hạn
 
 - **Nguồn ảnh gắn với nhãn.** Toàn bộ ảnh khỏe đến từ RoCoLe và toàn bộ ảnh bệnh đến từ JMuBEN. Điểm Healthy hoàn hảo trên phép chia này có thể phản ánh cả sự khác biệt giữa hai bộ dữ liệu.
