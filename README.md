@@ -75,7 +75,7 @@ Mô hình nhầm nhiều nhất từ `miner` sang `phoma` với 7/50 nhóm Miner
 
 Biểu đồ huấn luyện hiển thị từng fold và đường trung bình tại các epoch mà cả năm fold đã hoàn tất. Grad-CAM minh họa vùng ảnh ảnh hưởng đến điểm của lớp được dự đoán trên một số ảnh test ở fold 0. [Đường học](results/learning_curves.png) · [Grad-CAM](results/gradcam.png)
 
-## 6. Giới hạn
+## 5. Giới hạn
 
 - **Nguồn ảnh gắn với nhãn.** Toàn bộ ảnh khỏe đến từ RoCoLe và toàn bộ ảnh bệnh đến từ JMuBEN. Điểm Healthy hoàn hảo trên phép chia này có thể phản ánh cả sự khác biệt giữa hai bộ dữ liệu.
 - **Nhóm JMuBEN được suy ra từ ảnh.** Một số cặp ở hai fold vẫn trông rất giống nhau dưới ngưỡng cosine. Tài liệu mô tả cách tăng cường ảnh nhưng thiếu ánh xạ từ từng biến thể về lá gốc, nên phép chia chưa xác nhận được tính độc lập ở cấp lá cho JMuBEN.
