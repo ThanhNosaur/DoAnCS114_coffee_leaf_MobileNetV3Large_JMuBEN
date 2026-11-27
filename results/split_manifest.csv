@@ -1,1348 +1,399 @@
-path,raw_label,label,width,height,canonical,error,phash_group,duplicate_phash,group,excluded_conflict,target,fold,is_group_rep
-Cerscospora/4 (1).jpg,Cerscospora,cercospora,83,128,1133c41dc9ce78e3,,0,False,0,False,0,1,True
-Cerscospora/4 (10).jpg,Cerscospora,cercospora,128,128,183bec0cf9c45be0,,1,False,0,False,0,1,False
-Cerscospora/4 (1000).jpg,Cerscospora,cercospora,256,120,194cec4cd44efc43,,3,False,1,False,0,1,True
-Cerscospora/4 (1001).jpg,Cerscospora,cercospora,128,128,194cfe510ff8e038,,4,False,1,False,0,1,False
-Cerscospora/4 (1002).jpg,Cerscospora,cercospora,256,99,0360d86ad86fd05f,,5,False,1,False,0,1,False
-Cerscospora/4 (1003).jpg,Cerscospora,cercospora,256,126,0c4cc67e42f441fe,,6,False,1,False,0,1,False
-Cerscospora/4 (1007).jpg,Cerscospora,cercospora,128,128,001f71e3e4ccc1eb,,10,False,2,False,0,1,True
-Cerscospora/4 (1008).jpg,Cerscospora,cercospora,128,128,002e7f439e50a37d,,11,False,3,False,0,4,True
-Cerscospora/4 (101).jpg,Cerscospora,cercospora,128,128,1c3be686cce309f0,,13,False,0,False,0,1,False
-Cerscospora/4 (1011).jpg,Cerscospora,cercospora,128,128,0a6a9198e4963bf5,,15,False,3,False,0,4,False
-Cerscospora/4 (1012).jpg,Cerscospora,cercospora,128,128,3c08cfaca6f23351,,16,False,4,False,0,4,True
-Cerscospora/4 (102).jpg,Cerscospora,cercospora,128,128,000f78e1a1f966fa,,24,False,0,False,0,1,False
-Cerscospora/4 (1027).jpg,Cerscospora,cercospora,128,128,2a4995ed1a36c93a,,32,False,5,False,0,4,True
-Cerscospora/4 (1028).jpg,Cerscospora,cercospora,128,128,295be56a9c2962e1,,33,False,6,False,0,1,True
-Cerscospora/4 (103).jpg,Cerscospora,cercospora,128,128,2d2dc9ca3a064bad,,35,False,0,False,0,1,False
-Cerscospora/4 (104).jpg,Cerscospora,cercospora,128,128,010ff1c0c7f866f8,,46,False,0,False,0,1,False
-Cerscospora/4 (1045).jpg,Cerscospora,cercospora,128,128,072e468e545b3537,,52,False,1,False,0,1,False
-Cerscospora/4 (1046).jpg,Cerscospora,cercospora,128,128,006e989c3e19dfb4,,53,False,1,False,0,1,False
-Cerscospora/4 (1047).jpg,Cerscospora,cercospora,122,256,013667964da5657a,,54,False,1,False,0,1,False
-Cerscospora/4 (1048).jpg,Cerscospora,cercospora,116,256,00c97fe309de7207,,55,False,1,False,0,1,False
-Cerscospora/4 (105).jpg,Cerscospora,cercospora,128,128,133732eda691169a,,57,False,7,False,0,2,True
-Cerscospora/4 (115).jpg,Cerscospora,cercospora,128,128,0d48f05ec1fe8768,,159,False,0,False,0,1,False
-Cerscospora/4 (116).jpg,Cerscospora,cercospora,128,128,18afbd941e282975,,160,False,0,False,0,1,False
-Cerscospora/4 (117).jpg,Cerscospora,cercospora,128,128,18a197970b293d3d,,161,False,0,False,0,1,False
-Cerscospora/4 (118).jpg,Cerscospora,cercospora,128,128,077b3e0cd41f8370,,162,False,0,False,0,1,False
-Cerscospora/4 (119).jpg,Cerscospora,cercospora,128,128,1c5ba741a8b55ab4,,163,False,0,False,0,1,False
-Cerscospora/4 (121).jpg,Cerscospora,cercospora,128,128,14a59591e9f4f4d0,,166,False,0,False,0,1,False
-Cerscospora/4 (136).jpg,Cerscospora,cercospora,128,128,0e798069bf685f81,,182,False,0,False,0,1,False
-Cerscospora/4 (137).jpg,Cerscospora,cercospora,128,128,046e15af04e86adf,,183,False,8,False,0,4,True
-Cerscospora/4 (172).jpg,Cerscospora,cercospora,128,128,0c60ea1ec3bccf25,,219,False,9,False,0,4,True
-Cerscospora/4 (173).jpg,Cerscospora,cercospora,128,128,0896f8e1c34396d7,,220,False,9,False,0,4,False
-Cerscospora/4 (184).jpg,Cerscospora,cercospora,128,128,0ffe82043db442de,,232,False,10,False,0,3,True
-Cerscospora/4 (190).jpg,Cerscospora,cercospora,128,128,0d28fb1cc3bd0b61,,239,False,9,False,0,4,False
-Cerscospora/4 (191).jpg,Cerscospora,cercospora,128,128,0997f8fce1c2c10e,,240,False,9,False,0,4,False
-Cerscospora/4 (217).jpg,Cerscospora,cercospora,128,128,0c60fe42fc1768d6,,269,False,0,False,0,1,False
-Cerscospora/4 (218).jpg,Cerscospora,cercospora,104,256,39608edde11ad41b,,270,False,11,False,0,0,True
-Cerscospora/4 (219).jpg,Cerscospora,cercospora,128,128,1c3594d494b5873b,,271,False,0,False,0,1,False
-Cerscospora/4 (220).jpg,Cerscospora,cercospora,128,128,099f7cbdf8704842,,273,False,0,False,0,1,False
-Cerscospora/4 (221).jpg,Cerscospora,cercospora,108,256,1939a709e4a7c972,,274,False,0,False,0,1,False
-Cerscospora/4 (289).jpg,Cerscospora,cercospora,128,128,167eb29dd304b894,,348,False,12,False,0,3,True
-Cerscospora/4 (290).jpg,Cerscospora,cercospora,128,128,1d4ea55aa56b0ac3,,350,False,12,False,0,3,False
-Cerscospora/4 (291).jpg,Cerscospora,cercospora,128,128,114db4aa44cfe31d,,351,False,12,False,0,3,False
-Cerscospora/4 (292).jpg,Cerscospora,cercospora,128,128,0dd2852b3d784f07,,352,False,12,False,0,3,False
-Cerscospora/4 (293).jpg,Cerscospora,cercospora,128,128,12134bc9f46d3c4d,,353,False,12,False,0,3,False
-Cerscospora/4 (294).jpg,Cerscospora,cercospora,128,128,0a1cd82db7fab484,,354,False,12,False,0,3,False
-Cerscospora/4 (334).jpg,Cerscospora,cercospora,128,128,0e4c3499e271ccb7,,399,False,13,False,0,2,True
-Cerscospora/4 (335).jpg,Cerscospora,cercospora,128,128,195bb29e64932c66,,400,False,13,False,0,2,False
-Cerscospora/4 (336).jpg,Cerscospora,cercospora,128,128,26edf2ace8d2c980,,401,False,13,False,0,2,False
-Cerscospora/4 (337).jpg,Cerscospora,cercospora,128,128,1959b3da64932c66,,400,False,13,False,0,2,False
-Cerscospora/4 (338).jpg,Cerscospora,cercospora,128,128,1b5bb6dc44936c12,,403,False,13,False,0,2,False
-Cerscospora/4 (406).jpg,Cerscospora,cercospora,128,128,003e2fe49d89c3f2,,479,False,0,False,0,1,False
-Cerscospora/4 (407).jpg,Cerscospora,cercospora,128,128,1d6772b0c0d8dca6,,480,False,0,False,0,1,False
-Cerscospora/4 (433).jpg,Cerscospora,cercospora,128,128,124147ec9dce83e3,,509,False,0,False,0,1,False
-Cerscospora/4 (434).jpg,Cerscospora,cercospora,128,128,1359e5ac0dc6a1f8,,510,False,0,False,0,1,False
-Cerscospora/4 (435).jpg,Cerscospora,cercospora,128,128,1b58e5a407e3e86c,,511,False,0,False,0,1,False
-Cerscospora/4 (478).jpg,Cerscospora,cercospora,128,128,2854ae47b6e824ed,,558,False,14,False,0,3,True
-Cerscospora/4 (479).jpg,Cerscospora,cercospora,128,128,2b55b34894ac4b6d,,559,False,14,False,0,3,False
-Cerscospora/4 (550).jpg,Cerscospora,cercospora,128,128,15322aedba806df2,,597,False,15,False,0,2,True
-Cerscospora/4 (551).jpg,Cerscospora,cercospora,128,128,094a550dba55ae75,,598,False,16,False,0,3,True
-Cerscospora/4 (552).jpg,Cerscospora,cercospora,94,256,27509a35af5aa689,,599,False,17,False,0,4,True
-Cerscospora/4 (595).jpg,Cerscospora,cercospora,128,128,0476e5393ea5295a,,637,False,12,False,0,3,False
-Cerscospora/4 (596).jpg,Cerscospora,cercospora,128,128,094ce127257b5d5a,,638,False,12,False,0,3,False
-Cerscospora/4 (597).jpg,Cerscospora,cercospora,128,128,0472e53d17a56b43,,639,False,12,False,0,3,False
-Cerscospora/4 (598).jpg,Cerscospora,cercospora,128,128,0974c76074a5a9b7,,640,False,12,False,0,3,False
-Cerscospora/4 (677).jpg,Cerscospora,cercospora,122,256,006f64a74aea57a5,,694,False,18,False,0,1,True
-Cerscospora/4 (678).jpg,Cerscospora,cercospora,113,256,006b65066aef55b9,,695,False,18,False,0,1,False
-Cerscospora/4 (679).jpg,Cerscospora,cercospora,92,256,0c615ca55beb07c5,,696,False,18,False,0,1,False
-Cerscospora/4 (680).jpg,Cerscospora,cercospora,123,256,04335c9649f957e2,,698,False,18,False,0,1,False
-Cerscospora/4 (681).jpg,Cerscospora,cercospora,128,128,024d5a67abc2a35b,,699,False,18,False,0,1,False
-Cerscospora/4 (683).jpg,Cerscospora,cercospora,128,128,10694fa954a975ec,,701,False,18,False,0,1,False
-Cerscospora/4 (684).jpg,Cerscospora,cercospora,128,128,024d5e635bf3230b,,702,False,18,False,0,1,False
-Cerscospora/4 (766).jpg,Cerscospora,cercospora,256,112,1b73c60dcb1801ef,,788,False,0,False,0,1,False
-Cerscospora/4 (767).jpg,Cerscospora,cercospora,256,125,1373c61dcb1003fe,,789,False,0,False,0,1,False
-Cerscospora/4 (768).jpg,Cerscospora,cercospora,128,128,28be813b8bd66236,,790,False,0,False,0,1,False
-Cerscospora/4 (769).jpg,Cerscospora,cercospora,128,128,01cd20f834bd176f,,791,False,19,False,0,4,True
-Cerscospora/4 (770).jpg,Cerscospora,cercospora,128,128,126757d3c8d61a2c,,793,False,0,False,0,1,False
-Cerscospora/4 (874).jpg,Cerscospora,cercospora,128,128,197ac117eae161a6,,860,False,0,False,0,1,False
-Cerscospora/4 (875).jpg,Cerscospora,cercospora,128,128,197bc017eae161a6,,860,False,0,False,0,1,False
-Cerscospora/4 (876).jpg,Cerscospora,cercospora,128,128,0b1b42d51d3ce99a,,862,False,20,False,0,2,True
-Cerscospora/4 (910).jpg,Cerscospora,cercospora,128,128,04f3fcd807955546,,901,False,3,False,0,4,False
-Cerscospora/4 (911).jpg,Cerscospora,cercospora,128,128,0009f1e13cec5d3f,,902,False,3,False,0,4,False
-Cerscospora/6 (269).jpg,Cerscospora,cercospora,128,128,2d2dc1ca3b064bad,,35,False,0,False,0,1,False
-Cerscospora/6 (556).jpg,Cerscospora,cercospora,128,128,114db4aa44ebe31d,,351,False,12,False,0,3,False
-Cerscospora/6 (599).jpg,Cerscospora,cercospora,128,128,0e4c3499e371ccb3,,399,False,13,False,0,2,False
-Cerscospora/6 (700).jpg,Cerscospora,cercospora,128,128,1b5ce5a407e3e868,,511,False,0,False,0,1,False
-Cerscospora/6 (77).jpg,Cerscospora,cercospora,128,128,04f3fcd8079d5544,,901,False,3,False,0,4,False
-Cerscospora/6 (810).jpg,Cerscospora,cercospora,128,128,00993cf8c7b70573,,638,False,12,False,0,3,False
-Cerscospora/6 (864).jpg,Cerscospora,cercospora,128,128,024d5e63dbf32309,,702,False,18,False,0,1,False
-Cerscospora/7 (1).jpg,Cerscospora,cercospora,128,128,2d2dc1ca3b460bad,,35,False,0,False,0,1,False
-Leaf rust/059eaf863cca.jpeg,Leaf rust,leaf_rust,128,128,206ac23e2f1dfe48,,7681,False,21,False,1,3,True
-Leaf rust/1 (1).jpeg,Leaf rust,leaf_rust,128,128,286ad63781bcf258,,7682,False,21,False,1,3,False
-Leaf rust/1 (1).jpg,Leaf rust,leaf_rust,128,128,080ff35d23707e19,,7683,False,22,False,1,3,True
-Leaf rust/1 (10).jpg,Leaf rust,leaf_rust,128,128,180ee7794e23447b,,7684,False,22,False,1,3,False
-Leaf rust/1 (100).jpg,Leaf rust,leaf_rust,128,128,1456999d8cd2e9a6,,7685,False,23,False,1,4,True
-Leaf rust/1 (101).jpg,Leaf rust,leaf_rust,128,128,088cf07a3f1f4353,,7686,False,24,False,1,0,True
-Leaf rust/1 (102).jpg,Leaf rust,leaf_rust,128,128,076b19b746172d68,,7687,False,24,False,1,0,False
-Leaf rust/1 (103).jpg,Leaf rust,leaf_rust,128,128,047bb1d41df8c097,,7688,False,24,False,1,0,False
-Leaf rust/1 (104).jpg,Leaf rust,leaf_rust,128,128,1807c46d1b34fa5b,,7689,False,25,False,1,3,True
-Leaf rust/1 (105).jpg,Leaf rust,leaf_rust,128,128,1868f6ef1d386342,,7690,False,24,False,1,0,False
-Leaf rust/1 (106).jpg,Leaf rust,leaf_rust,128,128,046f7ba8420f369d,,7691,False,24,False,1,0,False
-Leaf rust/1 (107).jpg,Leaf rust,leaf_rust,128,128,07661be13ab90ccd,,7692,False,24,False,1,0,False
-Leaf rust/1 (108).jpg,Leaf rust,leaf_rust,128,128,11731de8289d7786,,7693,False,24,False,1,0,False
-Leaf rust/1 (109).jpg,Leaf rust,leaf_rust,128,128,056413c33bb90d9f,,7694,False,24,False,1,0,False
-Leaf rust/1 (11).jpg,Leaf rust,leaf_rust,128,128,00322e3797d34aeb,,7683,False,22,False,1,3,False
-Leaf rust/1 (110).jpg,Leaf rust,leaf_rust,128,128,056413c339b90ddf,,7694,False,24,False,1,0,False
-Leaf rust/1 (111).jpg,Leaf rust,leaf_rust,128,128,056412c373b83d9f,,7694,False,24,False,1,0,False
-Leaf rust/1 (112).jpg,Leaf rust,leaf_rust,128,128,05641bc33bb90d9d,,7694,False,24,False,1,0,False
-Leaf rust/1 (113).jpg,Leaf rust,leaf_rust,128,128,05643ac362bb789d,,7699,False,24,False,1,0,False
-Leaf rust/1 (114).jpg,Leaf rust,leaf_rust,128,128,05663ac362bb788d,,7699,False,24,False,1,0,False
-Leaf rust/1 (115).jpg,Leaf rust,leaf_rust,128,128,05643ac363b3789d,,7699,False,24,False,1,0,False
-Leaf rust/1 (116).jpg,Leaf rust,leaf_rust,128,128,0d6d16c633f01b9c,,7702,False,24,False,1,0,False
-Leaf rust/1 (117).jpg,Leaf rust,leaf_rust,128,128,059b3a3c634d71e2,,7699,False,24,False,1,0,False
-Leaf rust/1 (118).jpg,Leaf rust,leaf_rust,128,128,05641ac370f97d8d,,7704,False,24,False,1,0,False
-Leaf rust/1 (119).jpg,Leaf rust,leaf_rust,128,128,056412c339f91d9f,,7694,False,24,False,1,0,False
-Leaf rust/1 (12).jpg,Leaf rust,leaf_rust,128,128,00332f37935a6a6b,,7683,False,22,False,1,3,False
-Leaf rust/1 (120).jpg,Leaf rust,leaf_rust,128,128,071e3665b98a41bd,,7707,False,24,False,1,0,False
-Leaf rust/1 (121).jpg,Leaf rust,leaf_rust,128,128,056c3ac76792705b,,7699,False,24,False,1,0,False
-Leaf rust/1 (122).jpg,Leaf rust,leaf_rust,128,128,151b24c3cf930f72,,7709,False,24,False,1,0,False
-Leaf rust/1 (123).jpg,Leaf rust,leaf_rust,128,128,141821e46abb5fda,,7710,False,24,False,1,0,False
-Leaf rust/1 (124).jpg,Leaf rust,leaf_rust,128,128,071f3892644b74bd,,7711,False,26,False,1,4,True
-Leaf rust/1 (125).jpg,Leaf rust,leaf_rust,128,128,110c3bf1ebd4213b,,7712,False,24,False,1,0,False
-Leaf rust/1 (126).jpg,Leaf rust,leaf_rust,128,128,04dfeb6124445f4e,,7713,False,27,False,1,0,True
-Leaf rust/1 (127).jpg,Leaf rust,leaf_rust,128,128,030e3ef264b49d63,,7714,False,24,False,1,0,False
-Leaf rust/1 (128).jpg,Leaf rust,leaf_rust,128,128,007e17e05e9730db,,7715,False,28,False,1,3,True
-Leaf rust/1 (129).jpg,Leaf rust,leaf_rust,128,128,007e07e07e877c8b,,7716,False,28,False,1,3,False
-Leaf rust/1 (13).jpg,Leaf rust,leaf_rust,128,128,180ce75b0e037a7b,,7717,False,22,False,1,3,False
-Leaf rust/1 (130).jpg,Leaf rust,leaf_rust,128,128,007f11f52bc23fc1,,7718,False,28,False,1,3,False
-Leaf rust/1 (131).jpg,Leaf rust,leaf_rust,128,128,007a3fc07c9f619c,,7719,False,28,False,1,3,False
-Leaf rust/1 (132).jpg,Leaf rust,leaf_rust,128,128,007b1fe07c87609f,,7720,False,28,False,1,3,False
-Leaf rust/1 (134).jpg,Leaf rust,leaf_rust,128,128,007e07fd0fc03ec3,,7722,False,28,False,1,3,False
-Leaf rust/1 (135).jpg,Leaf rust,leaf_rust,128,128,007f07e84f853cc7,,7716,False,28,False,1,3,False
-Leaf rust/1 (136).jpg,Leaf rust,leaf_rust,128,128,007f12f52fc13751,,7718,False,28,False,1,3,False
-Leaf rust/1 (137).jpg,Leaf rust,leaf_rust,128,128,007f0fe05f817c87,,7716,False,28,False,1,3,False
-Leaf rust/1 (138).jpg,Leaf rust,leaf_rust,128,128,007a0fe07e877c87,,7716,False,28,False,1,3,False
-Leaf rust/1 (139).jpg,Leaf rust,leaf_rust,128,128,007e07e86fc13d87,,7716,False,28,False,1,3,False
-Leaf rust/1 (14).jpg,Leaf rust,leaf_rust,128,128,00332f37d34a6a6d,,7683,False,22,False,1,3,False
-Leaf rust/1 (140).jpg,Leaf rust,leaf_rust,128,128,007f0fe05f813c8f,,7716,False,28,False,1,3,False
-Leaf rust/1 (141).jpg,Leaf rust,leaf_rust,128,128,007f07e04f913fc3,,7716,False,28,False,1,3,False
-Leaf rust/1 (142).jpg,Leaf rust,leaf_rust,128,128,007b05f52fc33e83,,7731,False,28,False,1,3,False
-Leaf rust/1 (143).jpg,Leaf rust,leaf_rust,128,128,007f81fd03d437d8,,7732,False,28,False,1,3,False
-Leaf rust/1 (144).jpg,Leaf rust,leaf_rust,128,128,00271f7f39bc9183,,7733,False,28,False,1,3,False
-Leaf rust/1 (145).jpg,Leaf rust,leaf_rust,128,128,007f05f52fc33d03,,7731,False,28,False,1,3,False
-Leaf rust/1 (146).jpg,Leaf rust,leaf_rust,128,128,007f16d43dc1bd26,,7731,False,28,False,1,3,False
-Leaf rust/1 (147).jpg,Leaf rust,leaf_rust,128,128,0085073f3d3cb9f8,,7736,False,28,False,1,3,False
-Leaf rust/1 (148).jpg,Leaf rust,leaf_rust,128,128,0001163b3dbff9d1,,7737,False,28,False,1,3,False
-Leaf rust/1 (149).jpg,Leaf rust,leaf_rust,128,128,0011163f3dbdf9c1,,7737,False,28,False,1,3,False
-Leaf rust/1 (15).jpg,Leaf rust,leaf_rust,128,128,180ce77b4e075c72,,7684,False,22,False,1,3,False
-Leaf rust/1 (150).jpg,Leaf rust,leaf_rust,128,128,007f04f53dc3bc07,,7731,False,28,False,1,3,False
-Leaf rust/1 (151).jpg,Leaf rust,leaf_rust,128,128,01311b3dbdd9c913,,7741,False,28,False,1,3,False
-Leaf rust/1 (152).jpg,Leaf rust,leaf_rust,128,128,0010123f3dbff9d1,,7737,False,28,False,1,3,False
-Leaf rust/1 (153).jpg,Leaf rust,leaf_rust,128,128,00ce13c4bd6dc1fc,,7741,False,28,False,1,3,False
-Leaf rust/1 (154).jpg,Leaf rust,leaf_rust,128,128,00d37d9c8763589d,,7744,False,28,False,1,3,False
-Leaf rust/1 (155).jpg,Leaf rust,leaf_rust,128,128,00273f7e70b0c697,,7745,False,28,False,1,3,False
-Leaf rust/1 (156).jpg,Leaf rust,leaf_rust,128,128,00332ffcc26a3ee8,,7746,False,28,False,1,3,False
-Leaf rust/1 (157).jpg,Leaf rust,leaf_rust,128,128,00273f6081cf7d79,,7747,False,28,False,1,3,False
-Leaf rust/1 (158).jpg,Leaf rust,leaf_rust,128,128,1a0ee5a3f51a6a29,,7748,False,29,False,1,4,True
-Leaf rust/1 (159).jpg,Leaf rust,leaf_rust,128,128,0b24f5327e2d545a,,7749,False,30,False,1,1,True
-Leaf rust/1 (16).jpg,Leaf rust,leaf_rust,128,128,180ce75b07737a0b,,7750,False,22,False,1,3,False
-Leaf rust/1 (160).jpg,Leaf rust,leaf_rust,128,128,107bcf899973a05c,,7751,False,31,False,1,2,True
-Leaf rust/1 (161).jpg,Leaf rust,leaf_rust,128,128,0282be7376560fcc,,7752,False,32,False,1,2,True
-Leaf rust/1 (162).jpg,Leaf rust,leaf_rust,128,128,0e79f78874a00f3a,,7753,False,32,False,1,2,False
-Leaf rust/1 (163).jpg,Leaf rust,leaf_rust,128,128,001a5527db367c6d,,7754,False,33,False,1,1,True
-Leaf rust/1 (164).jpg,Leaf rust,leaf_rust,128,128,0771396cf2bb1924,,7755,False,33,False,1,1,False
-Leaf rust/1 (165).jpg,Leaf rust,leaf_rust,128,128,0571396cf71b4964,,7756,False,33,False,1,1,False
-Leaf rust/1 (166).jpg,Leaf rust,leaf_rust,128,128,0c265993366e8c7b,,7757,False,33,False,1,1,False
-Leaf rust/1 (167).jpg,Leaf rust,leaf_rust,128,128,0c27599336689d79,,7757,False,33,False,1,1,False
-Leaf rust/1 (168).jpg,Leaf rust,leaf_rust,128,128,0e275c91336e8c79,,7759,False,33,False,1,1,False
-Leaf rust/1 (169).jpg,Leaf rust,leaf_rust,128,128,0c2559932e689d7b,,7757,False,33,False,1,1,False
-Leaf rust/1 (17).jpg,Leaf rust,leaf_rust,128,128,003323b7d34a6b3d,,7683,False,22,False,1,3,False
-Leaf rust/1 (170).jpg,Leaf rust,leaf_rust,128,128,0e275893366e9569,,7757,False,33,False,1,1,False
-Leaf rust/1 (171).jpg,Leaf rust,leaf_rust,128,128,0e375893366c9569,,7757,False,33,False,1,1,False
-Leaf rust/1 (172).jpg,Leaf rust,leaf_rust,128,128,082c5997367c897b,,7764,False,33,False,1,1,False
-Leaf rust/1 (173).jpg,Leaf rust,leaf_rust,128,128,057139e1b3096de6,,7765,False,33,False,1,1,False
-Leaf rust/1 (174).jpg,Leaf rust,leaf_rust,128,128,012853267ddb22fe,,7766,False,33,False,1,1,False
-Leaf rust/1 (175).jpg,Leaf rust,leaf_rust,128,128,12254dbbcf581933,,7764,False,33,False,1,1,False
-Leaf rust/1 (176).jpg,Leaf rust,leaf_rust,128,128,042d5b32cd5b3b26,,7768,False,33,False,1,1,False
-Leaf rust/1 (177).jpg,Leaf rust,leaf_rust,128,128,012b762479db02fe,,7769,False,33,False,1,1,False
-Leaf rust/1 (178).jpg,Leaf rust,leaf_rust,128,128,012d56247dcb267d,,7770,False,33,False,1,1,False
-Leaf rust/1 (179).jpg,Leaf rust,leaf_rust,128,128,0570ca447f063e77,,7771,False,34,False,1,3,True
-Leaf rust/1 (18).jpg,Leaf rust,leaf_rust,128,128,100ce61307f37f4b,,7772,False,22,False,1,3,False
-Leaf rust/1 (180).jpg,Leaf rust,leaf_rust,128,128,003a7f64c29b6d96,,7773,False,29,False,1,4,False
-Leaf rust/1 (181).jpg,Leaf rust,leaf_rust,128,128,0e396ce167463b62,,7774,False,35,False,1,4,True
-Leaf rust/1 (182).jpg,Leaf rust,leaf_rust,128,128,0b2e77fc70631c21,,7775,False,35,False,1,4,False
-Leaf rust/1 (183).jpg,Leaf rust,leaf_rust,128,128,0a2d76fd624b38e0,,7776,False,35,False,1,4,False
-Leaf rust/1 (184).jpg,Leaf rust,leaf_rust,128,128,0ac6641e67b9389d,,7774,False,35,False,1,4,False
-Leaf rust/1 (185).jpg,Leaf rust,leaf_rust,128,128,0a3d66f163473962,,7778,False,35,False,1,4,False
-Leaf rust/1 (186).jpg,Leaf rust,leaf_rust,128,128,04dd793a7c399314,,7779,False,36,False,1,4,True
-Leaf rust/1 (187).jpg,Leaf rust,leaf_rust,128,128,152678bb97396415,,7780,False,36,False,1,4,False
-Leaf rust/1 (188).jpg,Leaf rust,leaf_rust,128,128,023201f6bf367b0d,,7781,False,37,False,1,0,True
-Leaf rust/1 (189).jpg,Leaf rust,leaf_rust,128,128,042669fc715f2d46,,7782,False,38,False,1,2,True
-Leaf rust/1 (19).jpg,Leaf rust,leaf_rust,128,128,00d82e7bd6bd68d0,,7783,False,22,False,1,3,False
-Leaf rust/1 (190).jpg,Leaf rust,leaf_rust,128,128,042669fc78513fe4,,7784,False,39,False,1,0,True
-Leaf rust/1 (191).jpg,Leaf rust,leaf_rust,128,128,04266dfc79532dc4,,7785,False,38,False,1,2,False
-Leaf rust/1 (192).jpg,Leaf rust,leaf_rust,128,128,04226dfc79532dc6,,7785,False,38,False,1,2,False
-Leaf rust/1 (193).jpg,Leaf rust,leaf_rust,128,128,02cc25093f8f4bdb,,7787,False,38,False,1,2,False
-Leaf rust/1 (194).jpg,Leaf rust,leaf_rust,128,128,1135799c1a3bd26a,,7788,False,38,False,1,2,False
-Leaf rust/1 (195).jpg,Leaf rust,leaf_rust,128,128,033925f6377c4b24,,7789,False,38,False,1,2,False
-Leaf rust/1 (196).jpg,Leaf rust,leaf_rust,128,128,013924f7377c4936,,7790,False,38,False,1,2,False
-Leaf rust/1 (197).jpg,Leaf rust,leaf_rust,128,128,11147dd84439dbda,,7791,False,38,False,1,2,False
-Leaf rust/1 (198).jpg,Leaf rust,leaf_rust,128,128,0043168c5d6fbf17,,7792,False,36,False,1,4,False
-Leaf rust/1 (199).jpg,Leaf rust,leaf_rust,128,128,04161779dc9b6963,,7793,False,36,False,1,4,False
-Leaf rust/1 (2).jpeg,Leaf rust,leaf_rust,128,128,003f78dbc0961dbc,,7794,False,40,False,1,4,True
-Leaf rust/1 (2).jpg,Leaf rust,leaf_rust,128,128,080ff35d27107e39,,7683,False,22,False,1,3,False
-Leaf rust/1 (20).jpg,Leaf rust,leaf_rust,128,128,002f2f95d6622a3f,,7796,False,22,False,1,3,False
-Leaf rust/1 (200).jpg,Leaf rust,leaf_rust,128,128,0079168c7d2b9b3b,,7797,False,36,False,1,4,False
-Leaf rust/1 (201).jpg,Leaf rust,leaf_rust,128,128,008712686edf98f7,,7798,False,36,False,1,4,False
-Leaf rust/1 (202).jpg,Leaf rust,leaf_rust,128,128,0d4713f963da1d48,,7799,False,36,False,1,4,False
-Leaf rust/1 (203).jpg,Leaf rust,leaf_rust,128,128,01084fc3d6b7398f,,7800,False,36,False,1,4,False
-Leaf rust/1 (204).jpg,Leaf rust,leaf_rust,128,128,00f93b349fc66ce0,,7801,False,36,False,1,4,False
-Leaf rust/1 (205).jpg,Leaf rust,leaf_rust,128,128,030c33d6be724b3c,,7802,False,36,False,1,4,False
-Leaf rust/1 (206).jpg,Leaf rust,leaf_rust,128,128,030d76d6bc724b38,,7802,False,36,False,1,4,False
-Leaf rust/1 (207).jpg,Leaf rust,leaf_rust,128,128,02f236299ccd4ae7,,7802,False,36,False,1,4,False
-Leaf rust/1 (208).jpg,Leaf rust,leaf_rust,128,128,032d729c624b9ce7,,7805,False,36,False,1,4,False
-Leaf rust/1 (209).jpg,Leaf rust,leaf_rust,128,128,016b3dc1388d369f,,7806,False,40,False,1,4,False
-Leaf rust/1 (21).jpg,Leaf rust,leaf_rust,128,128,180ce61907f17f4d,,7772,False,22,False,1,3,False
-Leaf rust/1 (210).jpg,Leaf rust,leaf_rust,128,128,01403b37d2bbdcf0,,7808,False,40,False,1,4,False
-Leaf rust/1 (211).jpg,Leaf rust,leaf_rust,128,128,00660817f8bd47fe,,7809,False,40,False,1,4,False
-Leaf rust/1 (212).jpg,Leaf rust,leaf_rust,128,128,004b3fd07a8d271f,,7810,False,40,False,1,4,False
-Leaf rust/1 (213).jpg,Leaf rust,leaf_rust,128,128,10d24b11392dda7f,,7811,False,40,False,1,4,False
-Leaf rust/1 (214).jpg,Leaf rust,leaf_rust,128,128,04192cee6725397e,,7812,False,40,False,1,4,False
-Leaf rust/1 (215).jpg,Leaf rust,leaf_rust,128,128,014d6e5e27a24c7b,,7813,False,40,False,1,4,False
-Leaf rust/1 (216).jpg,Leaf rust,leaf_rust,128,128,04722c137bbc3dca,,7814,False,40,False,1,4,False
-Leaf rust/1 (217).jpg,Leaf rust,leaf_rust,128,128,013e69ad58fb261a,,7815,False,40,False,1,4,False
-Leaf rust/1 (218).jpg,Leaf rust,leaf_rust,128,128,041d6ce6676d7846,,7816,False,40,False,1,4,False
-Leaf rust/1 (219).jpg,Leaf rust,leaf_rust,128,128,013f361e66e83b58,,7817,False,40,False,1,4,False
-Leaf rust/1 (22).jpg,Leaf rust,leaf_rust,128,128,016c3987cfa53f12,,7818,False,41,False,1,1,True
-Leaf rust/1 (220).jpg,Leaf rust,leaf_rust,128,128,00373e16e6f93b48,,7819,False,40,False,1,4,False
-Leaf rust/1 (221).jpg,Leaf rust,leaf_rust,128,128,013f3e1666e83b58,,7817,False,40,False,1,4,False
-Leaf rust/1 (222).jpg,Leaf rust,leaf_rust,128,128,00c03ff317b9e46c,,7821,False,40,False,1,4,False
-Leaf rust/1 (223).jpg,Leaf rust,leaf_rust,128,128,0164291766d93d9f,,7822,False,40,False,1,4,False
-Leaf rust/1 (224).jpg,Leaf rust,leaf_rust,128,128,008d2cef62671c7d,,7814,False,40,False,1,4,False
-Leaf rust/1 (225).jpg,Leaf rust,leaf_rust,128,128,009d2cec7ae705b9,,7824,False,40,False,1,4,False
-Leaf rust/1 (226).jpg,Leaf rust,leaf_rust,128,128,01413ff4f0bcc476,,7825,False,40,False,1,4,False
-Leaf rust/1 (227).jpg,Leaf rust,leaf_rust,128,128,00620813fabdc7fe,,7809,False,40,False,1,4,False
-Leaf rust/1 (228).jpg,Leaf rust,leaf_rust,128,128,054dd113d4bd48d7,,7827,False,42,False,1,0,True
-Leaf rust/1 (229).jpg,Leaf rust,leaf_rust,128,128,05338b4d06c3fa1f,,7828,False,43,False,1,2,True
-Leaf rust/1 (23).jpg,Leaf rust,leaf_rust,128,128,077897e928cc3f42,,7829,False,40,False,1,4,False
-Leaf rust/1 (230).jpg,Leaf rust,leaf_rust,128,128,1335cc77e043c30f,,7830,False,40,False,1,4,False
-Leaf rust/1 (231).jpg,Leaf rust,leaf_rust,128,128,03d663955c7886f2,,7831,False,40,False,1,4,False
-Leaf rust/1 (232).jpg,Leaf rust,leaf_rust,128,128,1637d13d70b078c3,,7832,False,40,False,1,4,False
-Leaf rust/1 (233).jpg,Leaf rust,leaf_rust,128,128,0c6c499b334b4bae,,7833,False,40,False,1,4,False
-Leaf rust/1 (234).jpg,Leaf rust,leaf_rust,128,128,03676c0c6ce9b1cb,,7834,False,40,False,1,4,False
-Leaf rust/1 (235).jpg,Leaf rust,leaf_rust,128,128,0d6c4bbb634a26ac,,7835,False,40,False,1,4,False
-Leaf rust/1 (236).jpg,Leaf rust,leaf_rust,128,128,062dee0a1778f1c3,,7836,False,40,False,1,4,False
-Leaf rust/1 (237).jpg,Leaf rust,leaf_rust,128,128,042ed339e1a371c7,,7837,False,40,False,1,4,False
-Leaf rust/1 (238).jpg,Leaf rust,leaf_rust,128,128,1334cc3ffc85e181,,7838,False,40,False,1,4,False
-Leaf rust/1 (239).jpg,Leaf rust,leaf_rust,128,128,0d2ef672e322e688,,7839,False,40,False,1,4,False
-Leaf rust/1 (24).jpg,Leaf rust,leaf_rust,128,128,300eb2c9699c6776,,7840,False,40,False,1,4,False
-Leaf rust/1 (240).jpg,Leaf rust,leaf_rust,128,128,0939dcb863c866ec,,7841,False,40,False,1,4,False
-Leaf rust/1 (241).jpg,Leaf rust,leaf_rust,128,128,0939659c71cfa133,,7842,False,40,False,1,4,False
-Leaf rust/1 (242).jpg,Leaf rust,leaf_rust,128,128,052c579f78c53073,,7843,False,40,False,1,4,False
-Leaf rust/1 (243).jpg,Leaf rust,leaf_rust,128,128,052d669e78cd9833,,7844,False,40,False,1,4,False
-Leaf rust/1 (244).jpg,Leaf rust,leaf_rust,128,128,012d629e387ffc81,,7845,False,40,False,1,4,False
-Leaf rust/1 (245).jpg,Leaf rust,leaf_rust,128,128,045362781e8fcf1b,,7846,False,40,False,1,4,False
-Leaf rust/1 (246).jpg,Leaf rust,leaf_rust,128,128,045b6a781e8ac6d7,,7847,False,40,False,1,4,False
-Leaf rust/1 (247).jpg,Leaf rust,leaf_rust,128,128,052c629f78e5ae31,,7844,False,40,False,1,4,False
-Leaf rust/1 (248).jpg,Leaf rust,leaf_rust,128,128,052d669f38c5ac33,,7844,False,40,False,1,4,False
-Leaf rust/1 (249).jpg,Leaf rust,leaf_rust,128,128,042c629f78e53a73,,7844,False,40,False,1,4,False
-Leaf rust/1 (25).jpg,Leaf rust,leaf_rust,128,128,137296a47c70c74d,,7851,False,40,False,1,4,False
-Leaf rust/1 (250).jpg,Leaf rust,leaf_rust,128,128,052d629f38e5ac33,,7844,False,40,False,1,4,False
-Leaf rust/1 (251).jpg,Leaf rust,leaf_rust,128,128,0636799d7cf03870,,7853,False,40,False,1,4,False
-Leaf rust/1 (252).jpg,Leaf rust,leaf_rust,128,128,053c769e60e722e3,,7854,False,40,False,1,4,False
-Leaf rust/1 (253).jpg,Leaf rust,leaf_rust,128,128,0639786a52d4969f,,7855,False,40,False,1,4,False
-Leaf rust/1 (254).jpg,Leaf rust,leaf_rust,128,128,06366b977cd03878,,7853,False,40,False,1,4,False
-Leaf rust/1 (255).jpg,Leaf rust,leaf_rust,128,128,063fd97cc20ec60e,,7857,False,40,False,1,4,False
-Leaf rust/1 (256).jpg,Leaf rust,leaf_rust,128,128,063fd93ce089c68e,,7858,False,40,False,1,4,False
-Leaf rust/1 (257).jpg,Leaf rust,leaf_rust,128,128,052b4eff3ad0c071,,7859,False,40,False,1,4,False
-Leaf rust/1 (258).jpg,Leaf rust,leaf_rust,128,128,043fdb7ce00ec60e,,7857,False,40,False,1,4,False
-Leaf rust/1 (259).jpg,Leaf rust,leaf_rust,128,128,1637d93ce08bc686,,7858,False,40,False,1,4,False
-Leaf rust/1 (26).jpg,Leaf rust,leaf_rust,128,128,130dadb64743706b,,7862,False,40,False,1,4,False
-Leaf rust/1 (260).jpg,Leaf rust,leaf_rust,128,128,1335cc3ee00fc30f,,7830,False,40,False,1,4,False
-Leaf rust/1 (261).jpg,Leaf rust,leaf_rust,128,128,1335cc3fe107c30e,,7830,False,40,False,1,4,False
-Leaf rust/1 (262).jpg,Leaf rust,leaf_rust,128,128,1235c93cf08dc787,,7865,False,40,False,1,4,False
-Leaf rust/1 (263).jpg,Leaf rust,leaf_rust,128,128,0f7f2d87543c24c8,,7866,False,40,False,1,4,False
-Leaf rust/1 (264).jpg,Leaf rust,leaf_rust,128,128,041819bcaa6e3f7a,,7867,False,40,False,1,4,False
-Leaf rust/1 (265).jpg,Leaf rust,leaf_rust,128,128,135acc18cbf838c7,,7868,False,40,False,1,4,False
-Leaf rust/1 (266).jpg,Leaf rust,leaf_rust,128,128,062dee02177179c7,,7836,False,40,False,1,4,False
-Leaf rust/1 (267).jpg,Leaf rust,leaf_rust,128,128,1123778676e1b8c9,,7870,False,40,False,1,4,False
-Leaf rust/1 (268).jpg,Leaf rust,leaf_rust,128,128,066d6a1371f8c70e,,7871,False,40,False,1,4,False
-Leaf rust/1 (269).jpg,Leaf rust,leaf_rust,128,128,06696a1271f1cf8e,,7872,False,40,False,1,4,False
-Leaf rust/1 (27).jpg,Leaf rust,leaf_rust,128,128,324df0c213e6dd38,,7873,False,40,False,1,4,False
-Leaf rust/1 (270).jpg,Leaf rust,leaf_rust,128,128,1063cc8ff0c807ef,,7874,False,40,False,1,4,False
-Leaf rust/1 (271).jpg,Leaf rust,leaf_rust,128,128,0c6c6999396959ab,,7875,False,40,False,1,4,False
-Leaf rust/1 (272).jpg,Leaf rust,leaf_rust,128,128,1063cc8ff0e007ef,,7874,False,40,False,1,4,False
-Leaf rust/1 (273).jpg,Leaf rust,leaf_rust,128,128,08b59accaf5686a9,,7877,False,40,False,1,4,False
-Leaf rust/1 (274).jpg,Leaf rust,leaf_rust,128,128,1067cc8bf0c00fef,,7874,False,40,False,1,4,False
-Leaf rust/1 (275).jpg,Leaf rust,leaf_rust,128,128,105bb272aeaaa29d,,7879,False,40,False,1,4,False
-Leaf rust/1 (276).jpg,Leaf rust,leaf_rust,128,128,08b59adca5d256a9,,7880,False,40,False,1,4,False
-Leaf rust/1 (277).jpg,Leaf rust,leaf_rust,128,128,014ab273afaba455,,7879,False,40,False,1,4,False
-Leaf rust/1 (278).jpg,Leaf rust,leaf_rust,128,128,014a9273afabaa55,,7879,False,40,False,1,4,False
-Leaf rust/1 (279).jpg,Leaf rust,leaf_rust,128,128,14e5b48be4652e66,,7883,False,40,False,1,4,False
-Leaf rust/1 (28).jpg,Leaf rust,leaf_rust,128,128,2949abaea64c59b2,,7884,False,40,False,1,4,False
-Leaf rust/1 (280).jpg,Leaf rust,leaf_rust,128,128,014ab27baeaaaad4,,7879,False,40,False,1,4,False
-Leaf rust/1 (281).jpg,Leaf rust,leaf_rust,128,128,114cb258738f2bab,,7886,False,40,False,1,4,False
-Leaf rust/1 (282).jpg,Leaf rust,leaf_rust,128,128,0009f19575d55d76,,7887,False,40,False,1,4,False
-Leaf rust/1 (283).jpg,Leaf rust,leaf_rust,128,128,0219f29577d558a6,,7888,False,40,False,1,4,False
-Leaf rust/1 (284).jpg,Leaf rust,leaf_rust,128,128,114cb25872df7389,,7889,False,40,False,1,4,False
-Leaf rust/1 (285).jpg,Leaf rust,leaf_rust,128,128,020de1915d755d76,,7890,False,40,False,1,4,False
-Leaf rust/1 (286).jpg,Leaf rust,leaf_rust,128,128,041bea955b659b64,,7891,False,40,False,1,4,False
-Leaf rust/1 (287).jpg,Leaf rust,leaf_rust,128,128,133256e94bb14bd8,,7892,False,44,False,1,3,True
-Leaf rust/1 (288).jpg,Leaf rust,leaf_rust,128,128,007f0fb10a4574bf,,7893,False,40,False,1,4,False
-Leaf rust/1 (289).jpg,Leaf rust,leaf_rust,128,128,155af02b78ef0d60,,7894,False,45,False,1,2,True
-Leaf rust/1 (29).jpg,Leaf rust,leaf_rust,128,128,324df08b13e69d38,,7873,False,40,False,1,4,False
-Leaf rust/1 (290).jpg,Leaf rust,leaf_rust,128,128,0d3250ed5c302fe7,,7896,False,46,False,1,1,True
-Leaf rust/1 (291).jpg,Leaf rust,leaf_rust,128,128,13b3566948985ade,,7897,False,46,False,1,1,False
-Leaf rust/1 (292).jpg,Leaf rust,leaf_rust,128,128,0d3610eb58356ed6,,7898,False,46,False,1,1,False
-Leaf rust/1 (293).jpg,Leaf rust,leaf_rust,128,128,007f0fa11e4535af,,7899,False,46,False,1,1,False
-Leaf rust/1 (294).jpg,Leaf rust,leaf_rust,128,128,006f0db44e75b58d,,7900,False,46,False,1,1,False
-Leaf rust/1 (295).jpg,Leaf rust,leaf_rust,128,128,007d1fa11d4537ba,,7901,False,46,False,1,1,False
-Leaf rust/1 (296).jpg,Leaf rust,leaf_rust,128,128,007f0fa11e4535bd,,7899,False,46,False,1,1,False
-Leaf rust/1 (297).jpg,Leaf rust,leaf_rust,128,128,007f1fa01c4575bd,,7899,False,46,False,1,1,False
-Leaf rust/1 (298).jpg,Leaf rust,leaf_rust,128,128,00781fe21d4d673b,,7904,False,46,False,1,1,False
-Leaf rust/1 (299).jpg,Leaf rust,leaf_rust,128,128,007f1fe2b8ce5a60,,7905,False,46,False,1,1,False
-Leaf rust/1 (3).jpg,Leaf rust,leaf_rust,128,128,101dec77d92e036c,,7907,False,22,False,1,3,False
-Leaf rust/1 (30).jpg,Leaf rust,leaf_rust,128,128,2b34aa17a4b2d84f,,7908,False,40,False,1,4,False
-Leaf rust/1 (300).jpg,Leaf rust,leaf_rust,128,128,007f1ee0beca5e60,,7905,False,46,False,1,1,False
-Leaf rust/1 (301).jpg,Leaf rust,leaf_rust,128,128,00781fe31d4a2fba,,7910,False,46,False,1,1,False
-Leaf rust/1 (302).jpg,Leaf rust,leaf_rust,128,128,10e03e0d609f6fe6,,7911,False,46,False,1,1,False
-Leaf rust/1 (303).jpg,Leaf rust,leaf_rust,128,128,007e1fe2b8ce5c61,,7905,False,46,False,1,1,False
-Leaf rust/1 (304).jpg,Leaf rust,leaf_rust,128,128,014ed63956f10d73,,7913,False,47,False,1,3,True
-Leaf rust/1 (305).jpg,Leaf rust,leaf_rust,128,128,014eb67955291be6,,7914,False,47,False,1,3,False
-Leaf rust/1 (306).jpg,Leaf rust,leaf_rust,128,128,3230bdd1f88a4c6e,,7915,False,47,False,1,3,False
-Leaf rust/1 (307).jpg,Leaf rust,leaf_rust,128,128,1f5da47ea014d43a,,7916,False,47,False,1,3,False
-Leaf rust/1 (308).jpg,Leaf rust,leaf_rust,128,128,1f1bed7425318236,,7917,False,47,False,1,3,False
-Leaf rust/1 (309).jpg,Leaf rust,leaf_rust,128,128,29e29423af7a63c8,,7918,False,47,False,1,3,False
-Leaf rust/1 (31).jpg,Leaf rust,leaf_rust,128,128,2a2dbc1cada79258,,7919,False,40,False,1,4,False
-Leaf rust/1 (310).jpg,Leaf rust,leaf_rust,128,128,0f59a477e532dc80,,7920,False,47,False,1,3,False
-Leaf rust/1 (311).jpg,Leaf rust,leaf_rust,128,128,291f96e5a5403b9c,,7921,False,47,False,1,3,False
-Leaf rust/1 (312).jpg,Leaf rust,leaf_rust,128,128,291f92e4b554619d,,7922,False,47,False,1,3,False
-Leaf rust/1 (313).jpg,Leaf rust,leaf_rust,128,128,2c5d93cab595e260,,7923,False,47,False,1,3,False
-Leaf rust/1 (314).jpg,Leaf rust,leaf_rust,128,128,2815d2e5156a95cf,,7924,False,47,False,1,3,False
-Leaf rust/1 (315).jpg,Leaf rust,leaf_rust,128,128,285996c2ed95e661,,7925,False,47,False,1,3,False
-Leaf rust/1 (316).jpg,Leaf rust,leaf_rust,128,128,0fb7c4dc5d981918,,7926,False,47,False,1,3,False
-Leaf rust/1 (317).jpg,Leaf rust,leaf_rust,128,128,0f48dca258e7192f,,7927,False,47,False,1,3,False
-Leaf rust/1 (318).jpg,Leaf rust,leaf_rust,128,128,0547f339523a0fd1,,7928,False,47,False,1,3,False
-Leaf rust/1 (319).jpg,Leaf rust,leaf_rust,128,128,1f59a57287329097,,7929,False,47,False,1,3,False
-Leaf rust/1 (32).jpg,Leaf rust,leaf_rust,128,128,2a35be16a586525e,,7930,False,40,False,1,4,False
-Leaf rust/1 (320).jpg,Leaf rust,leaf_rust,128,128,054ef35952385dc3,,7931,False,47,False,1,3,False
-Leaf rust/1 (321).jpg,Leaf rust,leaf_rust,128,128,2350b4c4e8bf4567,,7932,False,47,False,1,3,False
-Leaf rust/1 (322).jpg,Leaf rust,leaf_rust,128,128,1ea4a58d0fcd80ed,,7933,False,47,False,1,3,False
-Leaf rust/1 (323).jpg,Leaf rust,leaf_rust,128,128,1e5bad64cc2f3085,,7934,False,47,False,1,3,False
-Leaf rust/1 (324).jpg,Leaf rust,leaf_rust,128,128,285d96cae5b5c261,,7935,False,47,False,1,3,False
-Leaf rust/1 (325).jpg,Leaf rust,leaf_rust,128,128,1e5b8d66d82e3a44,,7936,False,47,False,1,3,False
-Leaf rust/1 (326).jpg,Leaf rust,leaf_rust,128,128,1f4b8526d0671b66,,7936,False,47,False,1,3,False
-Leaf rust/1 (327).jpg,Leaf rust,leaf_rust,128,128,1f5b8d66d02f3244,,7936,False,47,False,1,3,False
-Leaf rust/1 (328).jpg,Leaf rust,leaf_rust,128,128,2c4d93eaf595c260,,7923,False,47,False,1,3,False
-Leaf rust/1 (329).jpg,Leaf rust,leaf_rust,128,128,0303bfcbeaa22cac,,7940,False,48,False,1,3,True
-Leaf rust/1 (33).jpg,Leaf rust,leaf_rust,128,128,180eecec4d93c3cc,,7941,False,49,False,1,2,True
-Leaf rust/1 (330).jpg,Leaf rust,leaf_rust,128,128,012b1db4313337e7,,7942,False,50,False,1,2,True
-Leaf rust/1 (331).jpg,Leaf rust,leaf_rust,128,128,000f1c746b75e9b6,,7943,False,51,False,1,4,True
-Leaf rust/1 (332).jpg,Leaf rust,leaf_rust,128,128,00634f913d9cce9e,,7944,False,52,False,1,1,True
-Leaf rust/1 (333).jpg,Leaf rust,leaf_rust,128,128,041d4f7c51fa3c16,,7945,False,52,False,1,1,False
-Leaf rust/1 (334).jpg,Leaf rust,leaf_rust,128,128,00624f9367bcea8e,,7946,False,52,False,1,1,False
-Leaf rust/1 (335).jpg,Leaf rust,leaf_rust,128,128,00cd4e17986975b7,,7947,False,52,False,1,1,False
-Leaf rust/1 (336).jpg,Leaf rust,leaf_rust,128,128,001d4f6447f83d7c,,7948,False,52,False,1,1,False
-Leaf rust/1 (337).jpg,Leaf rust,leaf_rust,128,128,01364eea989ef748,,7947,False,52,False,1,1,False
-Leaf rust/1 (338).jpg,Leaf rust,leaf_rust,128,128,02375ccab39da44b,,7950,False,52,False,1,1,False
-Leaf rust/1 (339).jpg,Leaf rust,leaf_rust,128,128,01374eea999ce44b,,7951,False,52,False,1,1,False
-Leaf rust/1 (34).jpg,Leaf rust,leaf_rust,128,128,25369ad3721f1e06,,7952,False,49,False,1,2,False
-Leaf rust/1 (340).jpg,Leaf rust,leaf_rust,128,128,137c669458cc1bab,,7953,False,52,False,1,1,False
-Leaf rust/1 (341).jpg,Leaf rust,leaf_rust,128,128,0234d882b2cd4f7f,,7954,False,52,False,1,1,False
-Leaf rust/1 (342).jpg,Leaf rust,leaf_rust,128,128,1374c698cbb3ec0a,,7955,False,52,False,1,1,False
-Leaf rust/1 (343).jpg,Leaf rust,leaf_rust,128,128,13746698cbb3e254,,7956,False,52,False,1,1,False
-Leaf rust/1 (344).jpg,Leaf rust,leaf_rust,128,128,137bf31095a942e5,,7957,False,53,False,1,4,True
-Leaf rust/1 (345).jpg,Leaf rust,leaf_rust,128,128,161b44e2caade8cb,,7958,False,53,False,1,4,False
-Leaf rust/1 (346).jpg,Leaf rust,leaf_rust,128,128,131bb351069e5cf1,,7959,False,53,False,1,4,False
-Leaf rust/1 (347).jpg,Leaf rust,leaf_rust,128,128,241ec7c0c8f9c39e,,7960,False,53,False,1,4,False
-Leaf rust/1 (348).jpg,Leaf rust,leaf_rust,128,128,131f9af141a38e4e,,7961,False,53,False,1,4,False
-Leaf rust/1 (349).jpg,Leaf rust,leaf_rust,128,128,165ce03c7288757b,,7962,False,53,False,1,4,False
-Leaf rust/1 (35).jpg,Leaf rust,leaf_rust,128,128,301adce04c3c37db,,7963,False,49,False,1,2,False
-Leaf rust/1 (350).jpg,Leaf rust,leaf_rust,128,128,131fb351029e4ef1,,7959,False,53,False,1,4,False
-Leaf rust/1 (351).jpg,Leaf rust,leaf_rust,128,128,046429f67b3472e9,,7965,False,53,False,1,4,False
-Leaf rust/1 (352).jpg,Leaf rust,leaf_rust,128,128,03e20e4d599da36e,,7966,False,53,False,1,4,False
-Leaf rust/1 (353).jpg,Leaf rust,leaf_rust,128,128,00686bf672a4f0f9,,7967,False,53,False,1,4,False
-Leaf rust/1 (354).jpg,Leaf rust,leaf_rust,128,128,130c53f9e0a6eaa5,,7968,False,53,False,1,4,False
-Leaf rust/1 (355).jpg,Leaf rust,leaf_rust,128,128,08686bf472a5f0e9,,7967,False,53,False,1,4,False
-Leaf rust/1 (356).jpg,Leaf rust,leaf_rust,128,128,130c53e9e0a6eba5,,7968,False,53,False,1,4,False
-Leaf rust/1 (357).jpg,Leaf rust,leaf_rust,128,128,046469a47b0976fb,,7971,False,53,False,1,4,False
-Leaf rust/1 (358).jpg,Leaf rust,leaf_rust,128,128,126c4bf1ea5c2936,,7972,False,53,False,1,4,False
-Leaf rust/1 (359).jpg,Leaf rust,leaf_rust,128,128,1146f91709e5d2da,,7973,False,53,False,1,4,False
-Leaf rust/1 (36).jpg,Leaf rust,leaf_rust,128,128,0f07c7f6470a88ce,,7974,False,54,False,1,0,True
-Leaf rust/1 (360).jpg,Leaf rust,leaf_rust,128,128,004057fcdf262dab,,7975,False,53,False,1,4,False
-Leaf rust/1 (361).jpg,Leaf rust,leaf_rust,128,128,046829b67a3476f9,,7965,False,53,False,1,4,False
-Leaf rust/1 (362).jpg,Leaf rust,leaf_rust,128,128,05c70c495b9fe34c,,7977,False,53,False,1,4,False
-Leaf rust/1 (363).jpg,Leaf rust,leaf_rust,128,128,165ce03c3688bc77,,7978,False,53,False,1,4,False
-Leaf rust/1 (364).jpg,Leaf rust,leaf_rust,128,128,18f398aba075470f,,7979,False,53,False,1,4,False
-Leaf rust/1 (365).jpg,Leaf rust,leaf_rust,128,128,114ce3151be985de,,7980,False,53,False,1,4,False
-Leaf rust/1 (366).jpg,Leaf rust,leaf_rust,128,128,0051fccb0329ebde,,7981,False,55,False,1,2,True
-Leaf rust/1 (367).jpg,Leaf rust,leaf_rust,128,128,124de22c1feb85d4,,7982,False,53,False,1,4,False
-Leaf rust/1 (368).jpg,Leaf rust,leaf_rust,128,128,0051fd0b29f8d47d,,7983,False,53,False,1,4,False
-Leaf rust/1 (369).jpg,Leaf rust,leaf_rust,128,128,1626e0c73fbd8c0a,,7984,False,53,False,1,4,False
-Leaf rust/1 (37).jpg,Leaf rust,leaf_rust,128,128,0f06f7f24288e8f2,,7985,False,54,False,1,0,False
-Leaf rust/1 (370).jpg,Leaf rust,leaf_rust,128,128,14f798abaa3c5503,,7986,False,53,False,1,4,False
-Leaf rust/1 (371).jpg,Leaf rust,leaf_rust,128,128,134ce2a51e6ba5d4,,7982,False,53,False,1,4,False
-Leaf rust/1 (372).jpg,Leaf rust,leaf_rust,128,128,0050f94b0fead8fc,,7988,False,53,False,1,4,False
-Leaf rust/1 (373).jpg,Leaf rust,leaf_rust,128,128,150cab9c55b89e1b,,7989,False,53,False,1,4,False
-Leaf rust/1 (374).jpg,Leaf rust,leaf_rust,128,128,140a9c5daac361fd,,7986,False,53,False,1,4,False
-Leaf rust/1 (375).jpg,Leaf rust,leaf_rust,128,128,150e995c79aa0b6b,,7991,False,53,False,1,4,False
-Leaf rust/1 (376).jpg,Leaf rust,leaf_rust,128,128,121eb77362a30d36,,7992,False,53,False,1,4,False
-Leaf rust/1 (377).jpg,Leaf rust,leaf_rust,128,128,171eb763039d4cc2,,7993,False,53,False,1,4,False
-Leaf rust/1 (378).jpg,Leaf rust,leaf_rust,128,128,1008f3c3afecc8e9,,7994,False,56,False,1,3,True
-Leaf rust/1 (379).jpg,Leaf rust,leaf_rust,128,128,2513e0c6cef99d0c,,7995,False,53,False,1,4,False
-Leaf rust/1 (38).jpg,Leaf rust,leaf_rust,128,128,0b73f81cc702d83b,,7996,False,57,False,1,4,True
-Leaf rust/1 (380).jpg,Leaf rust,leaf_rust,128,128,2d17e5ccd8e30546,,7997,False,58,False,1,3,True
-Leaf rust/1 (381).jpg,Leaf rust,leaf_rust,128,128,2a36c3c8d8c298df,,7998,False,53,False,1,4,False
-Leaf rust/1 (382).jpg,Leaf rust,leaf_rust,128,128,2a17c1ccfac21dc6,,7999,False,53,False,1,4,False
-Leaf rust/1 (383).jpg,Leaf rust,leaf_rust,128,128,2513e0c6cef9dd02,,7995,False,53,False,1,4,False
-Leaf rust/1 (384).jpg,Leaf rust,leaf_rust,128,128,2d17e1c4dcf8d904,,8001,False,53,False,1,4,False
-Leaf rust/1 (385).jpg,Leaf rust,leaf_rust,128,128,2916e3c4dcf8d80d,,8001,False,53,False,1,4,False
-Leaf rust/1 (386).jpg,Leaf rust,leaf_rust,128,128,0418f4f343fdd48a,,8003,False,53,False,1,4,False
-Leaf rust/1 (387).jpg,Leaf rust,leaf_rust,128,128,000f0e9f5d73b19a,,8004,False,53,False,1,4,False
-Leaf rust/1 (388).jpg,Leaf rust,leaf_rust,128,128,16085ff141b5d68b,,8005,False,53,False,1,4,False
-Leaf rust/1 (389).jpg,Leaf rust,leaf_rust,128,128,000f176d5a7acc3b,,8006,False,59,False,1,1,True
-Leaf rust/1 (39).jpg,Leaf rust,leaf_rust,128,128,011fff3341915e92,,8007,False,60,False,1,4,True
-Leaf rust/1 (390).jpg,Leaf rust,leaf_rust,128,128,1c5eb53f183b4528,,8008,False,61,False,1,2,True
-Leaf rust/1 (391).jpg,Leaf rust,leaf_rust,128,128,14313b9ce56ec5a4,,8009,False,40,False,1,4,False
-Leaf rust/1 (392).jpg,Leaf rust,leaf_rust,128,128,15749d58e354671a,,8010,False,40,False,1,4,False
-Leaf rust/1 (393).jpg,Leaf rust,leaf_rust,128,128,051979e0c7e28ef4,,8011,False,40,False,1,4,False
-Leaf rust/1 (394).jpg,Leaf rust,leaf_rust,128,128,007578a8b7e01fc7,,8012,False,62,False,1,1,True
-Leaf rust/1 (395).jpg,Leaf rust,leaf_rust,128,128,043b59a46f05f2e9,,8013,False,40,False,1,4,False
-Leaf rust/1 (396).jpg,Leaf rust,leaf_rust,128,128,1543c0fc5c69db94,,8014,False,40,False,1,4,False
-Leaf rust/1 (397).jpg,Leaf rust,leaf_rust,128,128,0107f0f8f1097ff0,,8015,False,63,False,1,1,True
-Leaf rust/1 (398).jpg,Leaf rust,leaf_rust,128,128,1076cad9c163c54f,,8016,False,64,False,1,1,True
-Leaf rust/1 (399).jpg,Leaf rust,leaf_rust,128,128,2462c8f3c683c7da,,8017,False,64,False,1,1,False
-Leaf rust/1 (4).jpeg,Leaf rust,leaf_rust,128,128,0e2164fccd9cf116,,8018,False,40,False,1,4,False
-Leaf rust/1 (4).jpg,Leaf rust,leaf_rust,128,128,00332f3793536a6b,,7683,False,22,False,1,3,False
-Leaf rust/1 (40).jpg,Leaf rust,leaf_rust,128,128,011effb741915d12,,8020,False,60,False,1,4,False
-Leaf rust/1 (400).jpg,Leaf rust,leaf_rust,128,128,2062caf6c487cdda,,8017,False,64,False,1,1,False
-Leaf rust/1 (401).jpg,Leaf rust,leaf_rust,128,128,033d6dc90b7a04e7,,8022,False,64,False,1,1,False
-Leaf rust/1 (402).jpg,Leaf rust,leaf_rust,128,128,3569ccf8f290e0cc,,8023,False,64,False,1,1,False
-Leaf rust/1 (403).jpg,Leaf rust,leaf_rust,128,128,0e78ca1c718b7a93,,8024,False,64,False,1,1,False
-Leaf rust/1 (404).jpg,Leaf rust,leaf_rust,128,128,0137e5c11bdb02bd,,8025,False,64,False,1,1,False
-Leaf rust/1 (405).jpg,Leaf rust,leaf_rust,128,128,022de98b7e9407ba,,8026,False,64,False,1,1,False
-Leaf rust/1 (406).jpg,Leaf rust,leaf_rust,128,128,143272e40cd9bbb6,,8027,False,64,False,1,1,False
-Leaf rust/1 (407).jpg,Leaf rust,leaf_rust,128,128,142e87341199dfd5,,8028,False,65,False,1,3,True
-Leaf rust/1 (408).jpg,Leaf rust,leaf_rust,128,128,0241d60673bb8ddd,,8029,False,65,False,1,3,False
-Leaf rust/1 (409).jpg,Leaf rust,leaf_rust,128,128,029fd2fd79d40c22,,8030,False,65,False,1,3,False
-Leaf rust/1 (41).jpg,Leaf rust,leaf_rust,128,128,010cfdb66a82a96f,,8031,False,60,False,1,4,False
-Leaf rust/1 (410).jpg,Leaf rust,leaf_rust,128,128,2360d262782f9ccf,,8032,False,65,False,1,3,False
-Leaf rust/1 (411).jpg,Leaf rust,leaf_rust,128,128,15938ed2058f92bb,,8033,False,65,False,1,3,False
-Leaf rust/1 (412).jpg,Leaf rust,leaf_rust,128,128,02bf52f979c60c26,,8034,False,65,False,1,3,False
-Leaf rust/1 (413).jpg,Leaf rust,leaf_rust,128,128,0243d70673fb05d9,,8035,False,65,False,1,3,False
-Leaf rust/1 (414).jpg,Leaf rust,leaf_rust,128,128,0247509e62f3ae9d,,8036,False,65,False,1,3,False
-Leaf rust/1 (415).jpg,Leaf rust,leaf_rust,128,128,0243d68673fb2599,,8035,False,65,False,1,3,False
-Leaf rust/1 (416).jpg,Leaf rust,leaf_rust,128,128,06bdd572630d0d6c,,8038,False,65,False,1,3,False
-Leaf rust/1 (417).jpg,Leaf rust,leaf_rust,128,128,156c8e251413f8df,,8039,False,65,False,1,3,False
-Leaf rust/1 (418).jpg,Leaf rust,leaf_rust,128,128,0647508e63f32d9d,,8040,False,65,False,1,3,False
-Leaf rust/1 (419).jpg,Leaf rust,leaf_rust,128,128,2279dd2a0b07b58d,,8032,False,65,False,1,3,False
-Leaf rust/1 (42).jpg,Leaf rust,leaf_rust,128,128,0042fb3948aa6fbd,,8042,False,60,False,1,4,False
-Leaf rust/1 (420).jpg,Leaf rust,leaf_rust,128,128,0245d706737b09dd,,8043,False,65,False,1,3,False
-Leaf rust/1 (421).jpg,Leaf rust,leaf_rust,128,128,0247568763fb2599,,8035,False,65,False,1,3,False
-Leaf rust/1 (422).jpg,Leaf rust,leaf_rust,128,128,117cce2f0579ba12,,8045,False,65,False,1,3,False
-Leaf rust/1 (423).jpg,Leaf rust,leaf_rust,128,128,02badd7b500c666e,,8046,False,65,False,1,3,False
-Leaf rust/1 (424).jpg,Leaf rust,leaf_rust,128,128,064fd50473e681db,,8043,False,65,False,1,3,False
-Leaf rust/1 (425).jpg,Leaf rust,leaf_rust,128,128,0245d7467a7b24d9,,8035,False,65,False,1,3,False
-Leaf rust/1 (426).jpg,Leaf rust,leaf_rust,128,128,064cdd84d1f7249b,,8049,False,65,False,1,3,False
-Leaf rust/1 (427).jpg,Leaf rust,leaf_rust,128,128,02b8d5fb718c226e,,8050,False,65,False,1,3,False
-Leaf rust/1 (428).jpg,Leaf rust,leaf_rust,128,128,1179ce2fad013a96,,8051,False,65,False,1,3,False
-Leaf rust/1 (429).jpg,Leaf rust,leaf_rust,128,128,0645d50f73f30d91,,8052,False,65,False,1,3,False
-Leaf rust/1 (43).jpg,Leaf rust,leaf_rust,128,128,01025dddb6ef5388,,8053,False,60,False,1,4,False
-Leaf rust/1 (430).jpg,Leaf rust,leaf_rust,128,128,22799c6e0b43f195,,8054,False,65,False,1,3,False
-Leaf rust/1 (431).jpg,Leaf rust,leaf_rust,128,128,04fc7f1c41566a63,,8055,False,66,False,1,4,True
-Leaf rust/1 (432).jpg,Leaf rust,leaf_rust,128,128,00713f3abf3c145a,,8056,False,67,False,1,4,True
-Leaf rust/1 (433).jpg,Leaf rust,leaf_rust,128,128,150f7ad658b830e3,,8057,False,68,False,1,3,True
-Leaf rust/1 (434).jpg,Leaf rust,leaf_rust,128,128,0cf07f0746682ba7,,8058,False,69,False,1,1,True
-Leaf rust/1 (435).jpg,Leaf rust,leaf_rust,128,128,06780ae0ff95d2ca,,8059,False,70,False,1,1,True
-Leaf rust/1 (436).jpg,Leaf rust,leaf_rust,128,128,05e91c27f0c749f4,,8060,False,71,False,1,3,True
-Leaf rust/1 (437).jpg,Leaf rust,leaf_rust,128,128,07845ffce24011ef,,8061,False,70,False,1,1,False
-Leaf rust/1 (438).jpg,Leaf rust,leaf_rust,128,128,20ccf6118b7233dd,,8062,False,71,False,1,3,False
-Leaf rust/1 (439).jpg,Leaf rust,leaf_rust,128,128,04e19c1e62bdb6c3,,8063,False,72,False,1,2,True
-Leaf rust/1 (44).jpg,Leaf rust,leaf_rust,128,128,01065df67e42a0fd,,8064,False,60,False,1,4,False
-Leaf rust/1 (440).jpg,Leaf rust,leaf_rust,128,128,150cc0075a953fbf,,8065,False,73,False,1,1,True
-Leaf rust/1 (441).jpg,Leaf rust,leaf_rust,128,128,1931c38b9cb16ed8,,8066,False,74,False,1,3,True
-Leaf rust/1 (442).jpg,Leaf rust,leaf_rust,128,128,3266c69c91a64cdb,,8067,False,75,False,1,2,True
-Leaf rust/1 (443).jpg,Leaf rust,leaf_rust,128,128,19cf837834984ece,,8068,False,76,False,1,1,True
-Leaf rust/1 (444).jpg,Leaf rust,leaf_rust,128,128,093a63e5669e5899,,8069,False,40,False,1,4,False
-Leaf rust/1 (445).jpg,Leaf rust,leaf_rust,128,128,0a3d69e0452ffc91,,8070,False,40,False,1,4,False
-Leaf rust/1 (446).jpg,Leaf rust,leaf_rust,128,128,01397659f16b8636,,8071,False,77,False,1,4,True
-Leaf rust/1 (447).jpg,Leaf rust,leaf_rust,128,128,083f72f067475e0c,,8072,False,40,False,1,4,False
-Leaf rust/1 (448).jpg,Leaf rust,leaf_rust,128,128,137a47af30a36ca1,,8073,False,40,False,1,4,False
-Leaf rust/1 (449).jpg,Leaf rust,leaf_rust,128,128,0a3d6af0052edd99,,8074,False,40,False,1,4,False
-Leaf rust/1 (45).jpg,Leaf rust,leaf_rust,128,128,05633079ade56273,,8075,False,60,False,1,4,False
-Leaf rust/1 (450).jpg,Leaf rust,leaf_rust,128,128,00376d3af055636e,,8076,False,40,False,1,4,False
-Leaf rust/1 (451).jpg,Leaf rust,leaf_rust,128,128,0877748718b96766,,8077,False,40,False,1,4,False
-Leaf rust/1 (452).jpg,Leaf rust,leaf_rust,128,128,083b74851fbc31f2,,8078,False,40,False,1,4,False
-Leaf rust/1 (453).jpg,Leaf rust,leaf_rust,128,128,08758e79c698b566,,8079,False,40,False,1,4,False
-Leaf rust/1 (454).jpg,Leaf rust,leaf_rust,128,128,2954adaa54ad5a3c,,8080,False,40,False,1,4,False
-Leaf rust/1 (455).jpg,Leaf rust,leaf_rust,128,128,1171c8324d5d6e5b,,8081,False,40,False,1,4,False
-Leaf rust/1 (456).jpg,Leaf rust,leaf_rust,128,128,096874afc6712e3c,,8082,False,40,False,1,4,False
-Leaf rust/1 (457).jpg,Leaf rust,leaf_rust,128,128,0a7ca683398f432f,,8083,False,40,False,1,4,False
-Leaf rust/1 (458).jpg,Leaf rust,leaf_rust,128,128,081b86cc4cbd7c2f,,8084,False,40,False,1,4,False
-Leaf rust/1 (459).jpg,Leaf rust,leaf_rust,128,128,14f8a7ec7490c0f3,,8085,False,78,False,1,0,True
-Leaf rust/1 (46).jpg,Leaf rust,leaf_rust,128,128,113be3f621b64638,,8086,False,40,False,1,4,False
-Leaf rust/1 (460).jpg,Leaf rust,leaf_rust,128,128,0451e5d8cf722d71,,8087,False,79,False,1,4,True
-Leaf rust/1 (461).jpg,Leaf rust,leaf_rust,128,128,0ada6a2d559d5466,,8088,False,40,False,1,4,False
-Leaf rust/1 (462).jpg,Leaf rust,leaf_rust,128,128,013895b3dc9578d3,,8089,False,40,False,1,4,False
-Leaf rust/1 (463).jpg,Leaf rust,leaf_rust,128,128,175cad49b54b1465,,8090,False,40,False,1,4,False
-Leaf rust/1 (464).jpg,Leaf rust,leaf_rust,128,128,0451335daa65976e,,8091,False,40,False,1,4,False
-Leaf rust/1 (465).jpg,Leaf rust,leaf_rust,128,128,0a36c927dd755066,,8092,False,80,False,1,2,True
-Leaf rust/1 (466).jpg,Leaf rust,leaf_rust,128,128,050a5bedb4f54a4a,,8093,False,81,False,1,1,True
-Leaf rust/1 (467).jpg,Leaf rust,leaf_rust,128,128,0ebaaaa929ac2ab5,,8094,False,82,False,1,3,True
-Leaf rust/1 (468).jpg,Leaf rust,leaf_rust,128,128,2c53a5a95ab469aa,,8095,False,40,False,1,4,False
-Leaf rust/1 (469).jpg,Leaf rust,leaf_rust,128,128,2651b4e953a46b96,,8096,False,40,False,1,4,False
-Leaf rust/1 (47).jpg,Leaf rust,leaf_rust,128,128,1412999da7a36da6,,8097,False,23,False,1,4,False
-Leaf rust/1 (470).jpg,Leaf rust,leaf_rust,128,128,2049dbe5ea35aa15,,8098,False,40,False,1,4,False
-Leaf rust/1 (471).jpg,Leaf rust,leaf_rust,128,128,2271da950afa7782,,8099,False,40,False,1,4,False
-Leaf rust/1 (472).jpg,Leaf rust,leaf_rust,128,128,216d9ce07b25ba15,,8100,False,40,False,1,4,False
-Leaf rust/1 (473).jpg,Leaf rust,leaf_rust,128,128,2374833846c13fde,,8101,False,83,False,1,0,True
-Leaf rust/1 (474).jpg,Leaf rust,leaf_rust,128,128,146f996649b7e409,,8102,False,40,False,1,4,False
-Leaf rust/1 (475).jpg,Leaf rust,leaf_rust,128,128,0877a49a71674a9b,,8103,False,40,False,1,4,False
-Leaf rust/1 (476).jpg,Leaf rust,leaf_rust,128,128,1264cf98f36c4959,,8104,False,40,False,1,4,False
-Leaf rust/1 (477).jpg,Leaf rust,leaf_rust,128,128,015bbfd03e135147,,8105,False,84,False,1,4,True
-Leaf rust/1 (478).jpg,Leaf rust,leaf_rust,128,128,152fa7aa5a3c600f,,8106,False,85,False,1,2,True
-Leaf rust/1 (479).jpg,Leaf rust,leaf_rust,128,128,102d40c5da9d8bf7,,8107,False,86,False,1,1,True
-Leaf rust/1 (48).jpg,Leaf rust,leaf_rust,128,128,103b0bef4a2931e7,,8108,False,40,False,1,4,False
-Leaf rust/1 (480).jpg,Leaf rust,leaf_rust,128,128,00193f58f0699777,,8109,False,87,False,1,2,True
-Leaf rust/1 (481).jpg,Leaf rust,leaf_rust,128,128,0876c59e71274e99,,8110,False,40,False,1,4,False
-Leaf rust/1 (482).jpg,Leaf rust,leaf_rust,128,128,08779a63de392619,,8111,False,40,False,1,4,False
-Leaf rust/1 (483).jpg,Leaf rust,leaf_rust,128,128,2954adaa56ad6a15,,8080,False,40,False,1,4,False
-Leaf rust/1 (484).jpg,Leaf rust,leaf_rust,128,128,136d924db34f91a4,,8113,False,40,False,1,4,False
-Leaf rust/1 (485).jpg,Leaf rust,leaf_rust,128,128,106f99334c99f22d,,8114,False,40,False,1,4,False
-Leaf rust/1 (486).jpg,Leaf rust,leaf_rust,128,128,106f99334c19f6ac,,8114,False,40,False,1,4,False
-Leaf rust/1 (487).jpg,Leaf rust,leaf_rust,128,128,19659863cc93e54d,,8116,False,40,False,1,4,False
-Leaf rust/1 (488).jpg,Leaf rust,leaf_rust,128,128,19ccf8e375683a50,,8117,False,88,False,1,3,True
-Leaf rust/1 (489).jpg,Leaf rust,leaf_rust,128,128,1d33f85555aa25e0,,8118,False,88,False,1,3,False
-Leaf rust/1 (49).jpg,Leaf rust,leaf_rust,128,128,141a99e6e26f5658,,8119,False,23,False,1,4,False
-Leaf rust/1 (490).jpg,Leaf rust,leaf_rust,128,128,1830de35d11a29fd,,8120,False,88,False,1,3,False
-Leaf rust/1 (491).jpg,Leaf rust,leaf_rust,128,128,08cfcfcad4f42921,,8121,False,88,False,1,3,False
-Leaf rust/1 (492).jpg,Leaf rust,leaf_rust,128,128,06df6a73d0aaa522,,8122,False,88,False,1,3,False
-Leaf rust/1 (493).jpg,Leaf rust,leaf_rust,128,128,1d30fa087550df2d,,8123,False,88,False,1,3,False
-Leaf rust/1 (494).jpg,Leaf rust,leaf_rust,128,128,0830df2ff49622ad,,8124,False,88,False,1,3,False
-Leaf rust/1 (495).jpg,Leaf rust,leaf_rust,128,128,071c4327f4dbb684,,8125,False,88,False,1,3,False
-Leaf rust/1 (496).jpg,Leaf rust,leaf_rust,128,128,00a7f899cf667063,,8126,False,88,False,1,3,False
-Leaf rust/1 (497).jpg,Leaf rust,leaf_rust,128,128,005cf8670f1d7a8e,,8127,False,88,False,1,3,False
-Leaf rust/1 (498).jpg,Leaf rust,leaf_rust,128,128,00f6aaadc8aa926f,,8128,False,88,False,1,3,False
-Leaf rust/1 (499).jpg,Leaf rust,leaf_rust,128,128,021a6097cbbd736c,,8129,False,88,False,1,3,False
-Leaf rust/1 (5).jpeg,Leaf rust,leaf_rust,128,128,10651bf7c01bc63d,,8130,False,40,False,1,4,False
-Leaf rust/1 (5).jpg,Leaf rust,leaf_rust,128,128,00554ae27b1d4ee7,,8131,False,89,False,1,1,True
-Leaf rust/1 (50).jpg,Leaf rust,leaf_rust,128,128,113f8ae25aa9a7c4,,8132,False,40,False,1,4,False
-Leaf rust/1 (500).jpg,Leaf rust,leaf_rust,128,128,0058f167cf3371b4,,8133,False,88,False,1,3,False
-Leaf rust/1 (501).jpg,Leaf rust,leaf_rust,128,128,15d220e54e9bd9b4,,8134,False,88,False,1,3,False
-Leaf rust/1 (502).jpg,Leaf rust,leaf_rust,128,128,0078f04f9f138e8f,,8135,False,88,False,1,3,False
-Leaf rust/1 (503).jpg,Leaf rust,leaf_rust,128,128,0079670f91c4eb73,,8136,False,88,False,1,3,False
-Leaf rust/1 (504).jpg,Leaf rust,leaf_rust,128,128,00f66ea9c8e8d22f,,8128,False,88,False,1,3,False
-Leaf rust/1 (505).jpg,Leaf rust,leaf_rust,128,128,07e7634b54343273,,8136,False,88,False,1,3,False
-Leaf rust/1 (506).jpg,Leaf rust,leaf_rust,128,128,18090d86f737e0fc,,8139,False,88,False,1,3,False
-Leaf rust/1 (507).jpg,Leaf rust,leaf_rust,128,128,06e7634952763473,,8140,False,88,False,1,3,False
-Leaf rust/1 (508).jpg,Leaf rust,leaf_rust,128,128,055cfc628f19709e,,8141,False,88,False,1,3,False
-Leaf rust/1 (509).jpg,Leaf rust,leaf_rust,128,128,1cd6d436b6d25aa0,,8142,False,88,False,1,3,False
-Leaf rust/1 (51).jpg,Leaf rust,leaf_rust,128,128,141399ece26a6e53,,8119,False,23,False,1,4,False
-Leaf rust/1 (510).jpg,Leaf rust,leaf_rust,128,128,0e3a27b4528f35cc,,8144,False,88,False,1,3,False
-Leaf rust/1 (511).jpg,Leaf rust,leaf_rust,128,128,091951b3af78d31a,,8145,False,88,False,1,3,False
-Leaf rust/1 (512).jpg,Leaf rust,leaf_rust,128,128,010bee56c935b2ad,,8146,False,88,False,1,3,False
-Leaf rust/1 (52).jpg,Leaf rust,leaf_rust,128,128,11373ae0de2b3386,,8147,False,40,False,1,4,False
-Leaf rust/1 (53).jpg,Leaf rust,leaf_rust,128,128,141299ece67a545b,,8119,False,23,False,1,4,False
-Leaf rust/1 (54).jpg,Leaf rust,leaf_rust,128,128,11371ae0d41a3bee,,8149,False,40,False,1,4,False
-Leaf rust/1 (55).jpg,Leaf rust,leaf_rust,128,128,14ed9919e2b354a6,,8119,False,23,False,1,4,False
-Leaf rust/1 (56).jpg,Leaf rust,leaf_rust,128,128,1137bac05a2ba7cc,,8132,False,40,False,1,4,False
-Leaf rust/1 (57).jpg,Leaf rust,leaf_rust,128,128,14ed9933e29564ac,,8119,False,23,False,1,4,False
-Leaf rust/1 (58).jpg,Leaf rust,leaf_rust,128,128,1e6af1365d930e30,,8153,False,40,False,1,4,False
-Leaf rust/1 (59).jpg,Leaf rust,leaf_rust,128,128,2d34b2cd4c599752,,8154,False,23,False,1,4,False
-Leaf rust/1 (6).jpeg,Leaf rust,leaf_rust,128,128,217ac0fc250f15ee,,8155,False,21,False,1,3,False
-Leaf rust/1 (6).jpg,Leaf rust,leaf_rust,128,128,042703e1303e7f5f,,8156,False,90,False,1,3,True
-Leaf rust/1 (60).jpg,Leaf rust,leaf_rust,128,128,2c61bf8a056d9a96,,8157,False,40,False,1,4,False
-Leaf rust/1 (61).jpg,Leaf rust,leaf_rust,128,128,2935b2d3ec466954,,8158,False,23,False,1,4,False
-Leaf rust/1 (62).jpg,Leaf rust,leaf_rust,128,128,17768ac05a23edc9,,8159,False,40,False,1,4,False
-Leaf rust/1 (63).jpg,Leaf rust,leaf_rust,128,128,15129be8e6726c56,,8160,False,23,False,1,4,False
-Leaf rust/1 (64).jpg,Leaf rust,leaf_rust,128,128,137966e823e3e681,,8161,False,40,False,1,4,False
-Leaf rust/1 (65).jpg,Leaf rust,leaf_rust,128,128,1512bbc8e6726c53,,8160,False,23,False,1,4,False
-Leaf rust/1 (66).jpg,Leaf rust,leaf_rust,128,128,0a49a52ece3c726b,,8163,False,40,False,1,4,False
-Leaf rust/1 (67).jpg,Leaf rust,leaf_rust,128,128,121b8c5dd5b825b3,,8164,False,23,False,1,4,False
-Leaf rust/1 (68).jpg,Leaf rust,leaf_rust,128,128,1e1cf451b6bb6114,,8165,False,40,False,1,4,False
-Leaf rust/1 (69).jpg,Leaf rust,leaf_rust,128,128,161b9d5de0a827aa,,8166,False,23,False,1,4,False
-Leaf rust/1 (7).jpeg,Leaf rust,leaf_rust,128,128,0f2126f50fb03787,,8167,False,40,False,1,4,False
-Leaf rust/1 (7).jpg,Leaf rust,leaf_rust,128,128,10e7e6ac0cf8718d,,8168,False,22,False,1,3,False
-Leaf rust/1 (70).jpg,Leaf rust,leaf_rust,128,128,125a823fdc09f746,,8169,False,40,False,1,4,False
-Leaf rust/1 (71).jpg,Leaf rust,leaf_rust,128,128,064cdb1284e963fd,,8170,False,23,False,1,4,False
-Leaf rust/1 (72).jpg,Leaf rust,leaf_rust,128,128,1c1cf173bb610ce8,,8171,False,40,False,1,4,False
-Leaf rust/1 (73).jpg,Leaf rust,leaf_rust,128,128,16129d1dd59865b3,,8172,False,23,False,1,4,False
-Leaf rust/1 (74).jpg,Leaf rust,leaf_rust,128,128,125a837ddc097746,,8169,False,40,False,1,4,False
-Leaf rust/1 (75).jpg,Leaf rust,leaf_rust,128,128,060cdb1386e963fc,,8170,False,23,False,1,4,False
-Leaf rust/1 (76).jpg,Leaf rust,leaf_rust,128,128,1a4b897d8137c6a9,,8175,False,40,False,1,4,False
-Leaf rust/1 (77).jpg,Leaf rust,leaf_rust,128,128,13598c8757d954b2,,8176,False,23,False,1,4,False
-Leaf rust/1 (78).jpg,Leaf rust,leaf_rust,128,128,12528b7d0137d6ab,,8177,False,91,False,1,0,True
-Leaf rust/1 (79).jpg,Leaf rust,leaf_rust,128,128,040cdb1307cf23ef,,8178,False,23,False,1,4,False
-Leaf rust/1 (8).jpeg,Leaf rust,leaf_rust,128,128,013e22f7f2847f81,,8179,False,40,False,1,4,False
-Leaf rust/1 (8).jpg,Leaf rust,leaf_rust,128,128,101de6735c270b76,,8180,False,22,False,1,3,False
-Leaf rust/1 (80).jpg,Leaf rust,leaf_rust,128,128,0b49a52ece2c726b,,8163,False,40,False,1,4,False
-Leaf rust/1 (82).jpg,Leaf rust,leaf_rust,128,128,125a897dc931d6a9,,8183,False,40,False,1,4,False
-Leaf rust/1 (83).jpg,Leaf rust,leaf_rust,128,128,060cdb1303ed23ef,,8178,False,23,False,1,4,False
-Leaf rust/1 (84).jpg,Leaf rust,leaf_rust,128,128,1819a9f30db4f2c6,,8185,False,40,False,1,4,False
-Leaf rust/1 (85).jpg,Leaf rust,leaf_rust,128,128,141a9dcde22b275a,,8186,False,23,False,1,4,False
-Leaf rust/1 (86).jpg,Leaf rust,leaf_rust,128,128,121b8d77a82baa4e,,8187,False,23,False,1,4,False
-Leaf rust/1 (87).jpg,Leaf rust,leaf_rust,128,128,131b8d55b92ca3aa,,8188,False,23,False,1,4,False
-Leaf rust/1 (88).jpg,Leaf rust,leaf_rust,128,128,141a9dcdf0a927aa,,8166,False,23,False,1,4,False
-Leaf rust/1 (89).jpg,Leaf rust,leaf_rust,128,128,141a9de5f32b2658,,8190,False,23,False,1,4,False
-Leaf rust/1 (9).jpeg,Leaf rust,leaf_rust,128,128,121de2c47bdc494e,,8191,False,21,False,1,3,False
-Leaf rust/1 (9).jpg,Leaf rust,leaf_rust,128,128,181ce77b4e074476,,7684,False,22,False,1,3,False
-Leaf rust/1 (90).jpg,Leaf rust,leaf_rust,128,128,141299eee26e6659,,8119,False,23,False,1,4,False
-Leaf rust/1 (91).jpg,Leaf rust,leaf_rust,128,128,121b8d45f0b927ab,,8194,False,23,False,1,4,False
-Leaf rust/1 (92).jpg,Leaf rust,leaf_rust,128,128,161a9d0df0b925ab,,8166,False,23,False,1,4,False
-Leaf rust/1 (93).jpg,Leaf rust,leaf_rust,128,128,141a99e6f26b2659,,8190,False,23,False,1,4,False
-Leaf rust/1 (94).jpg,Leaf rust,leaf_rust,128,128,121a8d45d5f935b2,,8197,False,23,False,1,4,False
-Leaf rust/1 (95).jpg,Leaf rust,leaf_rust,128,128,040cd31387eb27ed,,8198,False,23,False,1,4,False
-Leaf rust/1 (96).jpg,Leaf rust,leaf_rust,128,128,16528c8f45d84dd7,,8199,False,23,False,1,4,False
-Leaf rust/1 (97).jpg,Leaf rust,leaf_rust,128,128,125b8c0757d955d1,,8176,False,23,False,1,4,False
-Leaf rust/1 (98).jpg,Leaf rust,leaf_rust,128,128,14e999668d6ca959,,7685,False,23,False,1,4,False
-Leaf rust/1 (99).jpg,Leaf rust,leaf_rust,128,128,1452999f45d2cdd4,,8202,False,23,False,1,4,False
-Leaf rust/2 (10).jpeg,Leaf rust,leaf_rust,128,128,296ad63781b4f258,,7682,False,21,False,1,3,False
-Leaf rust/2 (1003).jpg,Leaf rust,leaf_rust,128,128,0830df35d40b6ddc,,8121,False,88,False,1,3,False
-Leaf rust/2 (1007).jpg,Leaf rust,leaf_rust,128,128,071c6327d4dbb684,,8125,False,88,False,1,3,False
-Leaf rust/2 (1012).jpg,Leaf rust,leaf_rust,128,128,0058f166cfb371b4,,8133,False,88,False,1,3,False
-Leaf rust/2 (1014).jpg,Leaf rust,leaf_rust,128,128,0078f24f9f138c8f,,8135,False,88,False,1,3,False
-Leaf rust/2 (13).jpeg,Leaf rust,leaf_rust,128,128,0e3164fccd9cf016,,8018,False,40,False,1,4,False
-Leaf rust/2 (515).jpg,Leaf rust,leaf_rust,128,128,101de477d92e036d,,7907,False,22,False,1,3,False
-Leaf rust/2 (518).jpg,Leaf rust,leaf_rust,128,128,00ee5af5073c43ce,,8156,False,90,False,1,3,False
-Leaf rust/2 (524).jpg,Leaf rust,leaf_rust,128,128,00332f37935a6b69,,7683,False,22,False,1,3,False
-Leaf rust/2 (527).jpg,Leaf rust,leaf_rust,128,128,180ce77b4e074c76,,7684,False,22,False,1,3,False
-Leaf rust/2 (542).jpg,Leaf rust,leaf_rust,128,128,2b34aa17a6b2d84b,,7908,False,40,False,1,4,False
-Leaf rust/2 (544).jpg,Leaf rust,leaf_rust,128,128,2a35be16a5865a5a,,7930,False,40,False,1,4,False
-Leaf rust/2 (546).jpg,Leaf rust,leaf_rust,128,128,20e7c88126387f7b,,7952,False,49,False,1,2,False
-Leaf rust/2 (548).jpg,Leaf rust,leaf_rust,128,128,0f07c7f6470ac8c6,,7974,False,54,False,1,0,False
-Leaf rust/2 (562).jpg,Leaf rust,leaf_rust,128,128,113f8ae05aaba7c4,,8132,False,40,False,1,4,False
-Leaf rust/2 (573).jpg,Leaf rust,leaf_rust,128,128,2935b2d3ec446955,,8158,False,23,False,1,4,False
-Leaf rust/2 (574).jpg,Leaf rust,leaf_rust,128,128,17778ac05a23edc8,,8159,False,40,False,1,4,False
-Leaf rust/2 (578).jpg,Leaf rust,leaf_rust,128,128,0ab6a5d1cec37294,,8163,False,40,False,1,4,False
-Leaf rust/2 (580).jpg,Leaf rust,leaf_rust,128,128,1e1cf451b6b9611c,,8165,False,40,False,1,4,False
-Leaf rust/2 (586).jpg,Leaf rust,leaf_rust,128,128,125a827ddc097756,,8169,False,40,False,1,4,False
-Leaf rust/2 (594).jpg,Leaf rust,leaf_rust,128,128,125a897dc131d6ab,,8183,False,40,False,1,4,False
-Leaf rust/2 (597).jpg,Leaf rust,leaf_rust,128,128,141a9dcde22b265b,,8186,False,23,False,1,4,False
-Leaf rust/2 (598).jpg,Leaf rust,leaf_rust,128,128,121b8d75a82bab4e,,8187,False,23,False,1,4,False
-Leaf rust/2 (603).jpg,Leaf rust,leaf_rust,128,128,121b8d45f1b927aa,,8194,False,23,False,1,4,False
-Leaf rust/2 (605).jpg,Leaf rust,leaf_rust,128,128,141a99e4f26b3659,,8190,False,23,False,1,4,False
-Leaf rust/2 (607).jpg,Leaf rust,leaf_rust,128,128,040cd31387f927ed,,8198,False,23,False,1,4,False
-Leaf rust/2 (615).jpg,Leaf rust,leaf_rust,128,128,057bb1d41df8c087,,7688,False,24,False,1,0,False
-Leaf rust/2 (623).jpg,Leaf rust,leaf_rust,128,128,056412c373ba2d9f,,7694,False,24,False,1,0,False
-Leaf rust/2 (625).jpg,Leaf rust,leaf_rust,128,128,05643ac363ba789d,,7699,False,24,False,1,0,False
-Leaf rust/2 (633).jpg,Leaf rust,leaf_rust,128,128,056c3ac767b2701b,,7699,False,24,False,1,0,False
-Leaf rust/2 (637).jpg,Leaf rust,leaf_rust,128,128,110c3bf1ebd0253b,,7712,False,24,False,1,0,False
-Leaf rust/2 (642).jpg,Leaf rust,leaf_rust,128,128,007f03f52bc23fc1,,7718,False,28,False,1,3,False
-Leaf rust/2 (646).jpg,Leaf rust,leaf_rust,128,128,007f07fd0fc03e83,,7722,False,28,False,1,3,False
-Leaf rust/2 (651).jpg,Leaf rust,leaf_rust,128,128,007e07e86f833d87,,7716,False,28,False,1,3,False
-Leaf rust/2 (657).jpg,Leaf rust,leaf_rust,128,128,007f07f52fc33c03,,7731,False,28,False,1,3,False
-Leaf rust/2 (659).jpg,Leaf rust,leaf_rust,128,128,0085073f3f3cb8f8,,7736,False,28,False,1,3,False
-Leaf rust/2 (661).jpg,Leaf rust,leaf_rust,128,128,0021123f3dbff9c1,,7737,False,28,False,1,3,False
-Leaf rust/2 (662).jpg,Leaf rust,leaf_rust,128,128,007b04f53dc3bd07,,7731,False,28,False,1,3,False
-Leaf rust/2 (663).jpg,Leaf rust,leaf_rust,128,128,01311b3dbdd9c153,,7741,False,28,False,1,3,False
-Leaf rust/2 (664).jpg,Leaf rust,leaf_rust,128,128,0011123d3dbff9d1,,7737,False,28,False,1,3,False
-Leaf rust/2 (667).jpg,Leaf rust,leaf_rust,128,128,00273f7e70b0c61f,,7745,False,28,False,1,3,False
-Leaf rust/2 (668).jpg,Leaf rust,leaf_rust,128,128,00332ffcc2683eec,,7746,False,28,False,1,3,False
-Leaf rust/2 (673).jpg,Leaf rust,leaf_rust,128,128,067cbe8c76a10f31,,7752,False,32,False,1,2,False
-Leaf rust/2 (680).jpg,Leaf rust,leaf_rust,128,128,0e275c91376e8c39,,7759,False,33,False,1,1,False
-Leaf rust/2 (685).jpg,Leaf rust,leaf_rust,128,128,057139e1b3196de2,,7765,False,33,False,1,1,False
-Leaf rust/2 (687).jpg,Leaf rust,leaf_rust,128,128,08d3516c3eb7998c,,7764,False,33,False,1,1,False
-Leaf rust/2 (689).jpg,Leaf rust,leaf_rust,128,128,012b76247ddb02fc,,7769,False,33,False,1,1,False
-Leaf rust/2 (701).jpg,Leaf rust,leaf_rust,128,128,042668fc795f2d46,,7782,False,38,False,1,2,False
-Leaf rust/2 (706).jpg,Leaf rust,leaf_rust,128,128,113579dc1a3bd22a,,7788,False,38,False,1,2,False
-Leaf rust/2 (709).jpg,Leaf rust,leaf_rust,128,128,11147dd84c39d9da,,7791,False,38,False,1,2,False
-Leaf rust/2 (710).jpg,Leaf rust,leaf_rust,128,128,004316887d6fbf17,,7792,False,36,False,1,4,False
-Leaf rust/2 (717).jpg,Leaf rust,leaf_rust,128,128,030c37d6be724b38,,7802,False,36,False,1,4,False
-Leaf rust/2 (725).jpg,Leaf rust,leaf_rust,128,128,102d4bee39d2dec0,,7811,False,40,False,1,4,False
-Leaf rust/2 (737).jpg,Leaf rust,leaf_rust,128,128,009d2cec7a6707b9,,7824,False,40,False,1,4,False
-Leaf rust/2 (740).jpg,Leaf rust,leaf_rust,128,128,10e784b981171d7f,,7827,False,42,False,1,0,False
-Leaf rust/2 (741).jpg,Leaf rust,leaf_rust,128,128,01338b6d06c3fa1f,,7828,False,43,False,1,2,False
-Leaf rust/2 (742).jpg,Leaf rust,leaf_rust,128,128,1335cc76e843c30f,,7830,False,40,False,1,4,False
-Leaf rust/2 (747).jpg,Leaf rust,leaf_rust,128,128,0d6c4bbb634b26a4,,7835,False,40,False,1,4,False
-Leaf rust/2 (748).jpg,Leaf rust,leaf_rust,128,128,062dee0a1578f1c7,,7836,False,40,False,1,4,False
-Leaf rust/2 (752).jpg,Leaf rust,leaf_rust,128,128,0939fc3863c866ec,,7841,False,40,False,1,4,False
-Leaf rust/2 (756).jpg,Leaf rust,leaf_rust,128,128,012d669e387fdc81,,7845,False,40,False,1,4,False
-Leaf rust/2 (764).jpg,Leaf rust,leaf_rust,128,128,053c569e60e722f3,,7854,False,40,False,1,4,False
-Leaf rust/2 (775).jpg,Leaf rust,leaf_rust,128,128,0f7f2d85543c24ca,,7866,False,40,False,1,4,False
-Leaf rust/2 (783).jpg,Leaf rust,leaf_rust,128,128,0c6c689b396959ab,,7875,False,40,False,1,4,False
-Leaf rust/2 (789).jpg,Leaf rust,leaf_rust,128,128,094a9273afaba455,,7879,False,40,False,1,4,False
-Leaf rust/2 (792).jpg,Leaf rust,leaf_rust,128,128,014ab27aaeaaaadc,,7879,False,40,False,1,4,False
-Leaf rust/2 (795).jpg,Leaf rust,leaf_rust,128,128,0219f19577d558a6,,7888,False,40,False,1,4,False
-Leaf rust/2 (804).jpg,Leaf rust,leaf_rust,128,128,0d3610eb5c346ed6,,7898,False,46,False,1,1,False
-Leaf rust/2 (826).jpg,Leaf rust,leaf_rust,128,128,2c15d2e5156a95c7,,7924,False,47,False,1,3,False
-Leaf rust/2 (830).jpg,Leaf rust,leaf_rust,128,128,0546f339523a0ff1,,7928,False,47,False,1,3,False
-Leaf rust/2 (841).jpg,Leaf rust,leaf_rust,128,128,0303bfcbe8b22cac,,7940,False,48,False,1,3,False
-Leaf rust/2 (851).jpg,Leaf rust,leaf_rust,128,128,01374eea999c664b,,7951,False,52,False,1,1,False
-Leaf rust/2 (852).jpg,Leaf rust,leaf_rust,128,128,059761254f8ba37c,,7953,False,52,False,1,1,False
-Leaf rust/2 (876).jpg,Leaf rust,leaf_rust,128,128,18f398afa075470e,,7979,False,53,False,1,4,False
-Leaf rust/2 (879).jpg,Leaf rust,leaf_rust,128,128,124de22c1f6b85f4,,7982,False,53,False,1,4,False
-Leaf rust/2 (882).jpg,Leaf rust,leaf_rust,128,128,14f398abaa3c550b,,7986,False,53,False,1,4,False
-Leaf rust/2 (894).jpg,Leaf rust,leaf_rust,128,128,2a17c1ccfbc20dc6,,7999,False,53,False,1,4,False
-Leaf rust/2 (903).jpg,Leaf rust,leaf_rust,128,128,143133dce56ec5a4,,8009,False,40,False,1,4,False
-Leaf rust/2 (907).jpg,Leaf rust,leaf_rust,128,128,043b59a56d05f2e9,,8013,False,40,False,1,4,False
-Leaf rust/2 (911).jpg,Leaf rust,leaf_rust,128,128,2562c8f3c683c5da,,8017,False,64,False,1,1,False
-Leaf rust/2 (948).jpg,Leaf rust,leaf_rust,128,128,0d171cd8fc38494f,,8060,False,71,False,1,3,False
-Leaf rust/2 (951).jpg,Leaf rust,leaf_rust,128,128,04e19c1e63b5b6c3,,8063,False,72,False,1,2,False
-Leaf rust/2 (952).jpg,Leaf rust,leaf_rust,128,128,1508c0075b953fbf,,8065,False,73,False,1,1,False
-Leaf rust/2 (963).jpg,Leaf rust,leaf_rust,128,128,087f748718b92766,,8077,False,40,False,1,4,False
-Leaf rust/2 (972).jpg,Leaf rust,leaf_rust,128,128,0451e5d8cf728d71,,8087,False,79,False,1,4,False
-Leaf rust/2 (973).jpg,Leaf rust,leaf_rust,128,128,0ada6a2f55995466,,8088,False,40,False,1,4,False
-Leaf rust/2 (975).jpg,Leaf rust,leaf_rust,128,128,165ead49b54b1465,,8090,False,40,False,1,4,False
-Leaf rust/2 (980).jpg,Leaf rust,leaf_rust,128,128,2c53a5a95a9469ba,,8095,False,40,False,1,4,False
-Leaf rust/2 (984).jpg,Leaf rust,leaf_rust,128,128,216d9ce87b25b815,,8100,False,40,False,1,4,False
-Leaf rust/2 (986).jpg,Leaf rust,leaf_rust,128,128,146f997649b3e409,,8102,False,40,False,1,4,False
-Leaf rust/2 (991).jpg,Leaf rust,leaf_rust,128,128,102d40c5da9d87f7,,8107,False,86,False,1,1,False
-Leaf rust/2 (998).jpg,Leaf rust,leaf_rust,128,128,109289cd4ce6f6d3,,8114,False,40,False,1,4,False
-Miner/1 (1).jpg,Miner,miner,128,128,3115c1bd55263ee2,,16017,False,92,False,2,0,True
-Miner/1 (10000).jpg,Miner,miner,128,128,146bad82a34ebd58,,16018,False,93,False,2,3,True
-Miner/1 (10001).jpg,Miner,miner,256,92,0e62dd97214c5733,,16019,False,94,False,2,2,True
-Miner/1 (10002).jpg,Miner,miner,128,128,34b3d3a34c89529d,,16020,False,94,False,2,2,False
-Miner/1 (10003).jpg,Miner,miner,256,96,0e629da7211c37b9,,16021,False,94,False,2,2,False
-Miner/1 (10004).jpg,Miner,miner,128,128,07708df55bc03f03,,16022,False,94,False,2,2,False
-Miner/1 (10005).jpg,Miner,miner,256,94,0e6299a7215c37b9,,16021,False,94,False,2,2,False
-Miner/1 (10006).jpg,Miner,miner,128,128,068d890a533f2efc,,16022,False,94,False,2,2,False
-Miner/1 (10007).jpg,Miner,miner,128,128,18beaaaa22686767,,16025,False,93,False,2,3,False
-Miner/1 (10009).jpg,Miner,miner,128,128,1845aad5629767b8,,16025,False,93,False,2,3,False
-Miner/1 (10010).jpg,Miner,miner,128,128,08452ad5629f67b9,,16025,False,93,False,2,3,False
-Miner/1 (10011).jpg,Miner,miner,128,128,1941aa55239f6799,,16025,False,93,False,2,3,False
-Miner/1 (10012).jpg,Miner,miner,128,128,055a2a95a4562edf,,16025,False,93,False,2,3,False
-Miner/1 (10013).jpg,Miner,miner,256,111,245bab55926dd164,,16031,False,93,False,2,3,False
-Miner/1 (10014).jpg,Miner,miner,128,128,144aadd4f262a34f,,16032,False,93,False,2,3,False
-Miner/1 (10015).jpg,Miner,miner,256,104,255baa55926d926c,,16033,False,93,False,2,3,False
-Miner/1 (10016).jpg,Miner,miner,128,128,154a8dd46262e9fc,,16034,False,93,False,2,3,False
-Miner/1 (10017).jpg,Miner,miner,256,119,255aadd5a2499665,,16035,False,93,False,2,3,False
-Miner/1 (10018).jpg,Miner,miner,128,128,144b8dd46362e9bc,,16034,False,93,False,2,3,False
-Miner/1 (10025).jpg,Miner,miner,128,128,19726c94a46ddaa3,,16043,False,95,False,2,0,True
-Miner/1 (10026).jpg,Miner,miner,128,128,19736c94a46dda83,,16043,False,95,False,2,0,False
-Miner/1 (10027).jpg,Miner,miner,128,128,0e70729f66589d89,,16045,False,95,False,2,0,False
-Miner/1 (10028).jpg,Miner,miner,128,128,0e70729f66c899c9,,16045,False,95,False,2,0,False
-Miner/1 (10029).jpg,Miner,miner,128,128,0e84337b1b75e452,,16047,False,96,False,2,4,True
-Miner/1 (10031).jpg,Miner,miner,128,128,3726ce81c61c5bf0,,16049,False,97,False,2,1,True
-Miner/1 (10033).jpg,Miner,miner,128,128,186e2697899372ad,,16051,False,98,False,2,4,True
-Miner/1 (10035).jpg,Miner,miner,256,126,08a962cebe62c99d,,16053,False,98,False,2,4,False
-Miner/1 (10036).jpg,Miner,miner,128,128,11216cdcb69a69f4,,16054,False,98,False,2,4,False
-Miner/1 (10037).jpg,Miner,miner,128,128,183066c79b892cf7,,16055,False,98,False,2,4,False
-Miner/1 (10039).jpg,Miner,miner,128,128,001a9f696c4ff670,,16057,False,99,False,2,1,True
-Miner/1 (10040).jpg,Miner,miner,128,128,001e9f696c0ff670,,16057,False,99,False,2,1,False
-Miner/1 (10041).jpg,Miner,miner,128,128,126ce517f907c334,,16059,False,100,False,2,2,True
-Miner/1 (10042).jpg,Miner,miner,128,128,126ce516f907c374,,16059,False,100,False,2,2,False
-Miner/1 (10043).jpg,Miner,miner,256,100,06d99a868fc3e0f4,,16061,False,101,False,2,4,True
-Miner/1 (10044).jpg,Miner,miner,128,128,2a31cb7cd29c60a7,,16062,False,101,False,2,4,False
-Miner/1 (10045).jpg,Miner,miner,128,128,0a93a5b19387c9d3,,16063,False,102,False,2,2,True
-Miner/1 (10047).jpg,Miner,miner,256,102,04269a788f7ec32b,,16065,False,101,False,2,4,False
-Miner/1 (10048).jpg,Miner,miner,128,128,2a71da7493dc6388,,16066,False,101,False,2,4,False
-Miner/1 (10049).jpg,Miner,miner,128,128,0d31698c97398cee,,16067,False,98,False,2,4,False
-Miner/1 (10050).jpg,Miner,miner,128,128,0cce617396c68c3d,,16067,False,98,False,2,4,False
-Miner/1 (10051).jpg,Miner,miner,128,128,123d68932cf69ba8,,16069,False,98,False,2,4,False
-Miner/1 (10053).jpg,Miner,miner,128,128,2b648ae234f2b91e,,16071,False,103,False,2,4,True
-Miner/1 (10055).jpg,Miner,miner,128,128,033e26c5f8299ec3,,16073,False,103,False,2,4,False
-Miner/1 (10057).jpg,Miner,miner,128,128,003f8b70f71be017,,16075,False,103,False,2,4,False
-Miner/1 (10059).jpg,Miner,miner,128,128,0b6e3c91cbb31a94,,16077,False,103,False,2,4,False
-Miner/1 (10060).jpg,Miner,miner,128,128,0b6e3c91cab35a94,,16077,False,103,False,2,4,False
-Miner/1 (10061).jpg,Miner,miner,128,128,1628e5f3144179af,,16079,False,104,False,2,3,True
-Miner/1 (10063).jpg,Miner,miner,128,128,0473a84f3769d0f8,,16081,False,104,False,2,3,False
-Miner/1 (10064).jpg,Miner,miner,128,128,0473a94f3768d0f8,,16081,False,104,False,2,3,False
-Miner/1 (10065).jpg,Miner,miner,128,128,0874e1d8ac3f1f07,,16083,False,104,False,2,3,False
-Miner/1 (10067).jpg,Miner,miner,128,128,0059f0b0ce57372f,,16085,False,104,False,2,3,False
-Miner/1 (10069).jpg,Miner,miner,128,128,045bf3b1e848d4f4,,16087,False,104,False,2,3,False
-Miner/1 (10071).jpg,Miner,miner,128,128,045bf0b04e17b70f,,16085,False,104,False,2,3,False
-Miner/1 (10073).jpg,Miner,miner,128,128,005bf1b0f8e8d2f4,,16091,False,104,False,2,3,False
-Miner/1 (10075).jpg,Miner,miner,128,128,005cf0a2e74f17ad,,16093,False,104,False,2,3,False
-Miner/1 (10076).jpg,Miner,miner,128,128,0058f0a2ef4f17ad,,16093,False,104,False,2,3,False
-Miner/1 (10077).jpg,Miner,miner,128,128,0059f0b0ee57172f,,16085,False,104,False,2,3,False
-Miner/1 (10078).jpg,Miner,miner,128,128,0059f0b0ec4f972f,,16085,False,104,False,2,3,False
-Miner/1 (10079).jpg,Miner,miner,128,128,0059f0a4ce5f372d,,16085,False,104,False,2,3,False
-Miner/1 (10081).jpg,Miner,miner,128,128,00a6b05b4fe8a5f6,,16099,False,104,False,2,3,False
-Miner/1 (10083).jpg,Miner,miner,128,128,005bf0b0ec4ad7b5,,16101,False,104,False,2,3,False
-Miner/1 (10085).jpg,Miner,miner,128,128,1262a11e3f5fe0f0,,16103,False,104,False,2,3,False
-Miner/1 (10087).jpg,Miner,miner,128,128,1129e5571a4af0bd,,16105,False,104,False,2,3,False
-Miner/1 (10089).jpg,Miner,miner,128,128,0f5ff2b1e8c0a078,,16107,False,104,False,2,3,False
-Miner/1 (10091).jpg,Miner,miner,128,128,0579f0b0e443972f,,16109,False,104,False,2,3,False
-Miner/1 (10092).jpg,Miner,miner,128,128,0486f06fe4bc97d0,,16109,False,104,False,2,3,False
-Miner/1 (10093).jpg,Miner,miner,128,128,0579f0904e173f0f,,16085,False,104,False,2,3,False
-Miner/1 (10095).jpg,Miner,miner,128,128,10d2a53abbb962a5,,16113,False,104,False,2,3,False
-Miner/1 (10096).jpg,Miner,miner,128,128,112da5d53b46e25a,,16113,False,104,False,2,3,False
-Miner/1 (10117).jpg,Miner,miner,128,128,2e1a8cec770a934d,,16135,False,103,False,2,4,False
-Miner/1 (10119).jpg,Miner,miner,128,128,186666daa3374ac3,,16137,False,95,False,2,0,False
-Miner/1 (10120).jpg,Miner,miner,128,128,196666daa33742c3,,16137,False,95,False,2,0,False
-Miner/1 (10121).jpg,Miner,miner,128,128,0f78739d324ccc8c,,16139,False,95,False,2,0,False
-Miner/1 (10122).jpg,Miner,miner,128,128,0f78739d3248dc8c,,16139,False,95,False,2,0,False
-Miner/1 (10123).jpg,Miner,miner,128,128,1b66ec9b2570c3a4,,16141,False,95,False,2,0,False
-Miner/1 (10125).jpg,Miner,miner,128,128,0c7366c9a1376b45,,16143,False,95,False,2,0,False
-Miner/1 (10126).jpg,Miner,miner,128,128,0c7366c9a13769c5,,16143,False,95,False,2,0,False
-Miner/1 (10133).jpg,Miner,miner,128,128,182213e6e497e3e3,,16151,False,103,False,2,4,False
-Miner/1 (10134).jpg,Miner,miner,128,128,182217e6a493e3eb,,16151,False,103,False,2,4,False
-Miner/1 (10135).jpg,Miner,miner,128,128,036b4a13b0af4fc3,,16153,False,103,False,2,4,False
-Miner/1 (10137).jpg,Miner,miner,128,128,016b4b10b5afc8f3,,16155,False,103,False,2,4,False
-Miner/1 (10138).jpg,Miner,miner,128,128,016b5b10b58fc8f3,,16155,False,103,False,2,4,False
-Miner/1 (10139).jpg,Miner,miner,128,128,0b1ace64f6ea3123,,16157,False,103,False,2,4,False
-Miner/1 (10141).jpg,Miner,miner,128,128,01591b6daab49d1b,,16159,False,103,False,2,4,False
-Miner/1 (10173).jpg,Miner,miner,256,86,0a548f6c659e73d0,,16191,False,105,False,2,0,True
-Miner/1 (10174).jpg,Miner,miner,128,128,221edb681fd00f1b,,16192,False,105,False,2,0,False
-Miner/1 (10175).jpg,Miner,miner,128,128,036c8778d5b5a91a,,16193,False,103,False,2,4,False
-Miner/1 (10177).jpg,Miner,miner,256,111,1a55ba5a6d9161c6,,16195,False,105,False,2,0,False
-Miner/1 (10178).jpg,Miner,miner,128,128,0a75924e6379b686,,16196,False,105,False,2,0,False
-Miner/1 (10179).jpg,Miner,miner,128,128,136c867351b5add0,,16197,False,103,False,2,4,False
-Miner/1 (10181).jpg,Miner,miner,128,128,0976837892b7ac2b,,16199,False,103,False,2,4,False
-Miner/1 (10182).jpg,Miner,miner,128,128,0976837892b7a52b,,16199,False,103,False,2,4,False
-Miner/1 (10193).jpg,Miner,miner,256,113,0664a6b99e6c93c9,,16211,False,106,False,2,0,True
-Miner/1 (10194).jpg,Miner,miner,128,128,1633e68c79600fba,,16212,False,106,False,2,0,False
-Miner/1 (10195).jpg,Miner,miner,128,128,1926d0b256b5b2b6,,16213,False,106,False,2,0,False
-Miner/1 (10196).jpg,Miner,miner,128,128,1126d1b256b5b2b6,,16213,False,106,False,2,0,False
-Miner/1 (10197).jpg,Miner,miner,128,128,0926c99b7ad8a5c9,,16215,False,106,False,2,0,False
-Miner/1 (10199).jpg,Miner,miner,128,128,122e49916ad6a76b,,16217,False,106,False,2,0,False
-Miner/1 (10201).jpg,Miner,miner,128,128,06b3246c49d275ed,,16219,False,106,False,2,0,False
-Miner/1 (10203).jpg,Miner,miner,128,128,2a44aea9f436994d,,16221,False,107,False,2,1,True
-Miner/1 (10204).jpg,Miner,miner,128,128,2a46aea9f436994c,,16221,False,107,False,2,1,False
-Miner/1 (10205).jpg,Miner,miner,128,128,085c7c87e650e63b,,16223,False,108,False,2,2,True
-Miner/1 (10207).jpg,Miner,miner,128,128,0cc824ddf2031df7,,16225,False,108,False,2,2,False
-Miner/1 (10209).jpg,Miner,miner,128,128,01237fb0887e6756,,16227,False,108,False,2,2,False
-Miner/1 (10211).jpg,Miner,miner,128,128,0c7eb13978a74662,,16229,False,108,False,2,2,False
-Miner/1 (10212).jpg,Miner,miner,128,128,0c7eb33978a75222,,16229,False,108,False,2,2,False
-Miner/1 (10217).jpg,Miner,miner,128,128,02d74b25d8593d36,,16235,False,109,False,2,4,True
-Miner/1 (10218).jpg,Miner,miner,128,128,02d74b2dd8583d36,,16235,False,109,False,2,4,False
-Miner/1 (10219).jpg,Miner,miner,128,128,03711f8470beb85d,,16237,False,110,False,2,2,True
-Miner/1 (10220).jpg,Miner,miner,128,128,03731f8470be985d,,16237,False,110,False,2,2,False
-Miner/1 (10229).jpg,Miner,miner,128,128,2062c3d7352dcd1b,,16247,False,111,False,2,3,True
-Miner/1 (10231).jpg,Miner,miner,128,128,11352699fd6148f6,,16249,False,112,False,2,4,True
-Miner/1 (10233).jpg,Miner,miner,128,128,122b6c9b7a22e8e3,,16251,False,112,False,2,4,False
-Miner/1 (10234).jpg,Miner,miner,128,128,122b6c9b7a02e8f3,,16251,False,112,False,2,4,False
-Miner/1 (10235).jpg,Miner,miner,128,128,11256e99f96188f6,,16249,False,112,False,2,4,False
-Miner/1 (10237).jpg,Miner,miner,128,128,0644737bd9aa4c59,,16255,False,112,False,2,4,False
-Miner/1 (10239).jpg,Miner,miner,128,128,12256c9dfd3309e4,,16257,False,112,False,2,4,False
-Miner/1 (10241).jpg,Miner,miner,128,128,2251b74e9469d335,,16259,False,113,False,2,0,True
-Miner/1 (10253).jpg,Miner,miner,256,101,1863e0861777f998,,16271,False,114,False,2,3,True
-Miner/1 (10254).jpg,Miner,miner,128,128,017ec4c6397c9d89,,16272,False,114,False,2,3,False
-Miner/1 (10255).jpg,Miner,miner,128,128,1e78c10333fa8e4b,,16273,False,115,False,2,0,True
-Miner/1 (10256).jpg,Miner,miner,128,128,1e78c107337a8e4b,,16273,False,115,False,2,0,False
-Miner/1 (10257).jpg,Miner,miner,128,128,246dd9cc85113b79,,16275,False,115,False,2,0,False
-Miner/1 (10259).jpg,Miner,miner,256,80,10406ee683c7cede,,16277,False,115,False,2,0,False
-Miner/1 (10260).jpg,Miner,miner,128,128,073f30f05c0cc75e,,16278,False,115,False,2,0,False
-Miner/1 (10261).jpg,Miner,miner,128,128,2d5bd299ad047256,,16279,False,115,False,2,0,False
-Miner/1 (10263).jpg,Miner,miner,128,128,1f7cd8cc017130f6,,16281,False,115,False,2,0,False
-Miner/1 (10265).jpg,Miner,miner,128,128,1e78cc87711ecf04,,16283,False,115,False,2,0,False
-Miner/1 (10266).jpg,Miner,miner,128,128,1e78c987711ecf04,,16283,False,115,False,2,0,False
-Miner/1 (10267).jpg,Miner,miner,256,125,2c41db8d3d7242cb,,16285,False,116,False,2,1,True
-Miner/1 (10268).jpg,Miner,miner,128,128,1f74817154d1167e,,16286,False,116,False,2,1,False
-Miner/1 (10301).jpg,Miner,miner,256,82,1c73e5921973861d,,16319,False,117,False,2,4,True
-Miner/1 (10302).jpg,Miner,miner,128,128,189c84c662f3b1f5,,16320,False,117,False,2,4,False
-Miner/1 (10303).jpg,Miner,miner,128,128,0d7a72d20eb542ad,,16321,False,117,False,2,4,False
-Miner/1 (10305).jpg,Miner,miner,256,116,187fe5823b62849d,,16319,False,117,False,2,4,False
-Miner/1 (10306).jpg,Miner,miner,128,128,187fc49d634c2a95,,16324,False,117,False,2,4,False
-Miner/1 (10307).jpg,Miner,miner,256,103,187fed80197ac48d,,16325,False,117,False,2,4,False
-Miner/1 (10308).jpg,Miner,miner,128,128,107fe49d32a24eb8,,16326,False,117,False,2,4,False
-Miner/1 (10309).jpg,Miner,miner,256,89,0a8ee575599c84e6,,16327,False,117,False,2,4,False
-Miner/1 (10310).jpg,Miner,miner,128,128,1a7184394e3dd30f,,16328,False,117,False,2,4,False
-Miner/1 (10311).jpg,Miner,miner,256,117,1877e5821f63849d,,16319,False,117,False,2,4,False
-Miner/1 (10312).jpg,Miner,miner,128,128,187fc49da34e2895,,16324,False,117,False,2,4,False
-Miner/1 (10313).jpg,Miner,miner,128,128,097e6697392344ab,,16331,False,117,False,2,4,False
-Miner/1 (10315).jpg,Miner,miner,128,128,1b7884996bd498b5,,16333,False,117,False,2,4,False
-Miner/1 (10316).jpg,Miner,miner,128,128,1b6886996bd498b5,,16333,False,117,False,2,4,False
-Miner/1 (10317).jpg,Miner,miner,128,128,196887986bd49ab5,,16333,False,117,False,2,4,False
-Miner/1 (10318).jpg,Miner,miner,128,128,197886986bd49ab5,,16333,False,117,False,2,4,False
-Miner/1 (10337).jpg,Miner,miner,256,114,151ecee40e6bd11c,,16355,False,118,False,2,1,True
-Miner/1 (10338).jpg,Miner,miner,128,128,29d6ad2b58eb4a14,,16356,False,118,False,2,1,False
-Miner/1 (10339).jpg,Miner,miner,128,128,101cede21ec5711f,,16357,False,118,False,2,1,False
-Miner/1 (10340).jpg,Miner,miner,128,128,101dade21ec5711f,,16357,False,118,False,2,1,False
-Miner/1 (10341).jpg,Miner,miner,128,128,054e50b1ad5ad6b5,,16359,False,118,False,2,1,False
-Miner/1 (10343).jpg,Miner,miner,128,128,100de21ee53b9fe0,,16361,False,118,False,2,1,False
-Miner/1 (10344).jpg,Miner,miner,128,128,101de21ae53b9fe0,,16361,False,118,False,2,1,False
-Miner/1 (10345).jpg,Miner,miner,128,128,101de212e5fb1fe0,,16361,False,118,False,2,1,False
-Miner/1 (10347).jpg,Miner,miner,128,128,131c2de31ecce11e,,16365,False,118,False,2,1,False
-Miner/1 (10348).jpg,Miner,miner,128,128,11e32d1c1e3be1e1,,16365,False,118,False,2,1,False
-Miner/1 (10353).jpg,Miner,miner,128,128,183df00e1cf9037e,,16371,False,119,False,2,3,True
-Miner/1 (10355).jpg,Miner,miner,128,128,0c1ef8c387bee025,,16373,False,119,False,2,3,False
-Miner/1 (10357).jpg,Miner,miner,128,128,0c1cf087be6841df,,16375,False,119,False,2,3,False
-Miner/1 (10359).jpg,Miner,miner,128,128,0c1cf3838f68615f,,16375,False,119,False,2,3,False
-Miner/1 (10361).jpg,Miner,miner,128,128,061ff181af6c411f,,16375,False,119,False,2,3,False
-Miner/1 (10363).jpg,Miner,miner,128,128,061ef1838f6c415f,,16375,False,119,False,2,3,False
-Miner/1 (10365).jpg,Miner,miner,128,128,07077ff08137fe00,,16383,False,119,False,2,3,False
-Miner/1 (10367).jpg,Miner,miner,128,128,070ff881277c407f,,16385,False,119,False,2,3,False
-Miner/1 (10369).jpg,Miner,miner,128,128,061ff1877d409bb0,,16387,False,119,False,2,3,False
-Miner/1 (10371).jpg,Miner,miner,128,128,083de20ef843dfd0,,16389,False,119,False,2,3,False
-Miner/1 (10373).jpg,Miner,miner,128,128,0c1ee3876c60dfb0,,16391,False,119,False,2,3,False
-Miner/1 (10375).jpg,Miner,miner,128,128,0c3cf206bce143de,,16393,False,119,False,2,3,False
-Miner/1 (10377).jpg,Miner,miner,128,128,2d65c9d230cd39c6,,16395,False,119,False,2,3,False
-Miner/1 (10389).jpg,Miner,miner,128,128,3575c89ba6d41193,,16407,False,119,False,2,3,False
-Miner/1 (10391).jpg,Miner,miner,128,128,1139e3cc1de10f4e,,16409,False,119,False,2,3,False
-Miner/1 (10397).jpg,Miner,miner,128,128,1226ec09f83cd98f,,16415,False,120,False,2,3,True
-Miner/1 (10398).jpg,Miner,miner,128,128,1236ec09f81cd98f,,16415,False,120,False,2,3,False
-Miner/1 (10399).jpg,Miner,miner,128,128,1a49cde69870c7d1,,16417,False,120,False,2,3,False
-Miner/1 (10401).jpg,Miner,miner,128,128,0b49ccf3d970c1d8,,16419,False,120,False,2,3,False
-Miner/1 (10402).jpg,Miner,miner,128,128,0b49ccf3d872c178,,16419,False,120,False,2,3,False
-Miner/1 (10403).jpg,Miner,miner,128,128,094ceef3b870c31c,,16421,False,120,False,2,3,False
-Miner/1 (10405).jpg,Miner,miner,128,128,0903f3ce06783f36,,16423,False,120,False,2,3,False
-Miner/1 (10406).jpg,Miner,miner,128,128,0903f3ce0678373e,,16423,False,120,False,2,3,False
-Miner/1 (10407).jpg,Miner,miner,128,128,0933f60e3cfc0cd8,,16425,False,120,False,2,3,False
-Miner/1 (10409).jpg,Miner,miner,128,128,096cf6f33c230c36,,16425,False,120,False,2,3,False
-Miner/1 (10411).jpg,Miner,miner,128,128,0948c6f3f078f1cc,,16429,False,120,False,2,3,False
-Miner/1 (10413).jpg,Miner,miner,128,128,0968ccf3f838c33c,,16421,False,120,False,2,3,False
-Miner/1 (10415).jpg,Miner,miner,128,128,0968cef3fc38c11c,,16421,False,120,False,2,3,False
-Miner/1 (10416).jpg,Miner,miner,128,128,0968cef3fc38c03c,,16421,False,120,False,2,3,False
-Miner/1 (10417).jpg,Miner,miner,128,128,0948ccf3f838e1dc,,16421,False,120,False,2,3,False
-Miner/1 (10419).jpg,Miner,miner,128,128,0968eef3bc31c434,,16421,False,120,False,2,3,False
-Miner/1 (10420).jpg,Miner,miner,128,128,0968eef3bc39c034,,16421,False,120,False,2,3,False
-Miner/1 (10421).jpg,Miner,miner,128,128,0949ecf3b870c35c,,16421,False,120,False,2,3,False
-Miner/1 (10422).jpg,Miner,miner,128,128,094decf3b870c31c,,16421,False,120,False,2,3,False
-Miner/1 (10423).jpg,Miner,miner,128,128,20afad85a8b527ca,,16441,False,120,False,2,3,False
-Miner/1 (10424).jpg,Miner,miner,128,128,2470ad7aa85a2737,,16441,False,120,False,2,3,False
-Miner/1 (10425).jpg,Miner,miner,128,128,19658cb36ed203e6,,16443,False,121,False,2,0,True
-Miner/1 (10427).jpg,Miner,miner,87,256,126de2b441d962b7,,16445,False,121,False,2,0,False
-Miner/1 (10428).jpg,Miner,miner,128,128,2452ab5db42d5ab4,,16446,False,121,False,2,0,False
-Miner/1 (10429).jpg,Miner,miner,128,128,136e95ca25dc43ac,,16447,False,121,False,2,0,False
-Miner/1 (10441).jpg,Miner,miner,128,128,2b548d62c6bd48f4,,16459,False,94,False,2,2,False
-Miner/1 (10442).jpg,Miner,miner,128,128,2b549d62c4bd48f4,,16459,False,94,False,2,2,False
-Miner/1 (10443).jpg,Miner,miner,128,128,2853b54ba56995a9,,16461,False,94,False,2,2,False
-Miner/1 (10444).jpg,Miner,miner,128,128,2853b549a56995ad,,16461,False,94,False,2,2,False
-Miner/1 (10453).jpg,Miner,miner,256,103,255aaa95966b952c,,16471,False,93,False,2,3,False
-Miner/1 (10454).jpg,Miner,miner,128,128,154a89b4f222cbed,,16472,False,93,False,2,3,False
-Miner/1 (10461).jpg,Miner,miner,98,256,1364fb964dda221c,,16479,False,121,False,2,0,False
-Miner/1 (10462).jpg,Miner,miner,128,128,24b6b65253593974,,16480,False,121,False,2,0,False
-Miner/1 (10463).jpg,Miner,miner,125,256,1364bb964dca225d,,16479,False,121,False,2,0,False
-Miner/1 (10464).jpg,Miner,miner,128,128,146892ad5aa7699b,,16482,False,121,False,2,0,False
-Miner/1 (10465).jpg,Miner,miner,90,256,136cf3b441da229d,,16483,False,121,False,2,0,False
-Miner/1 (10466).jpg,Miner,miner,128,128,2546a669d5ac5b54,,16484,False,121,False,2,0,False
-Miner/1 (10467).jpg,Miner,miner,128,128,013fcb609dc5362d,,16485,False,121,False,2,0,False
-Miner/1 (10468).jpg,Miner,miner,128,128,00c1cb9f993a36d6,,16485,False,121,False,2,0,False
-Miner/1 (10469).jpg,Miner,miner,128,128,116e90c936d867ba,,16487,False,121,False,2,0,False
-Miner/1 (10470).jpg,Miner,miner,128,128,11669ac936d863ba,,16487,False,121,False,2,0,False
-Miner/1 (10471).jpg,Miner,miner,128,128,186396c9719e4be1,,16489,False,121,False,2,0,False
-Miner/1 (10473).jpg,Miner,miner,128,128,126c99a64b956e59,,16491,False,121,False,2,0,False
-Miner/1 (10475).jpg,Miner,miner,128,128,1f70996b871b6518,,16493,False,122,False,2,2,True
-Miner/1 (10477).jpg,Miner,miner,128,128,04a767d2c36bb078,,16495,False,123,False,2,2,True
-Miner/1 (10533).jpg,Miner,miner,128,128,057c4691fa1e6933,,16551,False,124,False,2,4,True
-Miner/1 (10535).jpg,Miner,miner,128,128,1933f6eb84945c38,,16553,False,124,False,2,4,False
-Miner/1 (10536).jpg,Miner,miner,128,128,1933f2eb85945c38,,16553,False,124,False,2,4,False
-Miner/1 (10539).jpg,Miner,miner,256,124,070e7ea14ddc20f3,,16557,False,124,False,2,4,False
-Miner/1 (10540).jpg,Miner,miner,128,128,1407d3e60c9b3ccb,,16558,False,124,False,2,4,False
-Miner/1 (10541).jpg,Miner,miner,128,128,1973e6b6f2460b24,,16559,False,124,False,2,4,False
-Miner/1 (10542).jpg,Miner,miner,128,128,1973e6b6f0422b25,,16559,False,124,False,2,4,False
-Miner/1 (10543).jpg,Miner,miner,128,128,18aea740f2bc2ccb,,16561,False,124,False,2,4,False
-Miner/1 (10545).jpg,Miner,miner,128,128,07874dd8e26243dd,,16563,False,124,False,2,4,False
-Miner/1 (10547).jpg,Miner,miner,128,128,01f65d0b50776f48,,16565,False,124,False,2,4,False
-Miner/1 (10548).jpg,Miner,miner,128,128,030b5df450886fb7,,16565,False,124,False,2,4,False
-Miner/1 (10577).jpg,Miner,miner,256,105,0e9c3e78d9972622,,16595,False,124,False,2,4,False
-Miner/1 (10578).jpg,Miner,miner,128,128,027c0df28d527f89,,16596,False,124,False,2,4,False
-Miner/1 (10579).jpg,Miner,miner,256,109,01077ef023df3178,,16597,False,124,False,2,4,False
-Miner/1 (10580).jpg,Miner,miner,128,128,020d39db73ad6c58,,16598,False,124,False,2,4,False
-Miner/1 (10605).jpg,Miner,miner,256,114,1839f3cf0c834e2d,,16623,False,125,False,2,2,True
-Miner/1 (10606).jpg,Miner,miner,128,128,181db5d20eafec42,,16624,False,125,False,2,2,False
-Miner/1 (10609).jpg,Miner,miner,256,102,3124c0d0963f2dfb,,16627,False,125,False,2,2,False
-Miner/1 (10610).jpg,Miner,miner,128,128,113ae99dd8c24cec,,16628,False,125,False,2,2,False
-Miner/1 (10611).jpg,Miner,miner,256,74,188ff30391373c3c,,16629,False,125,False,2,2,False
-Miner/1 (10612).jpg,Miner,miner,128,128,0a0dbfd283af42e8,,16630,False,125,False,2,2,False
-Miner/1 (10613).jpg,Miner,miner,256,93,2125c0d0963bebdb,,16631,False,125,False,2,2,False
-Miner/1 (10614).jpg,Miner,miner,128,128,103eeb99ddc04ce8,,16628,False,125,False,2,2,False
-Miner/1 (10615).jpg,Miner,miner,128,128,287ec6d1c9e42273,,16633,False,126,False,2,1,True
-Miner/1 (10617).jpg,Miner,miner,256,109,3575e2d0923b25e2,,16635,False,125,False,2,2,False
-Miner/1 (10618).jpg,Miner,miner,128,128,1a3be5d48ee042e6,,16636,False,125,False,2,2,False
-Miner/1 (1065).jpg,Miner,miner,128,128,111c26dbd1865f71,,16671,False,92,False,2,0,False
-Miner/1 (1066).jpg,Miner,miner,128,128,111c26d9d186df71,,16671,False,92,False,2,0,False
-Miner/1 (10665).jpg,Miner,miner,128,128,1814d6ad54e9a973,,16688,False,127,False,2,4,True
-Miner/1 (10666).jpg,Miner,miner,128,128,0814d7ad54e9a973,,16688,False,127,False,2,4,False
-Miner/1 (10667).jpg,Miner,miner,128,128,1814cced41eb2b76,,16690,False,127,False,2,4,False
-Miner/1 (10669).jpg,Miner,miner,128,128,341597c0b66387da,,16692,False,127,False,2,4,False
-Miner/1 (1067).jpg,Miner,miner,128,128,126ccc9f136d7d10,,16693,False,128,False,2,3,True
-Miner/1 (10670).jpg,Miner,miner,128,128,341596c0be6387da,,16692,False,127,False,2,4,False
-Miner/1 (10671).jpg,Miner,miner,128,128,021b9be017d7f445,,16695,False,127,False,2,4,False
-Miner/1 (10672).jpg,Miner,miner,128,128,021b9be217d57c45,,16695,False,127,False,2,4,False
-Miner/1 (10673).jpg,Miner,miner,128,128,2109ed8ba9d39ad1,,16697,False,127,False,2,4,False
-Miner/1 (10674).jpg,Miner,miner,128,128,21f6ed7429249a2e,,16697,False,127,False,2,4,False
-Miner/1 (10675).jpg,Miner,miner,128,128,341596c1b66b07da,,16692,False,127,False,2,4,False
-Miner/1 (1068).jpg,Miner,miner,128,128,126ccc9f336c7d10,,16693,False,128,False,2,3,False
-Miner/1 (1069).jpg,Miner,miner,128,128,0566728d5af22d96,,16715,False,92,False,2,0,False
-Miner/1 (1070).jpg,Miner,miner,128,128,0566728d5af62d94,,16715,False,92,False,2,0,False
-Miner/1 (1071).jpg,Miner,miner,128,128,015a721ea9f7d294,,16737,False,92,False,2,0,False
-Miner/1 (10715).jpg,Miner,miner,128,128,086666896ed6ba59,,16743,False,127,False,2,4,False
-Miner/1 (10717).jpg,Miner,miner,128,128,07707a8775d2a166,,16745,False,127,False,2,4,False
-Miner/1 (10718).jpg,Miner,miner,128,128,07707a8775ca8566,,16745,False,127,False,2,4,False
-Miner/1 (10719).jpg,Miner,miner,128,128,0e716287678b2d4e,,16747,False,127,False,2,4,False
-Miner/1 (10720).jpg,Miner,miner,128,128,0e716285678bad4e,,16747,False,127,False,2,4,False
-Miner/1 (10721).jpg,Miner,miner,128,128,101f3dd239c633e4,,16750,False,127,False,2,4,False
-Miner/1 (10723).jpg,Miner,miner,256,118,089c36355677a437,,16752,False,127,False,2,4,False
-Miner/1 (10724).jpg,Miner,miner,128,128,077123856b896eda,,16753,False,127,False,2,4,False
-Miner/1 (10725).jpg,Miner,miner,128,128,14a8a16e59f2b4b5,,16754,False,127,False,2,4,False
-Miner/1 (10727).jpg,Miner,miner,128,128,015a3dd172f9dc22,,16756,False,127,False,2,4,False
-Miner/1 (10729).jpg,Miner,miner,128,128,1964d898f4f2e3a4,,16758,False,127,False,2,4,False
-Miner/1 (10730).jpg,Miner,miner,128,128,1966d898f4f2e1a4,,16758,False,127,False,2,4,False
-Miner/1 (10731).jpg,Miner,miner,256,125,0a6337de5594ac8c,,16761,False,127,False,2,4,False
-Miner/1 (10732).jpg,Miner,miner,128,128,0e71628d678b2d4e,,16747,False,127,False,2,4,False
-Miner/1 (10733).jpg,Miner,miner,256,122,0a6336da65a8acd9,,16763,False,127,False,2,4,False
-Miner/1 (10734).jpg,Miner,miner,128,128,0e732a8d4b8b6d92,,16764,False,127,False,2,4,False
-Miner/1 (10735).jpg,Miner,miner,128,128,0c66668c6e9e6a5c,,16765,False,127,False,2,4,False
-Miner/1 (10737).jpg,Miner,miner,256,119,298d465ec1535ea3,,16767,False,127,False,2,4,False
-Miner/1 (10738).jpg,Miner,miner,128,128,086b19ee819cdf91,,16768,False,127,False,2,4,False
-Miner/1 (10739).jpg,Miner,miner,128,128,131e819ddb1ce496,,16769,False,127,False,2,4,False
-Miner/1 (10740).jpg,Miner,miner,128,128,131e819fdb1ce486,,16769,False,127,False,2,4,False
-Miner/1 (10741).jpg,Miner,miner,128,128,01583dd332ede623,,16772,False,127,False,2,4,False
-Miner/1 (10742).jpg,Miner,miner,128,128,015a3dd332eda623,,16772,False,127,False,2,4,False
-Miner/1 (10743).jpg,Miner,miner,128,128,1716adbb7864624a,,16774,False,127,False,2,4,False
-Miner/1 (10745).jpg,Miner,miner,128,128,032f0df7f09c3413,,16776,False,127,False,2,4,False
-Miner/1 (10747).jpg,Miner,miner,128,128,1714c22f961abba5,,16778,False,127,False,2,4,False
-Miner/1 (10748).jpg,Miner,miner,128,128,1714c22f961af3a5,,16778,False,127,False,2,4,False
-Miner/1 (10749).jpg,Miner,miner,128,128,077835c320eda66b,,16780,False,127,False,2,4,False
-Miner/1 (10750).jpg,Miner,miner,128,128,077835c320ede62b,,16780,False,127,False,2,4,False
-Miner/1 (10751).jpg,Miner,miner,128,128,2070e0f0f17eb762,,16783,False,129,False,2,2,True
-Miner/1 (10752).jpg,Miner,miner,128,128,2070e0f0e17eb763,,16783,False,129,False,2,2,False
-Miner/1 (10753).jpg,Miner,miner,128,128,207dfaf9f8d0a090,,16785,False,129,False,2,2,False
-Miner/1 (10754).jpg,Miner,miner,128,128,207dfaf9f8d0a050,,16785,False,129,False,2,2,False
-Miner/1 (10755).jpg,Miner,miner,128,128,2251a44bb56b9679,,16787,False,129,False,2,2,False
-Miner/1 (10756).jpg,Miner,miner,128,128,2253a44ab56b9679,,16787,False,129,False,2,2,False
-Miner/1 (10757).jpg,Miner,miner,128,128,063cc33ae23fa493,,16789,False,129,False,2,2,False
-Miner/1 (10758).jpg,Miner,miner,128,128,0e3cc33ae23fa093,,16789,False,129,False,2,2,False
-Miner/1 (10759).jpg,Miner,miner,128,128,2876f9fcbc50b050,,16791,False,129,False,2,2,False
-Miner/1 (10760).jpg,Miner,miner,128,128,2876f97cbc50b150,,16791,False,129,False,2,2,False
-Miner/1 (10761).jpg,Miner,miner,128,128,207afdfafc429140,,16794,False,129,False,2,2,False
-Miner/1 (10763).jpg,Miner,miner,128,128,2874fbf8f850b150,,16791,False,129,False,2,2,False
-Miner/1 (10764).jpg,Miner,miner,128,128,2076fbf8bc50b150,,16791,False,129,False,2,2,False
-Miner/1 (10957).jpg,Miner,miner,128,128,07d9d8b0b4741b63,,17009,False,108,False,2,2,False
-Miner/1 (10958).jpg,Miner,miner,128,128,0726d80fb48b3b9c,,17009,False,108,False,2,2,False
-Miner/1 (10959).jpg,Miner,miner,128,128,002ea6d1db1ef165,,17011,False,108,False,2,2,False
-Miner/1 (10960).jpg,Miner,miner,128,128,002ea693db1ef165,,17011,False,108,False,2,2,False
-Miner/1 (10961).jpg,Miner,miner,128,128,0ab7584d37d80df0,,17014,False,108,False,2,2,False
-Miner/1 (10962).jpg,Miner,miner,128,128,0a48d8b3372f0f0f,,17014,False,108,False,2,2,False
-Miner/1 (10963).jpg,Miner,miner,128,128,15c62d6894cbe3c5,,17016,False,108,False,2,2,False
-Miner/1 (10964).jpg,Miner,miner,128,128,15c62d6894ebe351,,17016,False,108,False,2,2,False
-Miner/1 (10965).jpg,Miner,miner,128,128,004fdfb3334c60c7,,17018,False,108,False,2,2,False
-Miner/1 (10966).jpg,Miner,miner,128,128,004fdf33334ce0c7,,17018,False,108,False,2,2,False
-Miner/1 (10967).jpg,Miner,miner,256,111,0829f35e2dd24ce9,,17020,False,130,False,2,2,True
-Miner/1 (10968).jpg,Miner,miner,128,128,0a22556df6ba0d74,,17021,False,130,False,2,2,False
-Miner/1 (11005).jpg,Miner,miner,128,128,0a37d84b37d01bf0,,17062,False,108,False,2,2,False
-Miner/1 (11007).jpg,Miner,miner,128,128,0b27b4c80bf6836b,,17064,False,108,False,2,2,False
-Miner/1 (11009).jpg,Miner,miner,128,128,0b33dc49b6c809de,,17066,False,108,False,2,2,False
-Miner/1 (11089).jpg,Miner,miner,128,128,1a66c19eccb536c8,,17154,False,108,False,2,2,False
-Miner/1 (11090).jpg,Miner,miner,128,128,1a66c19ecc3736c8,,17154,False,108,False,2,2,False
-Miner/1 (11091).jpg,Miner,miner,128,128,13676cb213cd22e3,,17157,False,108,False,2,2,False
-Miner/1 (11092).jpg,Miner,miner,128,128,136764b213cd2ae3,,17157,False,108,False,2,2,False
-Miner/1 (11093).jpg,Miner,miner,128,128,144dce9099ef24d3,,17159,False,108,False,2,2,False
-Miner/1 (11095).jpg,Miner,miner,128,128,055a94a74ae936d6,,17161,False,108,False,2,2,False
-Miner/1 (11096).jpg,Miner,miner,128,128,054a94b74ae936da,,17161,False,108,False,2,2,False
-Miner/1 (11097).jpg,Miner,miner,128,128,0f318ccfb4620f9c,,17163,False,108,False,2,2,False
-Miner/1 (11099).jpg,Miner,miner,128,128,1267c09fcd2437d8,,17165,False,108,False,2,2,False
-Miner/1 (11101).jpg,Miner,miner,128,128,1565839c6bb334a6,,17168,False,108,False,2,2,False
-Miner/1 (11102).jpg,Miner,miner,128,128,1565839c63b334b6,,17168,False,108,False,2,2,False
-Miner/1 (11103).jpg,Miner,miner,128,128,1b6360898fe433cb,,17170,False,108,False,2,2,False
-Miner/1 (11113).jpg,Miner,miner,128,128,0450151e35edede9,,17181,False,131,False,2,0,True
-Miner/1 (11115).jpg,Miner,miner,128,128,0d4af617c80eeac5,,17183,False,132,False,2,4,True
-Miner/1 (11117).jpg,Miner,miner,128,128,041ed7e11ccb2db4,,17185,False,131,False,2,0,False
-Miner/1 (11119).jpg,Miner,miner,128,128,04111f69eb5a3637,,17187,False,131,False,2,0,False
-Miner/1 (11121).jpg,Miner,miner,128,128,03310d51f1aff84b,,17190,False,133,False,2,4,True
-Miner/1 (11123).jpg,Miner,miner,128,128,046e97e31cc8e9b4,,17192,False,131,False,2,0,False
-Miner/1 (11124).jpg,Miner,miner,128,128,042e97e31cd8e9b4,,17192,False,131,False,2,0,False
-Miner/1 (11125).jpg,Miner,miner,128,128,046e0fd7e8a53649,,17194,False,131,False,2,0,False
-Miner/1 (11217).jpg,Miner,miner,128,128,050b55b37b2762ca,,17295,False,131,False,2,0,False
-Miner/1 (11218).jpg,Miner,miner,128,128,050b55b37b2742ce,,17295,False,131,False,2,0,False
-Miner/1 (11245).jpg,Miner,miner,128,128,140954b17ba7676a,,17326,False,131,False,2,0,False
-Miner/1 (11281).jpg,Miner,miner,108,256,15b3396c4c5e9594,,17366,False,134,False,2,1,True
-Miner/1 (11282).jpg,Miner,miner,128,128,1039ee1b71a106ef,,17367,False,134,False,2,1,False
-Miner/1 (11283).jpg,Miner,miner,124,256,01136dc63b37c27c,,17368,False,134,False,2,1,False
-Miner/1 (11284).jpg,Miner,miner,128,128,013bc4dc1ff03715,,17369,False,134,False,2,1,False
-Miner/1 (11285).jpg,Miner,miner,128,128,114c2b956b5c2de6,,17370,False,134,False,2,1,False
-Miner/1 (11286).jpg,Miner,miner,128,128,114c23956b5c2dee,,17370,False,134,False,2,1,False
-Miner/1 (11287).jpg,Miner,miner,128,128,114c6b947bd82dac,,17372,False,134,False,2,1,False
-Miner/1 (11289).jpg,Miner,miner,128,128,013bc48839c3f78f,,17374,False,134,False,2,1,False
-Miner/1 (11290).jpg,Miner,miner,128,128,01c64477393cf6f0,,17374,False,134,False,2,1,False
-Miner/1 (11291).jpg,Miner,miner,110,256,0b9794c95a7b301e,,17377,False,135,False,2,3,True
-Miner/1 (11292).jpg,Miner,miner,128,128,21a5f0d68ad39b29,,17378,False,135,False,2,3,False
-Miner/1 (11293).jpg,Miner,miner,128,128,03367785798f59c0,,17379,False,134,False,2,1,False
-Miner/1 (11294).jpg,Miner,miner,128,128,03373785798f59c0,,17379,False,134,False,2,1,False
-Miner/1 (11295).jpg,Miner,miner,128,128,1446629739da1d9d,,17381,False,134,False,2,1,False
-Miner/1 (11296).jpg,Miner,miner,128,128,1446629339da1dbd,,17381,False,134,False,2,1,False
-Miner/1 (11297).jpg,Miner,miner,128,128,013b6d8838d371b7,,17383,False,134,False,2,1,False
-Miner/1 (11353).jpg,Miner,miner,111,256,02493937c5cd4e73,,17445,False,134,False,2,1,False
-Miner/1 (11354).jpg,Miner,miner,128,128,06363ecc78b63986,,17446,False,134,False,2,1,False
-Miner/1 (11355).jpg,Miner,miner,128,128,01e0c4c7333367f3,,17447,False,134,False,2,1,False
-Miner/1 (11356).jpg,Miner,miner,128,128,01e0c4c633336ff3,,17447,False,134,False,2,1,False
-Miner/1 (11369).jpg,Miner,miner,128,128,031b67c439976cc3,,17462,False,134,False,2,1,False
-Miner/1 (11371).jpg,Miner,miner,128,128,0337cc3337c87718,,17465,False,134,False,2,1,False
-Miner/1 (11373).jpg,Miner,miner,111,256,03693d17d0c4c73b,,17467,False,134,False,2,1,False
-Miner/1 (11374).jpg,Miner,miner,128,128,033b07cc7bb619c2,,17468,False,134,False,2,1,False
-Miner/1 (11375).jpg,Miner,miner,128,128,07697933d9949686,,17469,False,134,False,2,1,False
-Miner/1 (11377).jpg,Miner,miner,128,128,033bc7ec3394e132,,17471,False,134,False,2,1,False
-Miner/1 (11379).jpg,Miner,miner,128,128,00647d3b1f7f21b0,,17473,False,134,False,2,1,False
-Miner/1 (11381).jpg,Miner,miner,128,128,06366e8d7a963986,,17446,False,134,False,2,1,False
-Miner/1 (11383).jpg,Miner,miner,128,128,033fc6a83394693e,,17471,False,134,False,2,1,False
-Miner/1 (11384).jpg,Miner,miner,128,128,033fc6a83394e936,,17471,False,134,False,2,1,False
-Miner/1 (11433).jpg,Miner,miner,128,128,1c31c9738d1873dc,,17533,False,136,False,2,4,True
-Miner/1 (11434).jpg,Miner,miner,128,128,0ccec98c0de77323,,17533,False,136,False,2,4,False
-Miner/1 (11435).jpg,Miner,miner,128,128,1271a64e4a97ecd1,,17535,False,137,False,2,1,True
-Miner/1 (11437).jpg,Miner,miner,128,128,1c33c3661972cd63,,17537,False,136,False,2,4,False
-Miner/1 (11439).jpg,Miner,miner,128,128,0e30cd33871c73ce,,17539,False,136,False,2,4,False
-Miner/1 (11441).jpg,Miner,miner,127,256,0d3861cf3247cc73,,17542,False,136,False,2,4,False
-Miner/1 (11442).jpg,Miner,miner,128,128,0ccfc98ce5733321,,17543,False,136,False,2,4,False
-Miner/1 (11457).jpg,Miner,miner,120,256,162bc3951b78f838,,17559,False,138,False,2,4,True
-Miner/1 (11458).jpg,Miner,miner,128,128,2070f8da0e0f1f1f,,17560,False,138,False,2,4,False
-Miner/1 (11459).jpg,Miner,miner,128,128,0f2767e393151878,,17561,False,138,False,2,4,False
-Miner/1 (11461).jpg,Miner,miner,128,128,2070fdaa1f0f2f11,,17564,False,138,False,2,4,False
-Miner/1 (11463).jpg,Miner,miner,128,128,0e2ee393193878f2,,17566,False,138,False,2,4,False
-Miner/1 (11464).jpg,Miner,miner,128,128,0e2ee3b2193878f2,,17566,False,138,False,2,4,False
-Miner/1 (11465).jpg,Miner,miner,114,256,142e4bd69c397951,,17568,False,138,False,2,4,False
-Miner/1 (11466).jpg,Miner,miner,128,128,0321e1f3911d5e5e,,17569,False,138,False,2,4,False
-Miner/1 (11513).jpg,Miner,miner,128,128,21288b5f961d6d1b,,17621,False,139,False,2,4,True
-Miner/1 (11514).jpg,Miner,miner,128,128,21288b5f9e1d691b,,17621,False,139,False,2,4,False
-Miner/1 (11515).jpg,Miner,miner,91,256,0215acfb112ed16f,,17623,False,139,False,2,4,False
-Miner/1 (11516).jpg,Miner,miner,128,128,20f5ceea0f949c0b,,17624,False,139,False,2,4,False
-Miner/1 (11517).jpg,Miner,miner,128,128,21299e743963d3b4,,17625,False,139,False,2,4,False
-Miner/1 (11519).jpg,Miner,miner,116,256,0605cd71394eb96e,,17627,False,139,False,2,4,False
-Miner/1 (11520).jpg,Miner,miner,128,128,21f7dc42389d901f,,17629,False,139,False,2,4,False
-Miner/1 (11521).jpg,Miner,miner,102,256,2a159ceb993a26d8,,17630,False,139,False,2,4,False
-Miner/1 (11522).jpg,Miner,miner,128,128,20d78ba996d26965,,17631,False,139,False,2,4,False
-Miner/1 (11523).jpg,Miner,miner,128,128,23149d3ae813c6de,,17632,False,139,False,2,4,False
-Miner/1 (11524).jpg,Miner,miner,128,128,2314993ae913c6de,,17632,False,139,False,2,4,False
-Miner/1 (11561).jpg,Miner,miner,128,128,0c6751db01167bad,,17674,False,140,False,2,3,True
-Miner/1 (11563).jpg,Miner,miner,128,128,194cf69379418b8d,,17676,False,140,False,2,3,False
-Miner/1 (11565).jpg,Miner,miner,128,128,194cf6922de043af,,17678,False,140,False,2,3,False
-Miner/1 (11566).jpg,Miner,miner,128,128,11992d4fc9963374,,17678,False,140,False,2,3,False
-Miner/1 (11567).jpg,Miner,miner,128,128,0c67db8976e8a452,,17680,False,140,False,2,3,False
-Miner/1 (11569).jpg,Miner,miner,128,128,1866d2ad6c83177a,,17682,False,140,False,2,3,False
-Miner/1 (11570).jpg,Miner,miner,128,128,186693ad6c831e7a,,17682,False,140,False,2,3,False
-Miner/1 (11571).jpg,Miner,miner,118,256,15492daedd642a99,,17685,False,140,False,2,3,False
-Miner/1 (11572).jpg,Miner,miner,128,128,1944b669c20f74fa,,17686,False,140,False,2,3,False
-Miner/1 (11573).jpg,Miner,miner,128,128,194cf696a971428f,,17678,False,140,False,2,3,False
-Miner/1 (11574).jpg,Miner,miner,128,128,194cf696a971438d,,17678,False,140,False,2,3,False
-Miner/1 (11575).jpg,Miner,miner,128,128,194e96863d50abe5,,17689,False,140,False,2,3,False
-Miner/1 (11577).jpg,Miner,miner,128,128,194cb629439efc52,,17691,False,140,False,2,3,False
-Miner/1 (11578).jpg,Miner,miner,128,128,194cb629439efcc2,,17691,False,140,False,2,3,False
-Miner/1 (11579).jpg,Miner,miner,128,128,194cd6962c7ccaa9,,17693,False,140,False,2,3,False
-Miner/1 (11580).jpg,Miner,miner,128,128,194cf6962c78eaa1,,17693,False,140,False,2,3,False
-Miner/1 (11633).jpg,Miner,miner,128,128,152e6d85f2c27985,,17753,False,141,False,2,1,True
-Miner/1 (11635).jpg,Miner,miner,128,128,1e49da8cc5522fc5,,17755,False,141,False,2,1,False
-Miner/1 (11637).jpg,Miner,miner,128,128,142b6c93f34a6dd0,,17757,False,141,False,2,1,False
-Miner/1 (11639).jpg,Miner,miner,128,128,012a6e97e0d5d1ec,,17759,False,141,False,2,1,False
-Miner/1 (11640).jpg,Miner,miner,128,128,012a6e97e4d1d1ec,,17759,False,141,False,2,1,False
-Miner/1 (11718).jpg,Miner,miner,128,128,19736494a46ddaa3,,16043,False,95,False,2,0,False
-Miner/1 (11720).jpg,Miner,miner,128,128,0e70729f26d899c9,,16045,False,95,False,2,0,False
-Miner/1 (11737).jpg,Miner,miner,128,128,0b6ca54e9378cd2c,,16063,False,102,False,2,2,False
-Miner/1 (11772).jpg,Miner,miner,128,128,036b4a13b0a74fcb,,16153,False,103,False,2,4,False
-Miner/1 (11872).jpg,Miner,miner,128,128,0c7eb13978a75223,,16229,False,108,False,2,2,False
-Miner/1 (11880).jpg,Miner,miner,128,128,03731f8470bea85d,,16237,False,110,False,2,2,False
-Miner/1 (11898).jpg,Miner,miner,128,128,04bf73a4c9d544a6,,16255,False,112,False,2,4,False
-Miner/1 (11962).jpg,Miner,miner,128,128,1873843b624eb5cb,,16320,False,117,False,2,4,False
-Miner/1 (11963).jpg,Miner,miner,128,128,0d7a72d20fb5422d,,16321,False,117,False,2,4,False
-Miner/1 (11970).jpg,Miner,miner,128,128,1a7584394e3dd10f,,16328,False,117,False,2,4,False
-Miner/1 (12000).jpg,Miner,miner,128,128,101dede21ec4711f,,16357,False,118,False,2,1,False
-Miner/1 (12053).jpg,Miner,miner,128,128,0c3ee3876c605fb0,,16391,False,119,False,2,3,False
-Miner/1 (12070).jpg,Miner,miner,128,128,3577c89ba6d41183,,16407,False,119,False,2,3,False
-Miner/1 (12136).jpg,Miner,miner,128,128,144aadd4f243a34f,,16032,False,93,False,2,3,False
-Miner/1 (12138).jpg,Miner,miner,128,128,154aadd46222e9fc,,16034,False,93,False,2,3,False
-Miner/1 (12217).jpg,Miner,miner,128,128,112da5d5bb46625a,,16113,False,104,False,2,3,False
-Miner/1 (12519).jpg,Miner,miner,128,128,1236ec09f83cd90f,,16415,False,120,False,2,3,False
-Miner/1 (12526).jpg,Miner,miner,128,128,094ceef3b870e11c,,16421,False,120,False,2,3,False
-Miner/1 (12528).jpg,Miner,miner,128,128,0913f3ce06783736,,16423,False,120,False,2,3,False
-Miner/1 (12539).jpg,Miner,miner,128,128,0948ccf3f838e3d8,,16421,False,120,False,2,3,False
-Miner/1 (12584).jpg,Miner,miner,128,128,2548b6a953a6798b,,16480,False,121,False,2,0,False
-Miner/1 (12670).jpg,Miner,miner,128,128,030b5df450896fa7,,16565,False,124,False,2,4,False
-Miner/1 (12700).jpg,Miner,miner,128,128,027d0df28d527e89,,16596,False,124,False,2,4,False
-Miner/1 (12793).jpg,Miner,miner,128,128,061b9be017d77445,,16695,False,127,False,2,4,False
-Miner/1 (12874).jpg,Miner,miner,128,128,2070e0f0f17eb563,,16783,False,129,False,2,2,False
-Miner/1 (12881).jpg,Miner,miner,128,128,2076f9fcbc50b150,,16791,False,129,False,2,2,False
-Miner/1 (12882).jpg,Miner,miner,128,128,2876f97cbc50b052,,16791,False,129,False,2,2,False
-Miner/1 (13083).jpg,Miner,miner,128,128,0ab7d84d37d00df0,,17014,False,108,False,2,2,False
-Miner/1 (13243).jpg,Miner,miner,128,128,03310d51f5aef84b,,17190,False,133,False,2,4,False
-Miner/1 (13412).jpg,Miner,miner,128,128,053b448839c7f68f,,17374,False,134,False,2,1,False
-Miner/1 (13506).jpg,Miner,miner,128,128,033fc6a833946976,,17471,False,134,False,2,1,False
-Miner/1 (13584).jpg,Miner,miner,128,128,2070fdab0f0f2f11,,17564,False,138,False,2,4,False
-Miner/1 (13644).jpg,Miner,miner,128,128,242c8b56972d699e,,17631,False,139,False,2,4,False
-Miner/1 (13761).jpg,Miner,miner,128,128,012a6c97e4d5d1ec,,17759,False,141,False,2,1,False
-Phoma/1 (1).jpg,Phoma,phoma,128,128,116a81fa7c817f62,,32995,False,142,False,3,4,True
-Phoma/1 (101).jpg,Phoma,phoma,128,128,0d45fc7406f27287,,32997,False,143,False,3,2,True
-Phoma/1 (102).jpg,Phoma,phoma,128,128,050937c9a23f4f3c,,32998,False,143,False,3,2,False
-Phoma/1 (103).jpg,Phoma,phoma,128,128,0b4df97446f23283,,32999,False,143,False,3,2,False
-Phoma/1 (105).jpg,Phoma,phoma,128,128,037ce74cd33ac234,,33000,False,144,False,3,0,True
-Phoma/1 (106).jpg,Phoma,phoma,128,128,0e12fb9392969c36,,33001,False,145,False,3,4,True
-Phoma/1 (107).jpg,Phoma,phoma,128,128,1b64cdbb6c932864,,33002,False,146,False,3,1,True
-Phoma/1 (11).jpg,Phoma,phoma,128,128,1a7d8a4da0cd32ad,,33005,False,142,False,3,4,False
-Phoma/1 (117).jpg,Phoma,phoma,128,128,0cabb55aab7342e0,,33010,False,147,False,3,1,True
-Phoma/1 (118).jpg,Phoma,phoma,128,128,1361fd1f0642aa3d,,33011,False,147,False,3,1,False
-Phoma/1 (119).jpg,Phoma,phoma,128,128,13dde0009bd255f9,,33012,False,147,False,3,1,False
-Phoma/1 (12).jpg,Phoma,phoma,128,128,0d6c8fe413b5423d,,33013,False,142,False,3,4,False
-Phoma/1 (13).jpg,Phoma,phoma,128,128,1d23dce11ee18738,,33022,False,142,False,3,4,False
-Phoma/1 (131).jpg,Phoma,phoma,128,128,1d25fa54893a6d92,,33024,False,148,False,3,0,True
-Phoma/1 (132).jpg,Phoma,phoma,128,128,2cacbee0c0411f3f,,33025,False,148,False,3,0,False
-Phoma/1 (133).jpg,Phoma,phoma,128,128,2c659db1e39e3045,,33026,False,149,False,3,3,True
-Phoma/1 (134).jpg,Phoma,phoma,128,128,2676e2861e6d09d3,,33027,False,149,False,3,3,False
-Phoma/1 (139).jpg,Phoma,phoma,128,128,0760f0ec7c8095f7,,33032,False,150,False,3,1,True
-Phoma/1 (14).jpg,Phoma,phoma,128,128,052a85623df35db2,,33033,False,142,False,3,4,False
-Phoma/1 (140).jpg,Phoma,phoma,128,128,031fe8818149cdff,,33034,False,150,False,3,1,False
-Phoma/1 (143).jpg,Phoma,phoma,128,128,01226d715fa8b75a,,33037,False,151,False,3,3,True
-Phoma/1 (144).jpg,Phoma,phoma,128,128,002f36295f1eb527,,33038,False,151,False,3,3,False
-Phoma/1 (145).jpg,Phoma,phoma,128,128,00237f714ea9b758,,33039,False,151,False,3,3,False
-Phoma/1 (147).jpg,Phoma,phoma,128,128,02e666e3692f2b49,,33041,False,151,False,3,3,False
-Phoma/1 (148).jpg,Phoma,phoma,128,128,04437c2777849ed6,,33042,False,151,False,3,3,False
-Phoma/1 (149).jpg,Phoma,phoma,128,128,003878e97e1e6f45,,33043,False,151,False,3,3,False
-Phoma/1 (15).jpg,Phoma,phoma,128,128,36269ab65294d693,,33044,False,152,False,3,3,True
-Phoma/1 (150).jpg,Phoma,phoma,128,128,00c7781b6ee8233f,,33043,False,151,False,3,3,False
-Phoma/1 (151).jpg,Phoma,phoma,128,128,10395c8d068bf1fe,,33046,False,151,False,3,3,False
-Phoma/1 (152).jpg,Phoma,phoma,128,128,050efc1d0885f75e,,33047,False,153,False,3,2,True
-Phoma/1 (153).jpg,Phoma,phoma,128,128,145ac9df03c5a0f3,,33048,False,154,False,3,4,True
-Phoma/1 (154).jpg,Phoma,phoma,128,128,0c46a17ef701ee31,,33049,False,155,False,3,3,True
-Phoma/1 (16).jpg,Phoma,phoma,128,128,2a55aae95aa53b41,,33055,False,152,False,3,3,False
-Phoma/1 (182).jpg,Phoma,phoma,128,128,0d497ed6d11e7c20,,33080,False,143,False,3,2,False
-Phoma/1 (183).jpg,Phoma,phoma,128,128,0a4a4f7dc107b792,,33081,False,143,False,3,2,False
-Phoma/1 (184).jpg,Phoma,phoma,128,128,0d172de5e0e73618,,33082,False,143,False,3,2,False
-Phoma/1 (185).jpg,Phoma,phoma,128,128,001e600d7d7fe59c,,33083,False,156,False,3,1,True
-Phoma/1 (186).jpg,Phoma,phoma,128,128,1844ee14f7d650da,,33084,False,156,False,3,1,False
-Phoma/1 (191).jpg,Phoma,phoma,128,128,113986cfa47aa9a6,,33090,False,143,False,3,2,False
-Phoma/1 (192).jpg,Phoma,phoma,128,128,085c3da9eda70745,,33091,False,143,False,3,2,False
-Phoma/1 (193).jpg,Phoma,phoma,128,128,1c1cb9a9a347e592,,33092,False,143,False,3,2,False
-Phoma/1 (194).jpg,Phoma,phoma,128,128,10fa711decee0ec0,,33093,False,157,False,3,3,True
-Phoma/1 (195).jpg,Phoma,phoma,128,128,0c663af9eac315c2,,33094,False,158,False,3,1,True
-Phoma/1 (204).jpg,Phoma,phoma,128,128,1952ad564efc4aa8,,33105,False,159,False,3,1,True
-Phoma/1 (21).jpg,Phoma,phoma,128,128,090ded7c4696f0b2,,33111,False,143,False,3,2,False
-Phoma/1 (219).jpg,Phoma,phoma,128,128,1c11d60eb665d1ae,,33121,False,160,False,3,4,True
-Phoma/1 (22).jpg,Phoma,phoma,128,128,0b6de87006d6721f,,33122,False,143,False,3,2,False
-Phoma/1 (220).jpg,Phoma,phoma,128,128,1935cca2e31a2bd5,,33123,False,160,False,3,4,False
-Phoma/1 (225).jpg,Phoma,phoma,128,128,1c33f64a9ea067d0,,33128,False,160,False,3,4,False
-Phoma/1 (226).jpg,Phoma,phoma,128,128,2642e5e53d6d4b12,,33129,False,161,False,3,0,True
-Phoma/1 (227).jpg,Phoma,phoma,128,128,211e96b69291c4f7,,33130,False,161,False,3,0,False
-Phoma/1 (228).jpg,Phoma,phoma,128,128,1d15449ce7c1be2a,,33131,False,160,False,3,4,False
-Phoma/1 (229).jpg,Phoma,phoma,128,128,061a62cbba74daa3,,33132,False,160,False,3,4,False
-Phoma/1 (23).jpg,Phoma,phoma,128,128,0b32f9db940f07e0,,33133,False,143,False,3,2,False
-Phoma/1 (24).jpg,Phoma,phoma,128,128,0d65fc7202d27b07,,33144,False,143,False,3,2,False
-Phoma/1 (257).jpg,Phoma,phoma,128,128,1913c28d1b6f8ef0,,33163,False,162,False,3,0,True
-Phoma/1 (258).jpg,Phoma,phoma,128,128,0e14e78ee1af6078,,33164,False,162,False,3,0,False
-Phoma/1 (259).jpg,Phoma,phoma,128,128,3232c7cd91d34e1c,,33165,False,162,False,3,0,False
-Phoma/1 (260).jpg,Phoma,phoma,128,128,330ccde5ce07c0e3,,33167,False,162,False,3,0,False
-Phoma/1 (261).jpg,Phoma,phoma,128,128,1915cc1ce7e08f47,,33168,False,162,False,3,0,False
-Phoma/1 (283).jpg,Phoma,phoma,128,128,1b4cd39474cd6549,,33180,False,163,False,3,2,True
-Phoma/1 (284).jpg,Phoma,phoma,128,128,189bc836339b728b,,33181,False,163,False,3,2,False
-Phoma/1 (285).jpg,Phoma,phoma,128,128,033cd31ad9659a2b,,33182,False,163,False,3,2,False
-Phoma/1 (286).jpg,Phoma,phoma,128,128,134bd7256b6a5291,,33183,False,163,False,3,2,False
-Phoma/1 (287).jpg,Phoma,phoma,128,128,064cd7746d2b9a32,,33184,False,163,False,3,2,False
-Phoma/1 (293).jpg,Phoma,phoma,128,128,106a5efdab866522,,33189,False,164,False,3,0,True
-Phoma/1 (294).jpg,Phoma,phoma,128,128,1a7568fca5827631,,33190,False,164,False,3,0,False
-Phoma/1 (295).jpg,Phoma,phoma,128,128,067a58d9bc1b364c,,33191,False,164,False,3,0,False
-Phoma/1 (296).jpg,Phoma,phoma,128,128,131c5a86ed75cc8a,,33192,False,164,False,3,0,False
-Phoma/1 (297).jpg,Phoma,phoma,128,128,132f0ce14ef19cc6,,33193,False,164,False,3,0,False
-Phoma/1 (313).jpg,Phoma,phoma,128,128,191b8b3b55a70ad4,,33205,False,165,False,3,0,True
-Phoma/1 (314).jpg,Phoma,phoma,128,128,1432ad212ecfc1fa,,33206,False,166,False,3,1,True
-Phoma/1 (315).jpg,Phoma,phoma,128,128,07b0f1fa8cba5624,,33207,False,166,False,3,1,False
-Phoma/1 (316).jpg,Phoma,phoma,128,128,064cc14e7e45b3e6,,33208,False,167,False,3,2,True
-Phoma/1 (317).jpg,Phoma,phoma,128,128,1847b91d70f6c3c1,,33209,False,166,False,3,1,False
-Phoma/1 (326).jpg,Phoma,phoma,128,128,071286c64d368efd,,33219,False,168,False,3,2,True
-Phoma/1 (327).jpg,Phoma,phoma,128,128,246af25cf13871e8,,33220,False,168,False,3,2,False
-Phoma/1 (328).jpg,Phoma,phoma,128,128,250782167efbd60c,,33221,False,168,False,3,2,False
-Phoma/1 (329).jpg,Phoma,phoma,128,128,2525c3820dfba66d,,33222,False,168,False,3,2,False
-Phoma/1 (330).jpg,Phoma,phoma,128,128,25069e3cfa8639c3,,33224,False,168,False,3,2,False
-Phoma/1 (331).jpg,Phoma,phoma,128,128,2724e9e2e850fc78,,33225,False,168,False,3,2,False
-Phoma/1 (333).jpg,Phoma,phoma,128,128,33d1e0369ec47b48,,33227,False,169,False,3,4,True
-Phoma/1 (334).jpg,Phoma,phoma,128,128,2225ed98d97292b5,,33228,False,169,False,3,4,False
-Phoma/1 (335).jpg,Phoma,phoma,128,128,0f3c73f8e0338c31,,33229,False,170,False,3,4,True
-Phoma/1 (336).jpg,Phoma,phoma,128,128,0519beb9326319b6,,33230,False,169,False,3,4,False
-Phoma/1 (337).jpg,Phoma,phoma,128,128,0e5ed1b1af6092e1,,33231,False,171,False,3,2,True
-Phoma/1 (338).jpg,Phoma,phoma,128,128,020ebdf01173ce9b,,33232,False,169,False,3,4,False
-Phoma/1 (353).jpg,Phoma,phoma,128,128,124dd66793582db2,,33249,False,172,False,3,3,True
-Phoma/1 (354).jpg,Phoma,phoma,128,128,033c431cf3ce5933,,33250,False,173,False,3,3,True
-Phoma/1 (369).jpg,Phoma,phoma,128,128,03663398c360ff17,,33266,False,174,False,3,2,True
-Phoma/1 (370).jpg,Phoma,phoma,128,128,0871340fcae9bee1,,33267,False,174,False,3,2,False
-Phoma/1 (371).jpg,Phoma,phoma,128,128,2e1d80ee2f554e94,,33268,False,174,False,3,2,False
-Phoma/1 (372).jpg,Phoma,phoma,128,128,059e70cd93e4555a,,33269,False,174,False,3,2,False
-Phoma/1 (373).jpg,Phoma,phoma,128,128,14b7ba572f02e03c,,33270,False,174,False,3,2,False
-Phoma/1 (374).jpg,Phoma,phoma,128,128,251fb58e992768c1,,33271,False,175,False,3,3,True
-Phoma/1 (377).jpg,Phoma,phoma,128,128,0a298dadc556661f,,33274,False,175,False,3,3,False
-Phoma/1 (378).jpg,Phoma,phoma,128,128,1038e9adfc463ec1,,33275,False,175,False,3,3,False
-Phoma/1 (379).jpg,Phoma,phoma,128,128,0d2d8d24c4d67367,,33276,False,175,False,3,3,False
-Phoma/1 (380).jpg,Phoma,phoma,128,128,10cce856edd33638,,33277,False,175,False,3,3,False
-Phoma/1 (381).jpg,Phoma,phoma,128,128,0525c616d25a7b8f,,33278,False,175,False,3,3,False
-Phoma/1 (382).jpg,Phoma,phoma,128,128,0c99d68dcbc68527,,33279,False,175,False,3,3,False
-Phoma/1 (383).jpg,Phoma,phoma,128,128,0727d652c23b299d,,33280,False,175,False,3,3,False
-Phoma/1 (392).jpg,Phoma,phoma,128,128,2959d8d165f38a70,,33289,False,176,False,3,4,True
-Phoma/1 (397).jpg,Phoma,phoma,128,128,163aec67b09b2570,,33294,False,177,False,3,3,True
-Phoma/1 (398).jpg,Phoma,phoma,128,128,05313f9512e13ecb,,33295,False,178,False,3,0,True
-Phoma/1 (407).jpg,Phoma,phoma,128,128,0955d61ec365327a,,33305,False,179,False,3,2,True
-Phoma/1 (408).jpg,Phoma,phoma,128,128,030ad5df141f384f,,33306,False,180,False,3,1,True
-Phoma/1 (409).jpg,Phoma,phoma,128,128,0003af366b4f3c6d,,33307,False,180,False,3,1,False
-Phoma/1 (433).jpg,Phoma,phoma,128,128,247793b8bb285a16,,33331,False,181,False,3,3,True
-Phoma/1 (434).jpg,Phoma,phoma,128,128,026e11555fae88bd,,33332,False,181,False,3,3,False
-Phoma/1 (435).jpg,Phoma,phoma,128,128,267799b80b225e96,,33333,False,181,False,3,3,False
-Phoma/1 (436).jpg,Phoma,phoma,128,128,065582743fdad833,,33334,False,181,False,3,3,False
-Phoma/1 (437).jpg,Phoma,phoma,128,128,315ac4da311ec1cf,,33335,False,181,False,3,3,False
-Phoma/1 (445).jpg,Phoma,phoma,128,128,342be09e81bd16b3,,33343,False,182,False,3,2,True
-Phoma/1 (446).jpg,Phoma,phoma,128,128,122d63b299d53e1a,,33344,False,182,False,3,2,False
-Phoma/1 (447).jpg,Phoma,phoma,128,128,3439e6b1b2657a82,,33345,False,182,False,3,2,False
-Phoma/1 (469).jpg,Phoma,phoma,128,128,1a41aef14f5d8166,,33367,False,183,False,3,1,True
-Phoma/1 (470).jpg,Phoma,phoma,128,128,1d40a7ea455f80af,,33368,False,183,False,3,1,False
-Phoma/1 (471).jpg,Phoma,phoma,128,128,114fc90658137f73,,33369,False,183,False,3,1,False
-Phoma/1 (481).jpg,Phoma,phoma,128,128,0659c1d28ec63e8f,,33379,False,184,False,3,2,True
-Phoma/1 (482).jpg,Phoma,phoma,128,128,0459c3d60e7c1eea,,33380,False,184,False,3,2,False
-Phoma/1 (483).jpg,Phoma,phoma,128,128,0418f1f1c3f516f1,,33381,False,184,False,3,2,False
-Phoma/1 (484).jpg,Phoma,phoma,128,128,04a6d12d873b1f74,,33382,False,184,False,3,2,False
-Phoma/1 (485).jpg,Phoma,phoma,128,128,035d7cfaa0f21a49,,33383,False,184,False,3,2,False
-Phoma/1 (486).jpg,Phoma,phoma,128,128,034cfcfaf2520ae4,,33384,False,184,False,3,2,False
-Phoma/1 (487).jpg,Phoma,phoma,128,128,000c7f3833bfd0e3,,33385,False,184,False,3,2,False
-Phoma/1 (522).jpg,Phoma,phoma,128,128,0459d1f286f41be5,,33418,False,184,False,3,2,False
-Phoma/1 (523).jpg,Phoma,phoma,128,128,1d2dc62b388d3a74,,33419,False,184,False,3,2,False
-Phoma/1 (525).jpg,Phoma,phoma,128,128,1d1fe11178b19b58,,33420,False,185,False,3,3,True
-Phoma/1 (526).jpg,Phoma,phoma,128,128,141fe6a3d7686432,,33421,False,185,False,3,3,False
-Phoma/1 (527).jpg,Phoma,phoma,128,128,1d1fe78545683487,,33422,False,185,False,3,3,False
-Phoma/1 (542).jpg,Phoma,phoma,128,128,033173dbf8800ff4,,33436,False,185,False,3,3,False
-Phoma/1 (543).jpg,Phoma,phoma,128,128,19b2d869380fc6c7,,33437,False,186,False,3,3,True
-Phoma/1 (544).jpg,Phoma,phoma,128,128,0f0761b0f0ef5722,,33438,False,187,False,3,1,True
-Phoma/1 (551).jpg,Phoma,phoma,128,128,033e1ec36071783f,,33445,False,185,False,3,3,False
-Phoma/1 (552).jpg,Phoma,phoma,128,128,077c47e144de8ec1,,33446,False,185,False,3,3,False
-Phoma/1 (553).jpg,Phoma,phoma,128,128,004d3e784bf1c32f,,33447,False,185,False,3,3,False
-Phoma/1 (554).jpg,Phoma,phoma,128,128,077846c360dade87,,33448,False,185,False,3,3,False
-Phoma/1 (555).jpg,Phoma,phoma,128,128,0f781cc361d17c8e,,33449,False,185,False,3,3,False
-Phoma/1 (558).jpg,Phoma,phoma,128,128,09c1a96a3f1d383b,,33452,False,188,False,3,4,True
-Phoma/1 (559).jpg,Phoma,phoma,128,128,0b30835762d79ce3,,33453,False,188,False,3,4,False
-Phoma/1 (560).jpg,Phoma,phoma,128,128,129f86cf45988d1b,,33454,False,188,False,3,4,False
-Phoma/1 (561).jpg,Phoma,phoma,128,128,12238f5e8fbc601b,,33455,False,188,False,3,4,False
-Phoma/1 (562).jpg,Phoma,phoma,128,128,16608f3145679fe8,,33454,False,188,False,3,4,False
-Phoma/1 (563).jpg,Phoma,phoma,128,128,1239a05f4235de3b,,33457,False,188,False,3,4,False
-Phoma/1 (564).jpg,Phoma,phoma,128,128,15608f30c36f9f68,,33458,False,188,False,3,4,False
-Phoma/1 (565).jpg,Phoma,phoma,128,128,12219f4cafb8629d,,33459,False,188,False,3,4,False
-Phoma/1 (566).jpg,Phoma,phoma,128,128,1263af1f424f398c,,33460,False,188,False,3,4,False
-Phoma/1 (587).jpg,Phoma,phoma,128,128,010cebd2e6798de1,,33482,False,189,False,3,3,True
-Phoma/1 (588).jpg,Phoma,phoma,128,128,00f3ea2de68c8e1e,,33483,False,189,False,3,3,False
-Phoma/1 (589).jpg,Phoma,phoma,128,128,180fcf65c34ac1da,,33484,False,190,False,3,4,True
-Phoma/1 (590).jpg,Phoma,phoma,128,128,200f9de0a5ef4c69,,33486,False,191,False,3,2,True
-Phoma/1 (604).jpg,Phoma,phoma,128,128,0a63add432e96e8a,,33499,False,192,False,3,3,True
-Phoma/1 (608).jpg,Phoma,phoma,128,128,0b0df09e271cf196,,33500,False,174,False,3,2,False
-Phoma/1 (625).jpg,Phoma,phoma,128,128,11ecdba43d7a40c3,,33510,False,193,False,3,1,True
-Phoma/1 (635).jpg,Phoma,phoma,128,128,0131dcdac98c6d3e,,33521,False,194,False,3,0,True
-Phoma/1 (647).jpg,Phoma,phoma,128,128,070b795fc8d2362c,,33529,False,194,False,3,0,False
-Phoma/1 (672).jpg,Phoma,phoma,128,128,083683ba9991f4f5,,33548,False,195,False,3,2,True
-Phoma/1 (767).jpg,Phoma,phoma,128,128,0b312eeed20e73e0,,33649,False,196,False,3,0,True
-Phoma/1 (773).jpg,Phoma,phoma,128,128,1c26c7316b966ec4,,33656,False,197,False,3,1,True
-Phoma/1 (774).jpg,Phoma,phoma,128,128,0e63f07330342d3f,,33657,False,198,False,3,0,True
-Phoma/1 (806).jpg,Phoma,phoma,128,128,0f2c1683dec1e9e8,,33693,False,199,False,3,1,True
-Phoma/1 (809).jpg,Phoma,phoma,128,128,1c63e161c361db72,,33696,False,197,False,3,1,False
-Phoma/1 (810).jpg,Phoma,phoma,128,128,1c3cc7b8619ab256,,33698,False,197,False,3,1,False
-Phoma/1 (811).jpg,Phoma,phoma,128,128,1c3f8621d7a464ad,,33699,False,197,False,3,1,False
-Phoma/1 (823).jpg,Phoma,phoma,128,128,221cc1cff86e1f81,,33712,False,200,False,3,1,True
-Phoma/1 (863).jpg,Phoma,phoma,128,128,027cbc0af131e8f6,,33753,False,201,False,3,4,True
-Phoma/1 (898).jpg,Phoma,phoma,128,128,2a1c81d4f17f2f03,,33780,False,202,False,3,2,True
-Phoma/1 (915).jpg,Phoma,phoma,128,128,136aec632ce2a663,,33800,False,203,False,3,0,True
-Phoma/1 (921).jpg,Phoma,phoma,128,128,0242715cbf7b2d45,,33806,False,204,False,3,3,True
-Phoma/2 (104).jpg,Phoma,phoma,128,128,0e62bc6b8c3d4317,,33819,False,205,False,3,1,True
-Phoma/2 (115).jpg,Phoma,phoma,128,128,0e72b86b9c354317,,33819,False,205,False,3,1,False
-Phoma/2 (306).jpg,Phoma,phoma,128,128,0f36b6999e348932,,34022,False,206,False,3,1,True
-Phoma/2 (307).jpg,Phoma,phoma,128,128,0d57c6686c603dbc,,34023,False,207,False,3,3,True
-Phoma/2 (309).jpg,Phoma,phoma,128,128,0d56c2686c243dfe,,34025,False,207,False,3,3,False
-Phoma/2 (311).jpg,Phoma,phoma,128,128,0d56c22964643efe,,34025,False,207,False,3,3,False
-Phoma/2 (41).jpg,Phoma,phoma,128,128,0b7d35c3ce0aa172,,34137,False,205,False,3,1,False
-Phoma/2 (873).jpg,Phoma,phoma,128,128,04fc12aaaf266dc9,,34605,False,208,False,3,3,True
-Phoma/3 (1021).jpg,Phoma,phoma,128,128,0cabb55aab7542e0,,33010,False,147,False,3,1,False
-Phoma/3 (1048).jpg,Phoma,phoma,128,128,002f36295f1eb563,,33038,False,151,False,3,3,False
-Phoma/3 (1056).jpg,Phoma,phoma,128,128,04f1fce2086af7a1,,33047,False,153,False,3,2,False
-Phoma/3 (1090).jpg,Phoma,phoma,128,128,1840fe14f7d650da,,33084,False,156,False,3,1,False
-Phoma/3 (1099).jpg,Phoma,phoma,128,128,0c663af9eac21dc2,,33094,False,158,False,3,1,False
-Phoma/3 (1165).jpg,Phoma,phoma,128,128,1915cc9ce7e08f07,,33168,False,162,False,3,0,False
-Phoma/3 (1199).jpg,Phoma,phoma,128,128,067259d9bc1b364c,,33191,False,164,False,3,0,False
-Phoma/3 (1234).jpg,Phoma,phoma,128,128,2506963cfa8639e3,,33224,False,168,False,3,2,False
-Phoma/3 (1237).jpg,Phoma,phoma,128,128,332ee0c19e187ba6,,33227,False,169,False,3,4,False
-Phoma/3 (1350).jpg,Phoma,phoma,128,128,122d63b299d57c1a,,33344,False,182,False,3,2,False
-Phoma/3 (1391).jpg,Phoma,phoma,128,128,000d7f3833bfd0c3,,33385,False,184,False,3,2,False
-Phoma/3 (1468).jpg,Phoma,phoma,128,128,15608f30c36f9b78,,33458,False,188,False,3,4,False
-Phoma/3 (1494).jpg,Phoma,phoma,128,128,200f9de0e5ef4c61,,33486,False,191,False,3,2,False
-Phoma/3 (1576).jpg,Phoma,phoma,128,128,093683ba8991f4f5,,33548,False,195,False,3,2,False
-Phoma/3 (1802).jpg,Phoma,phoma,128,128,2a1c80d4f17f2f07,,33780,False,202,False,3,2,False
-Phoma/4 (586).jpg,Phoma,phoma,128,128,007065cafa9fe217,,35960,False,209,False,3,0,True
-Phoma/6 (881).jpg,Phoma,phoma,128,128,1f58c5f831d7a920,,39456,False,210,False,3,1,True
-Phoma/6 (883).jpg,Phoma,phoma,128,128,12083ce9c087f7bb,,39458,False,211,False,3,4,True
+id,path,label,width,height,canonical,error,group,duplicate_phash,excluded_conflict,target,fold,is_group_rep
+0,coffee-leaf-diseases/train/images/0.jpg,healthy,2048,1024,286985b69eda3899,,0,False,False,0,3,True
+4,coffee-leaf-diseases/train/images/4.jpg,healthy,2048,1024,241b97f25a2531f2,,4,False,False,0,4,True
+8,coffee-leaf-diseases/train/images/8.jpg,healthy,2048,1024,342dd2f0cb432cb6,,8,False,False,0,3,True
+12,coffee-leaf-diseases/train/images/12.jpg,healthy,2048,1024,2561d25acb3d2dc2,,12,False,False,0,4,True
+16,coffee-leaf-diseases/train/images/16.jpg,phoma,2048,1024,2469d396187b658d,,16,False,False,2,0,True
+20,coffee-leaf-diseases/train/images/20.jpg,miner,2048,1024,206f85b51a5a69e9,,20,False,False,1,1,True
+24,coffee-leaf-diseases/train/images/24.jpg,miner,2048,1024,2466d6975ada380d,,24,False,False,1,3,True
+28,coffee-leaf-diseases/train/images/28.jpg,miner,2048,1024,2461d2965fda306d,,28,False,False,1,1,True
+32,coffee-leaf-diseases/train/images/32.jpg,miner,2048,1024,216d96d39a8e3958,,32,False,False,1,2,True
+36,coffee-leaf-diseases/train/images/36.jpg,miner,2048,1024,203e97c9cb613936,,36,False,False,1,0,True
+38,coffee-leaf-diseases/train/images/38.jpg,miner,2048,1024,203e97c94b693936,,36,False,False,1,0,False
+40,coffee-leaf-diseases/train/images/40.jpg,miner,2048,1024,3169c7b44f4a30ad,,40,False,False,1,0,True
+52,coffee-leaf-diseases/train/images/52.jpg,miner,2048,1024,2897d1689e8f689c,,44,False,False,1,4,True
+56,coffee-leaf-diseases/train/images/56.jpg,miner,2048,1024,2967979a1ac9298e,,48,False,False,1,2,True
+60,coffee-leaf-diseases/train/images/60.jpg,miner,2048,1024,253696cb4be4351a,,52,False,False,1,0,True
+100,coffee-leaf-diseases/train/images/100.jpg,miner,2048,1024,207997e51a5e6169,,56,False,False,1,2,True
+104,coffee-leaf-diseases/train/images/104.jpg,miner,2048,1024,3469c0b4cbda3d89,,60,False,False,1,3,True
+108,coffee-leaf-diseases/train/images/108.jpg,miner,2048,1024,246596ca199d6573,,64,False,False,1,4,True
+112,coffee-leaf-diseases/train/images/112.jpg,miner,2048,1024,056d9e9679496724,,68,False,False,1,1,True
+116,coffee-leaf-diseases/train/images/116.jpg,miner,2048,1024,2166971b5ad1652e,,72,False,False,1,0,True
+120,coffee-leaf-diseases/train/images/120.jpg,miner,2048,1024,206597de5acc2571,,76,False,False,1,3,True
+124,coffee-leaf-diseases/train/images/124.jpg,miner,2048,1024,2166879b58d9316e,,80,False,False,1,4,True
+128,coffee-leaf-diseases/train/images/128.jpg,rust,2048,1024,206997b4ce96b8c9,,84,False,False,3,2,True
+132,coffee-leaf-diseases/train/images/132.jpg,rust,2048,1024,20699396ce9a3ccd,,88,False,False,3,3,True
+136,coffee-leaf-diseases/train/images/136.jpg,rust,2048,1024,3561c29fcd5864c5,,92,False,False,3,1,True
+140,coffee-leaf-diseases/train/images/140.jpg,rust,2048,1024,2566d6914bc9353c,,96,False,False,3,4,True
+144,coffee-leaf-diseases/train/images/144.jpg,rust,2048,1024,2019d7694ce66cb6,,100,False,False,3,0,True
+148,coffee-leaf-diseases/train/images/148.jpg,rust,2048,1024,346dc3d24c9b386c,,104,False,False,3,1,True
+152,coffee-leaf-diseases/train/images/152.jpg,rust,2048,1024,053196c7799c6571,,108,False,False,3,3,True
+156,coffee-leaf-diseases/train/images/156.jpg,rust,2048,1024,24c3963dd8726726,,112,False,False,3,2,True
+160,coffee-leaf-diseases/train/images/160.jpg,rust,2048,1024,253e92e14b0f353c,,116,False,False,3,4,True
+164,coffee-leaf-diseases/train/images/164.jpg,rust,2048,1024,05399ec679186771,,120,False,False,3,1,True
+168,coffee-leaf-diseases/train/images/168.jpg,rust,2048,1024,3166c6959f987889,,124,False,False,3,0,True
+172,coffee-leaf-diseases/train/images/172.jpg,rust,2048,1024,206c95379e9a7899,,128,False,False,3,4,True
+180,coffee-leaf-diseases/train/images/180.jpg,rust,2048,1024,2430d3c749d9473d,,136,False,False,3,2,True
+184,coffee-leaf-diseases/train/images/184.jpg,rust,2048,1024,1439cb672cb232d9,,140,False,False,3,3,True
+188,coffee-leaf-diseases/train/images/188.jpg,healthy,2048,1024,343cc2c34fcf2c8c,,144,False,False,0,0,True
+192,coffee-leaf-diseases/train/images/192.jpg,healthy,2048,1024,3403c3bd1de070cf,,148,False,False,0,1,True
+196,coffee-leaf-diseases/train/images/196.jpg,healthy,2048,1024,3163d2964dc934cd,,152,False,False,0,2,True
+200,coffee-leaf-diseases/train/images/200.jpg,healthy,2048,1024,2c6ac2b40fda3c99,,156,False,False,0,3,True
+204,coffee-leaf-diseases/train/images/204.jpg,healthy,2048,1024,253ad2c09b8e79b8,,160,False,False,0,4,True
+208,coffee-leaf-diseases/train/images/208.jpg,healthy,2048,1024,3434cbc34d9c369c,,164,False,False,0,0,True
+212,coffee-leaf-diseases/train/images/212.jpg,healthy,2048,1024,317a8391cecf682c,,168,False,False,0,0,True
+216,coffee-leaf-diseases/train/images/216.jpg,miner,2048,1024,2569c6c69a9e3958,,172,False,False,1,1,True
+220,coffee-leaf-diseases/train/images/220.jpg,miner,2048,1024,2069c3b68fda70cc,,176,False,False,1,4,True
+224,coffee-leaf-diseases/train/images/224.jpg,miner,2048,1024,2038d6634bc66dec,,180,False,False,1,2,True
+228,coffee-leaf-diseases/train/images/228.jpg,miner,2048,1024,246ec5b59ada3889,,184,False,False,1,3,True
+232,coffee-leaf-diseases/train/images/232.jpg,miner,2048,1024,343cc3c3cdc32c1e,,188,False,False,1,1,True
+236,coffee-leaf-diseases/train/images/236.jpg,miner,2048,1024,3436d3c9498f247a,,192,False,False,1,2,True
+240,coffee-leaf-diseases/train/images/240.jpg,phoma,2048,1024,3471c3974dc93c8c,,196,False,False,2,4,True
+244,coffee-leaf-diseases/train/images/244.jpg,phoma,2048,1024,3471c2974bcabc0d,,200,False,False,2,3,True
+248,coffee-leaf-diseases/train/images/248.jpg,phoma,2048,1024,3466c0b0cfcb58cd,,204,False,False,2,0,True
+252,coffee-leaf-diseases/train/images/252.jpg,phoma,2048,1024,3164c3964ccb7c6c,,208,False,False,2,1,True
+256,coffee-leaf-diseases/train/images/256.jpg,phoma,2048,1024,216d9696781a6765,,212,False,False,2,2,True
+260,coffee-leaf-diseases/train/images/260.jpg,phoma,2048,1024,246dc3961cc97393,,216,False,False,2,3,True
+264,coffee-leaf-diseases/train/images/264.jpg,phoma,2048,1024,31189ee74d2634d3,,220,False,False,2,4,True
+268,coffee-leaf-diseases/train/images/268.jpg,phoma,2048,1024,343cc3c34d9f3498,,224,False,False,2,4,True
+272,coffee-leaf-diseases/train/images/272.jpg,phoma,2048,1024,313cc3e24ddb2c1c,,228,False,False,2,4,True
+276,coffee-leaf-diseases/train/images/276.jpg,phoma,2048,1024,350bc2b48f0f3c78,,232,False,False,2,0,True
+280,coffee-leaf-diseases/train/images/280.jpg,phoma,2048,1024,30e3cb1dcc9c30e3,,236,False,False,2,1,True
+284,coffee-leaf-diseases/train/images/284.jpg,phoma,2048,1024,346cc3938dcb706c,,240,False,False,2,2,True
+288,coffee-leaf-diseases/train/images/288.jpg,phoma,2048,1024,2437d3c31b9d6438,,244,False,False,2,0,True
+292,coffee-leaf-diseases/train/images/292.jpg,phoma,2048,1024,3064cb9b4c9b326d,,248,False,False,2,3,True
+296,coffee-leaf-diseases/train/images/296.jpg,phoma,2048,1024,3163d39c4c9c64e3,,252,False,False,2,1,True
+300,coffee-leaf-diseases/train/images/300.jpg,phoma,2048,1024,243693c99a179dc6,,256,False,False,2,2,True
+304,coffee-leaf-diseases/train/images/304.jpg,phoma,2048,1024,3469c292cbe63c0f,,260,False,False,2,1,True
+308,coffee-leaf-diseases/train/images/308.jpg,phoma,2048,1024,311986e66c4e33b9,,264,False,False,2,3,True
+312,coffee-leaf-diseases/train/images/312.jpg,phoma,2048,1024,356dc3d09c93342e,,268,False,False,2,2,True
+316,coffee-leaf-diseases/train/images/316.jpg,phoma,2048,1024,313896e7c8c6652d,,272,False,False,2,3,True
+320,coffee-leaf-diseases/train/images/320.jpg,phoma,2048,1024,3432c3cd1ecd7498,,276,False,False,2,0,True
+324,coffee-leaf-diseases/train/images/324.jpg,phoma,2048,1024,216dd6c21d9ef019,,280,False,False,2,4,True
+328,coffee-leaf-diseases/train/images/328.jpg,phoma,2048,1024,303bc3e04d4f4ecc,,284,False,False,2,0,True
+332,coffee-leaf-diseases/train/images/332.jpg,phoma,2048,1024,3139d2e4cccf242d,,288,False,False,2,1,True
+336,coffee-leaf-diseases/train/images/336.jpg,phoma,2048,1024,31cd923a696334ce,,292,False,False,2,4,True
+340,coffee-leaf-diseases/train/images/340.jpg,phoma,2048,1024,2533d3cd3c30cc36,,296,False,False,2,2,True
+344,coffee-leaf-diseases/train/images/344.jpg,phoma,2048,1024,307993944bcb2c6d,,300,False,False,2,3,True
+348,coffee-leaf-diseases/train/images/348.jpg,phoma,2048,1024,3432cbc11c9e7179,,304,False,False,2,3,True
+352,coffee-leaf-diseases/train/images/352.jpg,phoma,2048,1024,3132c3cb4ecc646e,,308,False,False,2,4,True
+356,coffee-leaf-diseases/train/images/356.jpg,phoma,2048,1024,3433c2c99bce70b4,,312,False,False,2,0,True
+360,coffee-leaf-diseases/train/images/360.jpg,phoma,2048,1024,3038cfc36d4cb634,,316,False,False,2,1,True
+364,coffee-leaf-diseases/train/images/364.jpg,phoma,2048,1024,303c9ec36d1c32e3,,264,False,False,2,3,False
+368,coffee-leaf-diseases/train/images/368.jpg,phoma,2048,1024,3079cbc36ccc703c,,324,False,False,2,0,True
+372,coffee-leaf-diseases/train/images/372.jpg,phoma,2048,1024,3063db9e4c713c1c,,328,False,False,2,2,True
+376,coffee-leaf-diseases/train/images/376.jpg,phoma,2048,1024,2c69d3968bda8c89,,332,False,False,2,3,True
+380,coffee-leaf-diseases/train/images/380.jpg,phoma,2048,1024,307bc3954dce60e4,,336,False,False,2,1,True
+384,coffee-leaf-diseases/train/images/384.jpg,phoma,2048,1024,346dc0f40f9b3079,,340,False,False,2,2,True
+388,coffee-leaf-diseases/train/images/388.jpg,phoma,2048,1024,391b97e5c8ca6419,,344,False,False,2,4,True
+392,coffee-leaf-diseases/train/images/392.jpg,phoma,2048,1024,3465c39bcf6d0c90,,348,False,False,2,0,True
+396,coffee-leaf-diseases/train/images/396.jpg,phoma,2048,1024,30cdc23c2db3e0cb,,352,False,False,2,1,True
+400,coffee-leaf-diseases/train/images/400.jpg,phoma,2048,1024,286296b58fda68c9,,356,False,False,2,2,True
+404,coffee-leaf-diseases/train/images/404.jpg,phoma,2048,1024,3063c79e1bc8346d,,360,False,False,2,3,True
+408,coffee-leaf-diseases/train/images/408.jpg,phoma,2048,1024,34cec2380b33e4f3,,364,False,False,2,4,True
+412,coffee-leaf-diseases/train/images/412.jpg,phoma,2048,1024,2d25d0728e87d8da,,368,False,False,2,2,True
+416,coffee-leaf-diseases/train/images/416.jpg,phoma,2048,1024,246dc2b61bd33839,,372,False,False,2,0,True
+420,coffee-leaf-diseases/train/images/420.jpg,phoma,2048,1024,213696cb1e8d6936,,376,False,False,2,1,True
+424,coffee-leaf-diseases/train/images/424.jpg,phoma,2048,1024,346cc3934cc93c3e,,380,False,False,2,3,True
+428,coffee-leaf-diseases/train/images/428.jpg,phoma,2048,1024,306dc3924c6f3ce4,,384,False,False,2,4,True
+432,coffee-leaf-diseases/train/images/432.jpg,phoma,2048,1024,3261c1b6cf9b9c48,,388,False,False,2,0,True
+436,coffee-leaf-diseases/train/images/436.jpg,phoma,2048,1024,2c3c92c31b9d6578,,392,False,False,2,3,True
+440,coffee-leaf-diseases/train/images/440.jpg,phoma,2048,1024,2566dacb1c9f6160,,396,False,False,2,1,True
+444,coffee-leaf-diseases/train/images/444.jpg,phoma,2048,1024,343ec3e1cccf0c8c,,400,False,False,2,2,True
+448,coffee-leaf-diseases/train/images/448.jpg,phoma,2048,1024,24ce96391b62649f,,404,False,False,2,1,True
+452,coffee-leaf-diseases/train/images/452.jpg,phoma,2048,1024,3086c7796cb5704e,,408,False,False,2,4,True
+456,coffee-leaf-diseases/train/images/456.jpg,phoma,2048,1024,3167c69858cd3566,,412,False,False,2,0,True
+460,coffee-leaf-diseases/train/images/460.jpg,phoma,2048,1024,2d38c6c39b877138,,416,False,False,2,3,True
+464,coffee-leaf-diseases/train/images/464.jpg,phoma,2048,1024,213d97c31a6e65b0,,420,False,False,2,2,True
+468,coffee-leaf-diseases/train/images/468.jpg,phoma,2048,1024,303893e34bcf64d8,,424,False,False,2,4,True
+472,coffee-leaf-diseases/train/images/472.jpg,phoma,2048,1024,254dc6e39a363938,,428,False,False,2,1,True
+476,coffee-leaf-diseases/train/images/476.jpg,phoma,2048,1024,3019cbe14c661ef6,,432,False,False,2,4,True
+480,coffee-leaf-diseases/train/images/480.jpg,phoma,2048,1024,2133964f59cc6536,,436,False,False,2,0,True
+484,coffee-leaf-diseases/train/images/484.jpg,phoma,2048,1024,3077c3d14d9c34e1,,440,False,False,2,2,True
+488,coffee-leaf-diseases/train/images/488.jpg,phoma,2048,1024,206f9e9c693334e4,,444,False,False,2,3,True
+492,coffee-leaf-diseases/train/images/492.jpg,phoma,2048,1024,253697c939946837,,448,False,False,2,2,True
+496,coffee-leaf-diseases/train/images/496.jpg,phoma,2048,1024,249bce6d19a6619a,,452,False,False,2,0,True
+604,coffee-leaf-diseases/train/images/604.jpg,phoma,2048,1024,2d1f94e0dac76125,,460,False,False,2,3,True
+608,coffee-leaf-diseases/train/images/608.jpg,phoma,2048,1024,2433c7cb1b6d6192,,464,False,False,2,1,True
+612,coffee-leaf-diseases/train/images/612.jpg,phoma,2048,1024,2d6bc2941ec97193,,468,False,False,2,4,True
+616,coffee-leaf-diseases/train/images/616.jpg,phoma,2048,1024,340fc3f2b94b6238,,472,False,False,2,0,True
+620,coffee-leaf-diseases/train/images/620.jpg,phoma,2048,1024,254cc2378fe238cb,,476,False,False,2,1,True
+624,coffee-leaf-diseases/train/images/624.jpg,phoma,2048,1024,20c7931ec9316d73,,480,False,False,2,2,True
+628,coffee-leaf-diseases/train/images/628.jpg,phoma,2048,1024,3039dec349ce346c,,484,False,False,2,3,True
+632,coffee-leaf-diseases/train/images/632.jpg,phoma,2048,1024,3419d3c3cc666c3c,,488,False,False,2,3,True
+636,coffee-leaf-diseases/train/images/636.jpg,phoma,2048,1024,314dc3b40e1b34ed,,492,False,False,2,4,True
+640,coffee-leaf-diseases/train/images/640.jpg,phoma,2048,1024,3438d3e1c9c64d1e,,496,False,False,2,0,True
+644,coffee-leaf-diseases/train/images/644.jpg,phoma,2048,1024,3b3ed4f082c06a8f,,500,False,False,2,2,True
+648,coffee-leaf-diseases/train/images/648.jpg,rust,2048,1024,3161c39e4cb16ccd,,504,False,False,3,1,True
+652,coffee-leaf-diseases/train/images/652.jpg,phoma,2048,1024,3149d2b58f4e7868,,508,False,False,2,4,True
+656,coffee-leaf-diseases/train/images/656.jpg,phoma,2048,1024,2f39d0b48ac24dcb,,512,False,False,2,1,True
+660,coffee-leaf-diseases/train/images/660.jpg,phoma,2048,1024,296386959bca788d,,516,False,False,2,2,True
+664,coffee-leaf-diseases/train/images/664.jpg,phoma,2048,1024,3039cfc66c6833b1,,520,False,False,2,0,True
+668,coffee-leaf-diseases/train/images/668.jpg,phoma,2048,1024,3169c296cdcf606c,,524,False,False,2,3,True
+672,coffee-leaf-diseases/train/images/672.jpg,phoma,2048,1024,3036cbc16c9e3678,,528,False,False,2,4,True
+676,coffee-leaf-diseases/train/images/676.jpg,phoma,2048,1024,2ccdd03b1bb434c6,,532,False,False,2,1,True
+680,coffee-leaf-diseases/train/images/680.jpg,phoma,2048,1024,2c6ac684da5b1cd9,,536,False,False,2,2,True
+684,coffee-leaf-diseases/train/images/684.jpg,miner,2048,1024,347cc7c319ce6498,,540,False,False,1,0,True
+688,coffee-leaf-diseases/train/images/688.jpg,healthy,2048,1024,214796589a7169e7,,544,False,False,0,3,True
+692,coffee-leaf-diseases/train/images/692.jpg,healthy,2048,1024,205a87a59ada79a5,,548,False,False,0,4,True
+696,coffee-leaf-diseases/train/images/696.jpg,healthy,2048,1024,307896c649db3c1d,,552,False,False,0,0,True
+700,coffee-leaf-diseases/train/images/700.jpg,healthy,2048,1024,2559d2971d6a7035,,556,False,False,0,4,True
+712,coffee-leaf-diseases/train/images/712.jpg,rust,2048,1024,282797884f3ce1d3,,564,False,False,3,1,True
+716,coffee-leaf-diseases/train/images/716.jpg,rust,2048,1024,2931d4cacf1de898,,568,False,False,3,2,True
+720,coffee-leaf-diseases/train/images/720.jpg,healthy,2048,1024,383e85e1ca966c3c,,572,False,False,0,3,True
+724,coffee-leaf-diseases/train/images/724.jpg,healthy,2048,1024,246bc3949aca7c99,,576,False,False,0,0,True
+728,coffee-leaf-diseases/train/images/728.jpg,phoma,2048,1024,2163961eda906d4f,,580,False,False,2,1,True
+732,coffee-leaf-diseases/train/images/732.jpg,rust,2048,1024,2533d2c4196e71b5,,584,False,False,3,2,True
+736,coffee-leaf-diseases/train/images/736.jpg,phoma,2048,1024,2564c26a9e92f8d9,,588,False,False,2,3,True
+740,coffee-leaf-diseases/train/images/740.jpg,healthy,2048,1024,2566d2c0cb3b3cc9,,592,False,False,0,4,True
+744,coffee-leaf-diseases/train/images/744.jpg,healthy,2048,1024,2c64c63a9b93398e,,596,False,False,0,2,True
+748,coffee-leaf-diseases/train/images/748.jpg,healthy,2048,1024,243492cf79bc6463,,600,False,False,0,0,True
+752,coffee-leaf-diseases/train/images/752.jpg,healthy,2048,1024,351cc3c99c266d36,,604,False,False,0,1,True
+756,coffee-leaf-diseases/train/images/756.jpg,phoma,2048,1024,3439c2d08bcb3cb6,,608,False,False,2,0,True
+760,coffee-leaf-diseases/train/images/760.jpg,healthy,2048,1024,213cc69359ce3539,,612,False,False,0,1,True
+764,coffee-leaf-diseases/train/images/764.jpg,healthy,2048,1024,3127c39b4ccd646c,,616,False,False,0,3,True
+768,coffee-leaf-diseases/train/images/768.jpg,rust,2048,1024,343cc3e3199e3998,,620,False,False,3,4,True
+772,coffee-leaf-diseases/train/images/772.jpg,phoma,2048,1024,2c3c93e1cb8f2c38,,624,False,False,2,2,True
+776,coffee-leaf-diseases/train/images/776.jpg,healthy,2048,1024,24b0864fdaec29cb,,628,False,False,0,3,True
+780,coffee-leaf-diseases/train/images/780.jpg,phoma,2048,1024,28da87699a336966,,632,False,False,2,4,True
+784,coffee-leaf-diseases/train/images/784.jpg,phoma,2048,1024,2d3f90e0da870d8b,,636,False,False,2,3,True
+788,coffee-leaf-diseases/train/images/788.jpg,healthy,2048,1024,2d39d0e08a873ddc,,640,False,False,0,0,True
+792,coffee-leaf-diseases/train/images/792.jpg,healthy,2048,1024,283e95f0dac3898e,,644,False,False,0,1,True
+796,coffee-leaf-diseases/train/images/796.jpg,phoma,2048,1024,2924c6db9ec5191e,,648,False,False,2,2,True
+800,coffee-leaf-diseases/train/images/800.jpg,phoma,2048,1024,2d3bc2a59f8ed801,,652,False,False,2,4,True
+804,coffee-leaf-diseases/train/images/804.jpg,miner,2048,1024,286a97951f9a7069,,656,False,False,1,0,True
+808,coffee-leaf-diseases/train/images/808.jpg,phoma,2048,1024,2d6c92f04b1b392d,,660,False,False,2,1,True
+812,coffee-leaf-diseases/train/images/812.jpg,healthy,2048,1024,2d6b91e4cb923c4c,,664,False,False,0,3,True
+816,coffee-leaf-diseases/train/images/816.jpg,miner,2048,1024,3435c2d35b8f344c,,668,False,False,1,2,True
+820,coffee-leaf-diseases/train/images/820.jpg,phoma,2048,1024,243cd2c1cf973c98,,672,False,False,2,4,True
+824,coffee-leaf-diseases/train/images/824.jpg,healthy,2048,1024,291d87c0cae76d16,,676,False,False,0,0,True
+828,coffee-leaf-diseases/train/images/828.jpg,miner,2048,1024,346dc3929ccf4b18,,680,False,False,1,2,True
+832,coffee-leaf-diseases/train/images/832.jpg,healthy,2048,1024,3867c7948c9b38c9,,684,False,False,0,1,True
+836,coffee-leaf-diseases/train/images/836.jpg,miner,2048,1024,293497caca2d3d16,,688,False,False,1,3,True
+840,coffee-leaf-diseases/train/images/840.jpg,rust,2048,1024,2c39c1c2cb253d7c,,692,False,False,3,4,True
+844,coffee-leaf-diseases/train/images/844.jpg,healthy,2048,1024,2c69c2b48fd2784b,,696,False,False,0,3,True
+848,coffee-leaf-diseases/train/images/848.jpg,healthy,2048,1024,396d8390cecb3c0d,,700,False,False,0,0,True
+852,coffee-leaf-diseases/train/images/852.jpg,miner,2048,1024,283497c39b8f689c,,704,False,False,1,1,True
+856,coffee-leaf-diseases/train/images/856.jpg,miner,2048,1024,25689237cbd83ca5,,708,False,False,1,2,True
+860,coffee-leaf-diseases/train/images/860.jpg,healthy,2048,1024,3065c3b68c99366d,,712,False,False,0,4,True
+864,coffee-leaf-diseases/train/images/864.jpg,miner,2048,1024,3c3c92c1cb8f25d8,,716,False,False,1,4,True
+868,coffee-leaf-diseases/train/images/868.jpg,healthy,2048,1024,3c619396cdd83ac1,,720,False,False,0,0,True
+872,coffee-leaf-diseases/train/images/872.jpg,miner,2048,1024,383187c29e8f791c,,724,False,False,1,1,True
+884,coffee-leaf-diseases/train/images/884.jpg,rust,2048,1024,2c26948d1b7c69d3,,728,False,False,3,2,True
+888,coffee-leaf-diseases/train/images/888.jpg,miner,2048,1024,2459c7b6196a61b5,,732,False,False,1,3,True
+892,coffee-leaf-diseases/train/images/892.jpg,miner,2048,1024,3c38c2c1cfc72c1e,,736,False,False,1,1,True
+896,coffee-leaf-diseases/train/images/896.jpg,rust,2048,1024,2863878e1b3c6dc3,,740,False,False,3,0,True
+900,coffee-leaf-diseases/train/images/900.jpg,rust,2048,1024,293296835a7c6dd2,,744,False,False,3,2,True
+904,coffee-leaf-diseases/train/images/904.jpg,healthy,2048,1024,2d79d0b40bcf3434,,748,False,False,0,3,True
+908,coffee-leaf-diseases/train/images/908.jpg,miner,2048,1024,343dc3c3c986999c,,752,False,False,1,4,True
+912,coffee-leaf-diseases/train/images/912.jpg,miner,2048,1024,3d66c290cf9b1c89,,756,False,False,1,2,True
+916,coffee-leaf-diseases/train/images/916.jpg,healthy,2048,1024,28e4875b5ad929e2,,760,False,False,0,0,True
+920,coffee-leaf-diseases/train/images/920.jpg,healthy,2048,1024,3d2c93f0cbc3cc09,,764,False,False,0,1,True
+924,coffee-leaf-diseases/train/images/924.jpg,healthy,2048,1024,213896c7599e2579,,768,False,False,0,3,True
+928,coffee-leaf-diseases/train/images/928.jpg,miner,2048,1024,342cd3d34c9d3478,,772,False,False,1,4,True
+932,coffee-leaf-diseases/train/images/932.jpg,healthy,2048,1024,384f9394cfd06c38,,776,False,False,0,0,True
+940,coffee-leaf-diseases/train/images/940.jpg,healthy,2048,1024,2443923bcf692cce,,780,False,False,0,1,True
+944,coffee-leaf-diseases/train/images/944.jpg,rust,2048,1024,296996862f3a34cd,,784,False,False,3,2,True
+948,coffee-leaf-diseases/train/images/948.jpg,miner,2048,1024,2e9cc0695ba73934,,788,False,False,1,4,True
+952,coffee-leaf-diseases/train/images/952.jpg,miner,2048,1024,2962913fced83c29,,792,False,False,1,3,True
+956,coffee-leaf-diseases/train/images/956.jpg,miner,2048,1024,2d6cd0950f5a34e5,,796,False,False,1,0,True
+960,coffee-leaf-diseases/train/images/960.jpg,rust,2048,1024,3163c296ce0bf83c,,800,False,False,3,1,True
+964,coffee-leaf-diseases/train/images/964.jpg,healthy,2048,1024,2ce6c21c69d93467,,804,False,False,0,3,True
+968,coffee-leaf-diseases/train/images/968.jpg,rust,2048,1024,383c96c0ca6f2dd4,,808,False,False,3,2,True
+972,coffee-leaf-diseases/train/images/972.jpg,miner,2048,1024,2e39d4c04b0f3d78,,812,False,False,1,4,True
+976,coffee-leaf-diseases/train/images/976.jpg,miner,2048,1024,2111866fd9c63dcc,,816,False,False,1,1,True
+980,coffee-leaf-diseases/train/images/980.jpg,miner,2048,1024,3d24c2c8cf8fc8d2,,820,False,False,1,0,True
+984,coffee-leaf-diseases/train/images/984.jpg,miner,2048,1024,346ec2f4cf930c49,,824,False,False,1,1,True
+992,coffee-leaf-diseases/train/images/992.jpg,miner,2048,1024,286fc5941f1a70e9,,828,False,False,1,4,True
+996,coffee-leaf-diseases/train/images/996.jpg,healthy,2048,1024,3434c2cb8d963cd3,,832,False,False,0,2,True
+1000,coffee-leaf-diseases/train/images/1000.jpg,miner,2048,1024,346dc6968dd33889,,836,False,False,1,3,True
+1004,coffee-leaf-diseases/train/images/1004.jpg,healthy,2048,1024,2c6bc0358fd21cd9,,840,False,False,0,0,True
+1008,coffee-leaf-diseases/train/images/1008.jpg,miner,2048,1024,310ec2989f673867,,844,False,False,1,2,True
+1012,coffee-leaf-diseases/train/images/1012.jpg,healthy,2048,1024,283297c75a1e2979,,848,False,False,0,3,True
+1016,coffee-leaf-diseases/train/images/1016.jpg,healthy,2048,1024,206c979748db354d,,852,False,False,0,0,True
+1024,coffee-leaf-diseases/train/images/1024.jpg,miner,2048,1024,2da3921fcb38cd90,,856,False,False,1,4,True
+1028,coffee-leaf-diseases/train/images/1028.jpg,rust,2048,1024,3b94c0588d678e67,,860,False,False,3,3,True
+1032,coffee-leaf-diseases/train/images/1032.jpg,miner,2048,1024,3532d2f0cb838d87,,864,False,False,1,1,True
+1036,coffee-leaf-diseases/train/images/1036.jpg,healthy,2048,1024,291e97e15a1e25f0,,868,False,False,0,4,True
+1040,coffee-leaf-diseases/train/images/1040.jpg,rust,2048,1024,3b69c0968fc2e88b,,872,False,False,3,4,True
+1044,coffee-leaf-diseases/train/images/1044.jpg,miner,2048,1024,3c6ac0b58f92329b,,876,False,False,1,2,True
+1048,coffee-leaf-diseases/train/images/1048.jpg,healthy,2048,1024,2d68d2b48f931c8b,,880,False,False,0,2,True
+1052,coffee-leaf-diseases/train/images/1052.jpg,miner,2048,1024,2ccac2b48f727863,,884,False,False,1,0,True
+1056,coffee-leaf-diseases/train/images/1056.jpg,healthy,2048,1024,246987b69c9a39c9,,888,False,False,0,1,True
+1060,coffee-leaf-diseases/train/images/1060.jpg,healthy,2048,1024,3934c0e19bcf918d,,892,False,False,0,3,True
+1064,coffee-leaf-diseases/train/images/1064.jpg,healthy,2048,1024,341ad3c9cfc66c12,,896,False,False,0,1,True
+1068,coffee-leaf-diseases/train/images/1068.jpg,miner,2048,1024,2d3dd2c04d8f6c38,,900,False,False,1,0,True
+1072,coffee-leaf-diseases/train/images/1072.jpg,miner,2048,1024,3d68d2b48fc2c88d,,904,False,False,1,2,True
+1076,coffee-leaf-diseases/train/images/1076.jpg,healthy,2048,1024,2e3194c29b8d39dc,,908,False,False,0,3,True
+1080,coffee-leaf-diseases/train/images/1080.jpg,miner,2048,1024,386f8794ce9a0e49,,912,False,False,1,4,True
+1084,coffee-leaf-diseases/train/images/1084.jpg,miner,2048,1024,311c96e1c9372c3b,,916,False,False,1,4,True
+1088,coffee-leaf-diseases/train/images/1088.jpg,rust,2048,1024,3977c192cec94c0d,,920,False,False,3,1,True
+1092,coffee-leaf-diseases/train/images/1092.jpg,miner,2048,1024,28b4d06a97cd746c,,924,False,False,1,0,True
+1096,coffee-leaf-diseases/train/images/1096.jpg,healthy,2048,1024,2f60d4a68ade398a,,928,False,False,0,2,True
+1300,coffee-leaf-diseases/train/images/1300.jpg,miner,2048,1024,283a87e39e47589c,,932,False,False,1,3,True
+1304,coffee-leaf-diseases/train/images/1304.jpg,healthy,2048,1024,156fc1c4da1a392d,,936,False,False,0,0,True
+1308,coffee-leaf-diseases/train/images/1308.jpg,miner,2048,1024,2552c41f9a7c68e3,,940,False,False,1,1,True
+1312,coffee-leaf-diseases/train/images/1312.jpg,miner,2048,1024,2077855a1e2d79d4,,944,False,False,1,2,True
+1316,coffee-leaf-diseases/train/images/1316.jpg,healthy,2048,1024,155bc06d2e9631d9,,948,False,False,0,3,True
+1320,coffee-leaf-diseases/train/images/1320.jpg,miner,2048,1024,2917c5d8de09187d,,952,False,False,1,4,True
+1324,coffee-leaf-diseases/train/images/1324.jpg,healthy,2048,1024,213887c35a676d96,,956,False,False,0,0,True
+1328,coffee-leaf-diseases/train/images/1328.jpg,miner,2048,1024,216e861d9e7269a3,,960,False,False,1,1,True
+1332,coffee-leaf-diseases/train/images/1332.jpg,healthy,2048,1024,213e9e4949ce6cc6,,964,False,False,0,2,True
+1336,coffee-leaf-diseases/train/images/1336.jpg,miner,2048,1024,146cc2e33b1b34bc,,968,False,False,1,3,True
+1340,coffee-leaf-diseases/train/images/1340.jpg,miner,2048,1024,3527d2d8cb012cde,,972,False,False,1,4,True
+1344,coffee-leaf-diseases/train/images/1344.jpg,miner,2048,1024,047b87e4391e6671,,976,False,False,1,0,True
+1348,coffee-leaf-diseases/train/images/1348.jpg,rust,2048,1024,293393499e9e998c,,980,False,False,3,3,True
+1352,coffee-leaf-diseases/train/images/1352.jpg,miner,2048,1024,214f87b41a3278eb,,984,False,False,1,2,True
+1356,coffee-leaf-diseases/train/images/1356.jpg,miner,2048,1024,3078939349cf2cc7,,988,False,False,1,1,True
+1364,coffee-leaf-diseases/train/images/1364.jpg,healthy,2048,1024,2961859f9ad4398b,,992,False,False,0,4,True
+1368,coffee-leaf-diseases/train/images/1368.jpg,healthy,2048,1024,216696e35a9a6d98,,996,False,False,0,0,True
+1372,coffee-leaf-diseases/train/images/1372.jpg,rust,2048,1024,292e86c06a3c3d9f,,1000,False,False,3,1,True
+1376,coffee-leaf-diseases/train/images/1376.jpg,miner,2048,1024,217d85e29a4768b6,,1004,False,False,1,4,True
+1380,coffee-leaf-diseases/train/images/1380.jpg,healthy,2048,1024,216cc6d7189a7959,,1008,False,False,0,2,True
+1384,coffee-leaf-diseases/train/images/1384.jpg,healthy,2048,1024,147fd2c04f0b347c,,1012,False,False,0,3,True
+1388,coffee-leaf-diseases/train/images/1388.jpg,healthy,2048,1024,207e86c1db673998,,1016,False,False,0,1,True
+1392,coffee-leaf-diseases/train/images/1392.jpg,healthy,2048,1024,305e97e16b03359c,,1020,False,False,0,1,True
+1396,coffee-leaf-diseases/train/images/1396.jpg,healthy,2048,1024,211b9749d86c3cb6,,1024,False,False,0,0,True
+1400,coffee-leaf-diseases/train/images/1400.jpg,healthy,2048,1024,353ed0c0cb433d0f,,1028,False,False,0,4,True
+1404,coffee-leaf-diseases/train/images/1404.jpg,healthy,2048,1024,1176d2cb4fa4345a,,1032,False,False,0,2,True
+1408,coffee-leaf-diseases/train/images/1408.jpg,healthy,2048,1024,216e96945a9a6dc9,,1036,False,False,0,3,True
+1412,coffee-leaf-diseases/train/images/1412.jpg,healthy,2048,1024,293d87d81e2638ec,,1040,False,False,0,2,True
+1416,coffee-leaf-diseases/train/images/1416.jpg,healthy,2048,1024,1436d2c84b87cc7e,,1044,False,False,0,0,True
+1420,coffee-leaf-diseases/train/images/1420.jpg,healthy,2048,1024,11e7921a4fb93466,,1048,False,False,0,1,True
+1424,coffee-leaf-diseases/train/images/1424.jpg,healthy,2048,1024,217797c91a6e6198,,1052,False,False,0,3,True
+1428,coffee-leaf-diseases/train/images/1428.jpg,healthy,2048,1024,293494c3ca3fc9f0,,1056,False,False,0,4,True
+1432,coffee-leaf-diseases/train/images/1432.jpg,rust,2048,1024,391c94f0d8ce4d65,,1060,False,False,3,0,True
+1440,coffee-leaf-diseases/train/images/1440.jpg,rust,2048,1024,2b3094e3db0f6998,,1064,False,False,3,4,True
+1452,coffee-leaf-diseases/train/images/1452.jpg,rust,2048,1024,2b709487ca5eed90,,1068,False,False,3,1,True
+1456,coffee-leaf-diseases/train/images/1456.jpg,rust,2048,1024,383dc2e0cd8fcc4c,,1072,False,False,3,2,True
+1460,coffee-leaf-diseases/train/images/1460.jpg,rust,2048,1024,390e91b0cfd34c69,,1076,False,False,3,3,True
+1464,coffee-leaf-diseases/train/images/1464.jpg,rust,2048,1024,2f34d0e38b17cd48,,1080,False,False,3,0,True
+1468,coffee-leaf-diseases/train/images/1468.jpg,rust,2048,1024,2c9c9075cba3cc4b,,1084,False,False,3,1,True
+1472,coffee-leaf-diseases/train/images/1472.jpg,rust,2048,1024,3031c7984dcd3c3e,,1088,False,False,3,2,True
+1476,coffee-leaf-diseases/train/images/1476.jpg,rust,2048,1024,213f96d31b0e253c,,1092,False,False,3,3,True
+1480,coffee-leaf-diseases/train/images/1480.jpg,miner,2048,1024,3d20d0938fac6cd5,,1096,False,False,1,4,True
+1484,coffee-leaf-diseases/train/images/1484.jpg,rust,2048,1024,2c6fc2b40f5a38a9,,1100,False,False,3,0,True
+1488,coffee-leaf-diseases/train/images/1488.jpg,rust,2048,1024,297380975acd3d0d,,1104,False,False,3,3,True
+1492,coffee-leaf-diseases/train/images/1492.jpg,rust,2048,1024,250c94934e9f3dcc,,1108,False,False,3,1,True
+1496,coffee-leaf-diseases/train/images/1496.jpg,miner,2048,1024,2519c6cd1e60f927,,1112,False,False,1,2,True
+1500,coffee-leaf-diseases/train/images/1500.jpg,miner,2048,1024,304dd39a4db34c69,,1116,False,False,1,4,True
+1504,coffee-leaf-diseases/train/images/1504.jpg,rust,2048,1024,242dc3e2da87989e,,1120,False,False,3,1,True
+1508,coffee-leaf-diseases/train/images/1508.jpg,rust,2048,1024,28199765da56d9c2,,1124,False,False,3,0,True
+1512,coffee-leaf-diseases/train/images/1512.jpg,rust,2048,1024,250cd2f8db31cc17,,1128,False,False,3,3,True
+1516,coffee-leaf-diseases/train/images/1516.jpg,rust,2048,1024,286985a5de9e3998,,1132,False,False,3,2,True
+1520,coffee-leaf-diseases/train/images/1520.jpg,rust,2048,1024,2d3294c91b4e6cb5,,1136,False,False,3,4,True
+1524,coffee-leaf-diseases/train/images/1524.jpg,rust,2048,1024,2416c37b9d67192c,,1140,False,False,3,4,True
+1528,coffee-leaf-diseases/train/images/1528.jpg,rust,2048,1024,212c96c35a9e2d79,,1144,False,False,3,0,True
+1532,coffee-leaf-diseases/train/images/1532.jpg,rust,2048,1024,286095945e9f3979,,1148,False,False,3,1,True
+1536,coffee-leaf-diseases/train/images/1536.jpg,rust,2048,1024,3471c2ce1cd378cc,,1152,False,False,3,2,True
+1540,coffee-leaf-diseases/train/images/1540.jpg,miner,2048,1024,2c39918f8abc3d13,,1156,False,False,1,3,True
+1544,coffee-leaf-diseases/train/images/1544.jpg,rust,2048,1024,2a2f81a497d53a9a,,1160,False,False,3,0,True
+1548,coffee-leaf-diseases/train/images/1548.jpg,rust,2048,1024,300187874fcf34ed,,1164,False,False,3,1,True
+1552,coffee-leaf-diseases/train/images/1552.jpg,rust,2048,1024,2566d29939b16566,,1168,False,False,3,2,True
+1556,coffee-leaf-diseases/train/images/1556.jpg,rust,2048,1024,216b85c51e9ef898,,1172,False,False,3,3,True
+1560,coffee-leaf-diseases/train/images/1560.jpg,miner,2048,1024,2b4ac7a49f961872,,1176,False,False,1,4,True
+1564,coffee-leaf-diseases/train/images/1564.jpg,rust,2048,1024,20f6927acb352c72,,1180,False,False,3,2,True
+1568,coffee-leaf-diseases/train/images/1568.jpg,rust,2048,1024,20ff87307a6324cd,,1184,False,False,3,0,True
+1572,coffee-leaf-diseases/train/images/1572.jpg,rust,2048,1024,3030c7cb3d9c6473,,1188,False,False,3,3,True
+1576,coffee-leaf-diseases/train/images/1576.jpg,rust,2048,1024,283f85b45af2390b,,1192,False,False,3,4,True
+1580,coffee-leaf-diseases/train/images/1580.jpg,rust,2048,1024,3430c3994fcf4c8e,,1196,False,False,3,1,True
+1584,coffee-leaf-diseases/train/images/1584.jpg,healthy,2048,1024,204e873c1a7365cf,,1200,False,False,0,1,True
+1588,coffee-leaf-diseases/train/images/1588.jpg,rust,2048,1024,24ecc6c2ca9639d9,,1204,False,False,3,0,True
+1592,coffee-leaf-diseases/train/images/1592.jpg,rust,2048,1024,297f90b48b726c61,,1208,False,False,3,2,True
+1596,coffee-leaf-diseases/train/images/1596.jpg,rust,2048,1024,283a97e59a076978,,1212,False,False,3,3,True
+64,coffee-leaf-diseases/test/images/64.jpg,miner,2048,1024,244ed3fb4b603487,,1216,False,False,1,4,True
+68,coffee-leaf-diseases/test/images/68.jpg,miner,2048,1024,251e96e97926651a,,1220,False,False,1,2,True
+72,coffee-leaf-diseases/test/images/72.jpg,miner,2048,1024,2c3595c25b8d693a,,1224,False,False,1,1,True
+76,coffee-leaf-diseases/test/images/76.jpg,miner,2048,1024,2173d2854fda2c2d,,1228,False,False,1,0,True
+80,coffee-leaf-diseases/test/images/80.jpg,miner,2048,1024,2433c3876fcd3434,,1232,False,False,1,3,True
+84,coffee-leaf-diseases/test/images/84.jpg,miner,2048,1024,2066851f9e3968db,,1236,False,False,1,4,True
+88,coffee-leaf-diseases/test/images/88.jpg,miner,2048,1024,2561c4f59a9a399c,,1240,False,False,1,0,True
+92,coffee-leaf-diseases/test/images/92.jpg,miner,2048,1024,216d95d24e8f316c,,1244,False,False,1,3,True
+96,coffee-leaf-diseases/test/images/96.jpg,miner,2048,1024,2563d2871bca343d,,1248,False,False,1,4,True
+500,coffee-leaf-diseases/test/images/500.jpg,phoma,2048,1024,3524d291cfcb6c8c,,1252,False,False,2,1,True
+504,coffee-leaf-diseases/test/images/504.jpg,phoma,2048,1024,25309acf399c6761,,1256,False,False,2,2,True
+508,coffee-leaf-diseases/test/images/508.jpg,phoma,2048,1024,311c97e1cd5b64a4,,1260,False,False,2,0,True
+512,coffee-leaf-diseases/test/images/512.jpg,phoma,2048,1024,341ecbe0cd633694,,1264,False,False,2,1,True
+516,coffee-leaf-diseases/test/images/516.jpg,phoma,2048,1024,25469a791c9b63e4,,1268,False,False,2,2,True
+520,coffee-leaf-diseases/test/images/520.jpg,phoma,2048,1024,216797b1489c65c7,,1272,False,False,2,3,True
+524,coffee-leaf-diseases/test/images/524.jpg,phoma,2048,1024,32319bc74dc6c68c,,1276,False,False,2,1,True
+528,coffee-leaf-diseases/test/images/528.jpg,phoma,2048,1024,243397cd799d2432,,1280,False,False,2,4,True
+532,coffee-leaf-diseases/test/images/532.jpg,phoma,2048,1024,203c96c3cb1f2dd8,,1284,False,False,2,0,True
+536,coffee-leaf-diseases/test/images/536.jpg,phoma,2048,1024,3473c38d2cccb427,,1288,False,False,2,2,True
+540,coffee-leaf-diseases/test/images/540.jpg,phoma,2048,1024,3561c3960cd978cd,,1292,False,False,2,3,True
+544,coffee-leaf-diseases/test/images/544.jpg,phoma,2048,1024,316fc6c41c9b321b,,1296,False,False,2,4,True
+548,coffee-leaf-diseases/test/images/548.jpg,phoma,2048,1024,24cd9a363d6b60cc,,1300,False,False,2,0,True
+552,coffee-leaf-diseases/test/images/552.jpg,phoma,2048,1024,307193964fceb08d,,1304,False,False,2,1,True
+556,coffee-leaf-diseases/test/images/556.jpg,phoma,2048,1024,3061879e6dc936a6,,1308,False,False,2,4,True
+560,coffee-leaf-diseases/test/images/560.jpg,phoma,2048,1024,216cd7961c5971a5,,1312,False,False,2,2,True
+564,coffee-leaf-diseases/test/images/564.jpg,phoma,2048,1024,3196c76d0c74689b,,1316,False,False,2,2,True
+568,coffee-leaf-diseases/test/images/568.jpg,phoma,2048,1024,309e87654a721cbb,,1320,False,False,2,3,True
+572,coffee-leaf-diseases/test/images/572.jpg,phoma,2048,1024,303cd3c1cdcf2c8c,,1324,False,False,2,0,True
+576,coffee-leaf-diseases/test/images/576.jpg,phoma,2048,1024,256b96941bda6127,,1328,False,False,2,1,True
+580,coffee-leaf-diseases/test/images/580.jpg,phoma,2048,1024,3169c7941e9b306d,,1332,False,False,2,3,True
+584,coffee-leaf-diseases/test/images/584.jpg,healthy,2048,1024,213386ef98cc399c,,1336,False,False,0,2,True
+588,coffee-leaf-diseases/test/images/588.jpg,phoma,2048,1024,394cc194cf926c79,,1340,False,False,2,4,True
+592,coffee-leaf-diseases/test/images/592.jpg,phoma,2048,1024,346cc3c69c1b38b3,,1344,False,False,2,0,True
+596,coffee-leaf-diseases/test/images/596.jpg,phoma,2048,1024,2473c6965968399d,,1348,False,False,2,3,True
+1100,coffee-leaf-diseases/test/images/1100.jpg,miner,2048,1024,2539c6c7989cb992,,1352,False,False,1,1,True
+1108,coffee-leaf-diseases/test/images/1108.jpg,miner,2048,1024,316dc2968f9ac8c9,,1356,False,False,1,2,True
+1112,coffee-leaf-diseases/test/images/1112.jpg,miner,2048,1024,3439c3c38f8e985c,,1360,False,False,1,2,True
+1116,coffee-leaf-diseases/test/images/1116.jpg,healthy,2048,1024,2d30d2c38b87f8cc,,1364,False,False,0,4,True
+1120,coffee-leaf-diseases/test/images/1120.jpg,rust,2048,1024,2f32d0c1cb1c3d1e,,1368,False,False,3,0,True
+1124,coffee-leaf-diseases/test/images/1124.jpg,healthy,2048,1024,2826973cdac1199f,,1372,False,False,0,1,True
+1128,coffee-leaf-diseases/test/images/1128.jpg,miner,2048,1024,2c4c87b49e9a5993,,1376,False,False,1,4,True
+1132,coffee-leaf-diseases/test/images/1132.jpg,miner,2048,1024,244dd2b1cb1b1df0,,1380,False,False,1,3,True
+1136,coffee-leaf-diseases/test/images/1136.jpg,miner,2048,1024,206c9396cc5b9cb9,,1384,False,False,1,1,True
+1144,coffee-leaf-diseases/test/images/1144.jpg,healthy,2048,1024,356dc2928e9b389c,,1388,False,False,0,2,True
+1148,coffee-leaf-diseases/test/images/1148.jpg,miner,2048,1024,345bc3b0cf271c68,,1392,False,False,1,0,True
+1152,coffee-leaf-diseases/test/images/1152.jpg,miner,2048,1024,3139c7e3c8cb0d8c,,1396,False,False,1,4,True
+1156,coffee-leaf-diseases/test/images/1156.jpg,miner,2048,1024,393bc0e19bce690c,,820,False,False,1,0,False
+1160,coffee-leaf-diseases/test/images/1160.jpg,healthy,2048,1024,3899d26ccbe62c23,,1404,False,False,0,0,True
+1164,coffee-leaf-diseases/test/images/1164.jpg,healthy,2048,1024,393892b2cbc36c8d,,1408,False,False,0,3,True
+1168,coffee-leaf-diseases/test/images/1168.jpg,healthy,2048,1024,256d9296199b3179,,1412,False,False,0,1,True
+1172,coffee-leaf-diseases/test/images/1172.jpg,healthy,2048,1024,20f187cf1acc653a,,1416,False,False,0,2,True
+1176,coffee-leaf-diseases/test/images/1176.jpg,healthy,2048,1024,2803873ece706de3,,1420,False,False,0,3,True
+1184,coffee-leaf-diseases/test/images/1184.jpg,healthy,2048,1024,3032d2c9cb3b3de0,,1428,False,False,0,4,True
+1188,coffee-leaf-diseases/test/images/1188.jpg,healthy,2048,1024,313e83e18c9f6c98,,1432,False,False,0,2,True
+1192,coffee-leaf-diseases/test/images/1192.jpg,healthy,2048,1024,20699793daca6d4c,,1436,False,False,0,0,True
+1196,coffee-leaf-diseases/test/images/1196.jpg,healthy,2048,1024,24cec6f19a0e39e8,,1440,False,False,0,1,True
+1200,coffee-leaf-diseases/test/images/1200.jpg,healthy,2048,1024,2c6d86b09a1e39b9,,1444,False,False,0,3,True
+1204,coffee-leaf-diseases/test/images/1204.jpg,healthy,2048,1024,2596c279cb253c72,,1448,False,False,0,4,True
+1208,coffee-leaf-diseases/test/images/1208.jpg,healthy,2048,1024,2d6dd0d0ca123db9,,1452,False,False,0,0,True
+1212,coffee-leaf-diseases/test/images/1212.jpg,healthy,2048,1024,296e8781da32393d,,1456,False,False,0,1,True
+1216,coffee-leaf-diseases/test/images/1216.jpg,healthy,2048,1024,313cc28799f16939,,1460,False,False,0,4,True
+1220,coffee-leaf-diseases/test/images/1220.jpg,healthy,2048,1024,2452c729993633f6,,1464,False,False,0,2,True
+1224,coffee-leaf-diseases/test/images/1224.jpg,healthy,2048,1024,341bc2848f7a7ca5,,1468,False,False,0,3,True
+1228,coffee-leaf-diseases/test/images/1228.jpg,healthy,2048,1024,286c85999e6378bc,,1472,False,False,0,0,True
+1232,coffee-leaf-diseases/test/images/1232.jpg,miner,2048,1024,3863d296cb1e4de0,,1476,False,False,1,3,True
+1236,coffee-leaf-diseases/test/images/1236.jpg,healthy,2048,1024,286bc5949f76388a,,1480,False,False,0,1,True
+1240,coffee-leaf-diseases/test/images/1240.jpg,healthy,2048,1024,2d4fc4bc1a122dcb,,1484,False,False,0,2,True
+1244,coffee-leaf-diseases/test/images/1244.jpg,miner,2048,1024,283e94e11b4769bc,,1488,False,False,1,2,True
+1248,coffee-leaf-diseases/test/images/1248.jpg,miner,2048,1024,314d9692c93b9c65,,1492,False,False,1,4,True
+1252,coffee-leaf-diseases/test/images/1252.jpg,rust,2048,1024,2fccd03ccba23c31,,1496,False,False,3,1,True
+1256,coffee-leaf-diseases/test/images/1256.jpg,miner,2048,1024,246dc6d31cce391c,,1500,False,False,1,0,True
+1260,coffee-leaf-diseases/test/images/1260.jpg,miner,2048,1024,016d951e1af1634f,,1504,False,False,1,3,True
+1264,coffee-leaf-diseases/test/images/1264.jpg,miner,2048,1024,2834954acb393cf5,,1508,False,False,1,4,True
+1268,coffee-leaf-diseases/test/images/1268.jpg,miner,2048,1024,216dd7921a95714b,,1512,False,False,1,0,True
+1272,coffee-leaf-diseases/test/images/1272.jpg,miner,2048,1024,286cd4d00b93797b,,1516,False,False,1,1,True
+1276,coffee-leaf-diseases/test/images/1276.jpg,miner,2048,1024,354fd0b4cf422c39,,1520,False,False,1,2,True
+1284,coffee-leaf-diseases/test/images/1284.jpg,miner,2048,1024,0217c5693e27709f,,1524,False,False,1,3,True
+1288,coffee-leaf-diseases/test/images/1288.jpg,healthy,2048,1024,2464c64f59d03d9b,,1528,False,False,0,4,True
+1292,coffee-leaf-diseases/test/images/1292.jpg,miner,2048,1024,294fd4ac9a121db3,,1532,False,False,1,1,True
+1296,coffee-leaf-diseases/test/images/1296.jpg,healthy,2048,1024,292ec6b05a9b6939,,1536,False,False,0,2,True
+1600,coffee-leaf-diseases/test/images/1600.jpg,rust,2048,1024,280995c79e9e68dc,,1540,False,False,3,0,True
+1604,coffee-leaf-diseases/test/images/1604.jpg,rust,2048,1024,297ec2b16f72308c,,1544,False,False,3,3,True
+1608,coffee-leaf-diseases/test/images/1608.jpg,rust,2048,1024,2c0d97d24b9f3c48,,1548,False,False,3,4,True
+1612,coffee-leaf-diseases/test/images/1612.jpg,rust,2048,1024,256dc39619cb7035,,1552,False,False,3,0,True
+1616,coffee-leaf-diseases/test/images/1616.jpg,rust,2048,1024,2c7bc29c0bdb3425,,1556,False,False,3,3,True
+1620,coffee-leaf-diseases/test/images/1620.jpg,rust,2048,1024,2476c78d1ada6435,,1560,False,False,3,1,True
+1624,coffee-leaf-diseases/test/images/1624.jpg,healthy,2048,1024,2567d2c3199c6571,,1564,False,False,0,2,True
+1628,coffee-leaf-diseases/test/images/1628.jpg,healthy,2048,1024,21cec6341b7261ed,,1568,False,False,0,4,True
+1632,coffee-leaf-diseases/test/images/1632.jpg,rust,2048,1024,216d96179ac6391b,,1572,False,False,3,4,True
+1636,coffee-leaf-diseases/test/images/1636.jpg,rust,2048,1024,2561d3961cd36c8d,,1576,False,False,3,1,True
+1640,coffee-leaf-diseases/test/images/1640.jpg,rust,2048,1024,306d87935e92616d,,1580,False,False,3,0,True
+1644,coffee-leaf-diseases/test/images/1644.jpg,rust,2048,1024,240dd63659c339dc,,1584,False,False,3,2,True
+1648,coffee-leaf-diseases/test/images/1648.jpg,rust,2048,1024,21729695dacb29b8,,1588,False,False,3,3,True
+1652,coffee-leaf-diseases/test/images/1652.jpg,rust,2048,1024,210196c69b9e71f9,,1592,False,False,3,4,True
+1656,coffee-leaf-diseases/test/images/1656.jpg,healthy,2048,1024,28ca85b99a627967,,1596,False,False,0,2,True
+1660,coffee-leaf-diseases/test/images/1660.jpg,rust,2048,1024,290f86d21b9f3169,,1600,False,False,3,0,True

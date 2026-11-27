@@ -1,5 +1,5 @@
-label,raw,phash_retained,independent_groups,group_percent_of_raw
-cercospora,7681,89,21,0.27340190079416743
-leaf_rust,8336,611,71,0.8517274472168906
-miner,16978,451,50,0.29449876310519496
-phoma,6571,196,70,1.0652868665347741
+label,raw_single_label,phash_retained,independent_leaves,retained_percent
+healthy,400,99,99,24.75
+miner,400,101,99,24.75
+phoma,484,119,118,24.380165289256198
+rust,320,79,79,24.6875

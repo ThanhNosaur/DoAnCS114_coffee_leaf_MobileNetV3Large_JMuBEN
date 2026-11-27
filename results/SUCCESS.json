@@ -1,39 +1,82 @@
 {
   "status": "complete",
-  "pipeline": "pure-jmuben-4cls-5fold-tta",
+  "pipeline": "bracol-4cls-5fold-tta",
   "metrics": {
+    "dataset": "BRACOL (Brazilian Arabica Coffee Leaf)",
     "n_splits": 5,
     "classes": [
-      "cercospora",
-      "leaf_rust",
+      "healthy",
       "miner",
-      "phoma"
+      "phoma",
+      "rust"
     ],
-    "oof_total_groups": 212,
-    "cv_single_accuracy_mean": 0.939211209133368,
-    "cv_single_accuracy_std": 0.03576311027139177,
-    "cv_single_macro_f1_mean": 0.9262356041392588,
-    "cv_single_macro_f1_std": 0.04782892828095491,
-    "cv_tta_accuracy_mean": 0.9489673066943436,
-    "cv_tta_accuracy_std": 0.029292058645130365,
-    "cv_tta_macro_f1_mean": 0.9342788961299192,
-    "cv_tta_macro_f1_std": 0.04895167250944636,
-    "cv_tta_weighted_f1_mean": 0.9497702164266215,
-    "cv_tta_weighted_f1_std": 0.028610825517938587,
-    "oof_single_accuracy": 0.9433962264150944,
-    "oof_single_macro_f1": 0.9389603946704281,
-    "oof_tta_accuracy": 0.9528301886792453,
-    "oof_tta_macro_f1": 0.9468664061369227,
-    "oof_tta_weighted_f1": 0.9529001002247547,
-    "training_seconds": 483.5485738530001,
+    "oof_total_leaves": 395,
+    "cv_single_accuracy_mean": 0.9468338201882505,
+    "cv_single_accuracy_std": 0.037335582981616586,
+    "cv_single_macro_f1_mean": 0.9478627291719779,
+    "cv_single_macro_f1_std": 0.037545185942763515,
+    "cv_tta_accuracy_mean": 0.9594928594612139,
+    "cv_tta_accuracy_std": 0.03151804071744122,
+    "cv_tta_macro_f1_mean": 0.9604842936750817,
+    "cv_tta_macro_f1_std": 0.030379964902911852,
+    "cv_tta_weighted_f1_mean": 0.9594816068500316,
+    "cv_tta_weighted_f1_std": 0.0314798563522187,
+    "oof_single_accuracy": 0.9468354430379747,
+    "oof_single_macro_f1": 0.9475476081842469,
+    "oof_tta_accuracy": 0.959493670886076,
+    "oof_tta_macro_f1": 0.9607218353785976,
+    "oof_tta_weighted_f1": 0.9594162463371115,
+    "training_seconds": 523.5972321490001,
     "parameters": 4207156,
     "seed": 42
   },
-  "leakage_audit": {
-    "all5folds_max_cross_cos": 0.8499,
-    "all5folds_mean_frozen_1nn_agreement": 0.9125,
-    "fold0_test_to_train_max_cos": 0.849,
-    "fold0_test_to_train_median_cos": 0.7722
+  "audit": {
+    "raw_csv_rows": 1664,
+    "excluded_multilabel_rows": 60,
+    "missing_files": 0,
+    "single_label_raw_count": 1604,
+    "corrupt_count": 0,
+    "phash_dedup_count": 398,
+    "conflict_groups": 2,
+    "conflict_images": 16,
+    "independent_leaves": 395,
+    "imbalance_ratio": 1.49,
+    "n_splits": 5,
+    "phash_threshold": 4,
+    "val_test_one_rep_per_group": true,
+    "fold_group_counts": {
+      "0": {
+        "healthy": 23,
+        "miner": 17,
+        "phoma": 23,
+        "rust": 16
+      },
+      "1": {
+        "healthy": 18,
+        "miner": 19,
+        "phoma": 23,
+        "rust": 18
+      },
+      "2": {
+        "healthy": 18,
+        "miner": 20,
+        "phoma": 24,
+        "rust": 17
+      },
+      "3": {
+        "healthy": 23,
+        "miner": 17,
+        "phoma": 24,
+        "rust": 15
+      },
+      "4": {
+        "healthy": 17,
+        "miner": 26,
+        "phoma": 24,
+        "rust": 13
+      }
+    },
+    "mean_frozen_1nn_agreement": 0.853
   },
   "inference_verified": true,
   "torchscript_verified": true

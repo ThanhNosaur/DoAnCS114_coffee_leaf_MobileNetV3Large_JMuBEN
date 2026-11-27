@@ -1,14 +1,14 @@
 {
-  "id": "ngtunthanh/mobilenetv3large-jmuben",
-  "title": "MobileNetV3Large JMuBEN",
-  "code_file": "mobilenetv3large_jmuben.ipynb",
+  "id": "ngtunthanh/mobilenetv3large-bracol",
+  "title": "MobileNetV3Large BRACOL",
+  "code_file": "mobilenetv3large_bracol.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": "true",
   "enable_gpu": "true",
   "enable_internet": "false",
   "dataset_sources": [
-    "noamaanabdulazeem/jmuben-coffee-dataset",
+    "badasstechie/coffee-leaf-diseases",
     "ngtunthanh/mobilenetv3-large-imagenet-weights"
   ],
   "competition_sources": [],

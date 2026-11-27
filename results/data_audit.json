@@ -1,54 +1,48 @@
 {
-  "raw_total_jmuben": 58549,
-  "excluded_jmuben_healthy_raw": 18983,
-  "excluded_jmuben_healthy_canonical": 15,
-  "excluded_jmuben_healthy_reason": "Only 2 unique original leaves across 18,983 images; excluded to avoid mandatory leakage and external-source domain shift.",
-  "raw_4disease_count": 39566,
+  "raw_csv_rows": 1664,
+  "excluded_multilabel_rows": 60,
+  "missing_files": 0,
+  "single_label_raw_count": 1604,
   "corrupt_count": 0,
-  "phash_dedup_count": 1347,
-  "conflict_images": 0,
-  "conflict_groups": 0,
-  "independent_groups": 212,
+  "phash_dedup_count": 398,
+  "conflict_groups": 2,
+  "conflict_images": 16,
+  "independent_leaves": 395,
+  "imbalance_ratio": 1.49,
   "n_splits": 5,
   "phash_threshold": 4,
-  "emb_cosine_threshold": 0.85,
   "val_test_one_rep_per_group": true,
   "fold_group_counts": {
     "0": {
-      "cercospora": 1,
-      "leaf_rust": 9,
-      "miner": 8,
-      "phoma": 12
+      "healthy": 23,
+      "miner": 17,
+      "phoma": 23,
+      "rust": 16
     },
     "1": {
-      "cercospora": 5,
-      "leaf_rust": 16,
-      "miner": 9,
-      "phoma": 17
+      "healthy": 18,
+      "miner": 19,
+      "phoma": 23,
+      "rust": 18
     },
     "2": {
-      "cercospora": 4,
-      "leaf_rust": 14,
-      "miner": 10,
-      "phoma": 13
+      "healthy": 18,
+      "miner": 20,
+      "phoma": 24,
+      "rust": 17
     },
     "3": {
-      "cercospora": 4,
-      "leaf_rust": 17,
-      "miner": 9,
-      "phoma": 17
+      "healthy": 23,
+      "miner": 17,
+      "phoma": 24,
+      "rust": 15
     },
     "4": {
-      "cercospora": 7,
-      "leaf_rust": 15,
-      "miner": 14,
-      "phoma": 11
+      "healthy": 17,
+      "miner": 26,
+      "phoma": 24,
+      "rust": 13
     }
   },
-  "cross_fold_leakage_audit": {
-    "all5folds_max_cross_cos": 0.8499,
-    "all5folds_mean_frozen_1nn_agreement": 0.9125,
-    "fold0_test_to_train_max_cos": 0.849,
-    "fold0_test_to_train_median_cos": 0.7722
-  }
+  "mean_frozen_1nn_agreement": 0.853
 }
