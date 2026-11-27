@@ -1,73 +1,54 @@
 {
-  "raw_count": 59340,
+  "raw_total_jmuben": 58549,
+  "excluded_jmuben_healthy_raw": 18983,
+  "excluded_jmuben_healthy_canonical": 15,
+  "excluded_jmuben_healthy_reason": "Only 2 unique original leaves across 18,983 images; excluded to avoid mandatory leakage and external-source domain shift.",
+  "raw_4disease_count": 39566,
   "corrupt_count": 0,
-  "phash_dedup_count": 2106,
+  "phash_dedup_count": 1347,
   "conflict_images": 0,
   "conflict_groups": 0,
-  "independent_groups": 569,
+  "independent_groups": 212,
   "n_splits": 5,
   "phash_threshold": 4,
   "emb_cosine_threshold": 0.85,
   "val_test_one_rep_per_group": true,
-  "rocole_leaf_ids_audited": 384,
   "fold_group_counts": {
     "0": {
       "cercospora": 1,
-      "healthy": 65,
-      "leaf_rust": 14,
-      "miner": 7,
-      "phoma": 14
+      "leaf_rust": 9,
+      "miner": 8,
+      "phoma": 12
     },
     "1": {
-      "cercospora": 6,
-      "healthy": 71,
-      "leaf_rust": 15,
-      "miner": 12,
-      "phoma": 15
-    },
-    "2": {
-      "cercospora": 2,
-      "healthy": 76,
+      "cercospora": 5,
       "leaf_rust": 16,
       "miner": 9,
-      "phoma": 15
+      "phoma": 17
+    },
+    "2": {
+      "cercospora": 4,
+      "leaf_rust": 14,
+      "miner": 10,
+      "phoma": 13
     },
     "3": {
-      "cercospora": 5,
-      "healthy": 73,
-      "leaf_rust": 12,
-      "miner": 12,
-      "phoma": 11
+      "cercospora": 4,
+      "leaf_rust": 17,
+      "miner": 9,
+      "phoma": 17
     },
     "4": {
       "cercospora": 7,
-      "healthy": 72,
-      "leaf_rust": 14,
-      "miner": 10,
-      "phoma": 15
-    }
-  },
-  "source_group_counts": {
-    "jmuben": {
-      "cercospora": 21,
-      "healthy": 0,
-      "leaf_rust": 71,
-      "miner": 50,
-      "phoma": 70
-    },
-    "rocole": {
-      "cercospora": 0,
-      "healthy": 357,
-      "leaf_rust": 0,
-      "miner": 0,
-      "phoma": 0
+      "leaf_rust": 15,
+      "miner": 14,
+      "phoma": 11
     }
   },
   "cross_fold_leakage_audit": {
-    "jmuben_all5folds_max_cross_cos": 0.8499195575714111,
-    "jmuben_all5folds_mean_frozen_1nn_agreement": 0.914,
-    "jmuben_fold0_test_to_train_max_cos": 0.8461,
-    "jmuben_fold0_test_to_train_median_cos": 0.8092
-  },
-  "domain_shift_note": "JMuBEN Healthy had only 2 unique original leaves; RoCoLe coffee___healthy was used for healthy (grouped by C<x>P<y> leaf_id), introducing Robusta field-background domain shift."
+    "all5folds_max_cross_cos": 0.8499,
+    "all5folds_mean_frozen_1nn_agreement": 0.9125,
+    "fold0_test_to_train_max_cos": 0.849,
+    "fold0_test_to_train_median_cos": 0.7722
+  }
 }

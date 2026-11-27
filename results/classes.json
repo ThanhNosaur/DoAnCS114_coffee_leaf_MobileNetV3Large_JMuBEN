@@ -1,7 +1,6 @@
 {
   "cercospora": 0,
-  "healthy": 1,
-  "leaf_rust": 2,
-  "miner": 3,
-  "phoma": 4
+  "leaf_rust": 1,
+  "miner": 2,
+  "phoma": 3
 }

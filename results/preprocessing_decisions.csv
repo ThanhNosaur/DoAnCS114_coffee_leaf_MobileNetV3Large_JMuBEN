@@ -1,6 +1,6 @@
 Phát hiện,Rủi ro,Quyết định,Kiểm chứng
-Nhãn thô không đồng nhất,Tách sai lớp,"Chuẩn hóa snake_case, sửa Cerscospora",raw_manifest.csv
-Ít lá Healthy gốc trong JMuBEN,Khó tạo đủ nhóm lá cho cả ba tập,"Thay bằng RoCoLe coffee___healthy (gộp mã lá C<x>P<y>), ghi rõ domain shift",data_audit.json
-"Ảnh gần trùng do dịch chuyển, thu phóng hoặc làm mờ",pHash có thể bỏ sót ảnh gần trùng,Gộp 2 tầng: pHash + frozen CNN cosine >= 0.85,group_audit.csv
-Ít nhóm cercospora,Kết quả từ một lần chia dễ dao động,5-Fold StratifiedGroupKFold CV (mean ± std + OOF toàn bộ nhóm),cv_fold_results.csv
-Số nhóm lá dùng để học còn hạn chế,Mô hình dễ quá khớp,CosineAnnealingLR + label_smoothing=0.05 + weight_decay=1e-3 + RandomErasing,learning_curves.png
+Nhãn thô viết sai chính tả,Tách sai lớp,Chuẩn hóa Cerscospora → cercospora,raw_manifest.csv
+JMuBEN/Healthy chỉ có 2 lá gốc,Bắt buộc leak hoặc domain shift nếu trộn nguồn ngoài,"Loại Healthy, đánh giá thuần 4 bệnh JMuBEN (0% domain shift)",healthy_2leaf_evidence.png
+Near-duplicate shift/zoom/blur,pHash ngưỡng 4 bỏ sót ~77% test,Gộp 2 tầng: pHash + frozen CNN cosine >= 0.85,group_audit.csv
+Độ tin cậy thống kê (212 nhóm),1 split có phương sai cao,5-Fold StratifiedGroupKFold CV (mean ± std + OOF 212 nhóm),cv_fold_results.csv
+Overfitting & biến thiên góc chụp,val_loss tăng khi fine-tune,CosineAnnealingLR + label_smoothing=0.05 + RandomErasing + 8-view TTA,learning_curves.png
